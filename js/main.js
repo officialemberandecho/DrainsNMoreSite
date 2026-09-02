@@ -7,6 +7,13 @@ if (navToggle && navMenu) {
     const isOpen = navMenu.classList.toggle('hidden');
     navToggle.setAttribute('aria-expanded', String(!isOpen));
   });
+
+  for (const link of navMenu.querySelectorAll('a')) {
+    link.addEventListener('click', () => {
+      navMenu.classList.add('hidden');
+      navToggle.setAttribute('aria-expanded', 'false');
+    });
+  }
 }
 
 if (yearNode) {
