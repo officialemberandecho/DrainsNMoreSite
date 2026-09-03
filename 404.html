@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting | Drains N More</title>
+  <script>
+    // Grab the incoming dead path and normalize it (lowercase, strip trailing slashes)
+    const rawPath = window.location.pathname.toLowerCase();
+    const cleanPath = rawPath.replace(/\/+$/, "");
+
+    // Exact route map for Dalton's old site URLs to your new live sections
+    const redirectMap = {
+      "/contact": "/#contact",
+      "/gallery": "/#gallery",
+      "/areas-we-serve": "/#service-areas",
+      "/services": "/#services",
+      "/reviews": "/#reviews",
+      "/about": "/#about"
+    };
+
+    // If the path matches one of the 6 dead sitelinks, smoothly route there
+    if (redirectMap[cleanPath]) {
+      window.location.replace(redirectMap[cleanPath]);
+    } else {
+      // Fallback: If it's any other random old URL, drop them safely on the homepage
+      window.location.replace("/");
+    }
+  </script>
+</head>
+<body style="background-color: #020617; color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0;">
+  <div style="text-align: center; padding: 20px;">
+    <div style="font-size: 24px; font-weight: 800; margin-bottom: 8px; color: #f59e0b;">DRAINS N MORE</div>
+    <p style="font-size: 14px; color: #94a3b8; margin: 0;">Connecting you to our updated service platform...</p>
+  </div>
+</body>
+</html>
+
