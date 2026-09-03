@@ -3,6 +3,7 @@ const navMenu = document.querySelector('[data-nav]');
 const yearNode = document.getElementById('year');
 
 if (navToggle && navMenu) {
+  if (!navMenu.id) navMenu.id = 'mobile-menu';
   navToggle.addEventListener('click', () => {
     const isOpen = navMenu.classList.toggle('hidden');
     navToggle.setAttribute('aria-expanded', String(!isOpen));
@@ -32,6 +33,7 @@ for (const leadForm of document.querySelectorAll('[data-lead-form]')) {
       statusNode.textContent = 'Sending your request...';
       statusNode.className = 'mt-3 text-sm text-slate-300';
     }
+    leadForm.setAttribute('aria-busy', 'true');
     if (submitButton) submitButton.disabled = true;
 
     try {
@@ -39,7 +41,7 @@ for (const leadForm of document.querySelectorAll('[data-lead-form]')) {
         method: 'POST',
         body: formData
       });
-      const result = await response.json();
+      const result = await response.json().catch(() => ({ success: false }));
 
       if (!response.ok || !result.success) {
         throw new Error(result.message || 'Unable to send your request.');
@@ -56,6 +58,7 @@ for (const leadForm of document.querySelectorAll('[data-lead-form]')) {
         statusNode.className = 'mt-3 text-sm font-semibold text-red-300';
       }
     } finally {
+      leadForm.removeAttribute('aria-busy');
       if (submitButton) submitButton.disabled = false;
     }
   });
