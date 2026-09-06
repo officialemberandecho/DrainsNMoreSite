@@ -1,10 +1,13 @@
 {
   "private": true,
   "scripts": {
-    "build": "npm run build:html && npm run build:css",
+    "build": "npm run build:html && npm run build:css && npm run build:sitemap",
     "build:html": "node tools/build-partials.mjs",
     "build:css": "tailwindcss -i ./tailwind-input.css -o ./css/tailwind.css --minify",
-    "check:html": "node tools/build-partials.mjs --check"
+    "build:sitemap": "node tools/build-sitemap.mjs",
+    "check": "npm run check:html && npm run check:sitemap",
+    "check:html": "node tools/build-partials.mjs --check",
+    "check:sitemap": "node tools/build-sitemap.mjs --check"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17"
