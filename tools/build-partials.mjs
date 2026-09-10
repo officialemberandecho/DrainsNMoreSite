@@ -69,6 +69,7 @@ const PAGES = {
 
   'blue-springs-plumber.html': city('Blue Springs, MO', 'Blue Springs Plumber'),
   'downtown-kansas-city-plumber.html': city('Downtown Kansas City, MO', 'Downtown Kansas City Plumber'),
+  'gladstone-plumber.html': city('Gladstone, MO', 'Gladstone Plumber'),
   'independence-plumber.html': city('Independence, MO', 'Independence Plumber'),
   'lees-summit-plumber.html': city("Lee's Summit, MO", "Lee's Summit Plumber"),
   'midtown-kansas-city-plumber.html': city('Midtown Kansas City, MO', 'Midtown Kansas City Plumber'),
