@@ -1,4 +1,19 @@
 User-agent: *
 Allow: /
 
+# Block legacy WordPress paths
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /wp-cron.php
+Disallow: /xmlrpc.php
+Disallow: /blog/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /?s=
+Disallow: /page/
+
 Sitemap: https://drainsnmorellc.com/sitemap.xml
