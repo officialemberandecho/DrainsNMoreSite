@@ -92,9 +92,9 @@
       @media(max-height:500px){.short\:py-1{padding-top:.25rem;padding-bottom:.25rem}.short\:py-2{padding-top:.5rem;padding-bottom:.5rem}.short\:h-20{height:5rem}}
       @media(min-width:768px) and (min-height:501px){.mdtall\:h-28{height:7rem}}
     </style>
-    <!-- Non-critical stylesheet deferred: never blocks FCP (PRIORITY 1) -->
-    <link rel="preload" href="css/tailwind.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript><link rel="stylesheet" href="css/tailwind.css" /></noscript>
+    <!-- Stylesheet loaded synchronously to prevent CLS reflow from deferred load.
+         Critical CSS above handles FCP; full stylesheet handles layout stability. -->
+    <link rel="stylesheet" href="css/tailwind.css" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -260,8 +260,8 @@
         <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 short:py-2">
           <a href="#top" class="flex items-center gap-2 shrink-0" aria-label="Drains N More LLC home">
             <picture>
-              <source type="image/webp" srcset="assets/images/Drains_N_More_LLC_Logo.webp" />
-              <img src="assets/images/Drains_N_More_LLC_Logo.png" alt="Drains N More LLC logo" width="560" height="514" fetchpriority="high" decoding="async" class="h-24 w-auto mdtall:h-28 short:h-20 object-contain filter drop-shadow-lg" />
+              <source type="image/webp" srcset="assets/images/Drains_N_More_LLC_Logo.webp" sizes="(max-width: 768px) 80px, 105px" />
+              <img src="assets/images/Drains_N_More_LLC_Logo.png" alt="Drains N More LLC logo" width="105" height="96" fetchpriority="high" decoding="async" class="h-24 w-auto mdtall:h-28 short:h-20 object-contain filter drop-shadow-lg" style="aspect-ratio:560/514" />
             </picture>
           </a>
           <button type="button" class="inline-flex h-11 w-11 flex-col items-center justify-center gap-1.5 rounded-lg border-2 border-white bg-orange-500 hover:bg-orange-600 transition md:hidden" aria-label="Toggle menu" data-nav-toggle>
