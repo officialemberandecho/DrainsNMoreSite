@@ -16,7 +16,7 @@
   <link rel="canonical" href="https://drainsnmorellc.com/gladstone-plumber.html" />
   <link rel="preconnect" href="https://cdn.callrail.com" crossorigin />
   <link rel="dns-prefetch" href="https://cdn.callrail.com" />
-  <link rel="stylesheet" href="css/tailwind.css" />
+  <link rel="preload" href="css/tailwind.css" as="style" onload="this.onload=null;this.rel='stylesheet'" /><noscript><link rel="stylesheet" href="css/tailwind.css" /></noscript>
   <style>
     html { scroll-behavior: smooth; }
     body { font-family: Arial, Helvetica, sans-serif; }
@@ -28,6 +28,13 @@
     {
       "@context": "https://schema.org",
       "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://drainsnmorellc.com/#organization",
+          "name": "Drains N More LLC",
+          "url": "https://drainsnmorellc.com/",
+          "logo": "https://drainsnmorellc.com/assets/images/Drains_N_More_LLC_Logo.png"
+        },
         {
           "@type": "Plumber",
           "@id": "https://drainsnmorellc.com/#business",
@@ -83,15 +90,15 @@
       <div class="mx-auto flex max-w-7xl flex-wrap items-center justify-center gap-4 px-4 py-2 short:py-1 sm:justify-between">
         <span>Gladstone, MO</span>
         <span><a href="mailto:drainsnmorellc@gmail.com" class="hover:text-white">drainsnmorellc@gmail.com</a></span>
-        <span><a href="tel:+18167051538" class="hover:text-white">816-705-1538</a></span>
+        <span><a href="tel:+18167051538" class="hover:text-white">(816) 705-1538</a></span>
       </div>
     </div>
     <div class="bg-gradient-to-r from-blue-900 via-blue-800 to-orange-600 border-b-4 border-orange-500 shadow-lg">
       <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-5 short:py-2">
         <a href="#top" class="flex items-center gap-2 shrink-0" aria-label="Drains N More LLC home">
           <picture>
-            <source type="image/webp" srcset="assets/images/Drains_N_More_LLC_Logo.webp" sizes="(max-width: 768px) 80px, 105px" />
-            <img src="assets/images/Drains_N_More_LLC_Logo.png" alt="Drains N More LLC logo" width="105" height="96" fetchpriority="high" decoding="async" class="h-24 w-auto mdtall:h-28 short:h-20 object-contain filter drop-shadow-lg" style="aspect-ratio:560/514" />
+            <source type="image/webp" srcset="assets/images/Drains_N_More_LLC_Logo.webp" />
+            <img src="assets/images/Drains_N_More_LLC_Logo.png" alt="Drains N More LLC logo" width="560" height="514" fetchpriority="high" decoding="async" class="h-24 w-auto mdtall:h-28 short:h-20 object-contain filter drop-shadow-lg" />
           </picture>
         </a>
         <button type="button" class="inline-flex h-11 w-11 flex-col items-center justify-center gap-1.5 rounded-lg border-2 border-white bg-orange-500 hover:bg-orange-600 transition md:hidden" aria-label="Toggle menu" data-nav-toggle>
@@ -135,7 +142,7 @@
           </div>
           <div class="absolute -bottom-5 right-4 rounded-2xl border border-slate-200 bg-white px-4 py-3 shadow-soft sm:right-8">
             <div class="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-500">Call now</div>
-            <a href="tel:+18167051538" class="mt-1 block text-base font-black text-slate-900">816-705-1538</a>
+            <a href="tel:+18167051538" class="mt-1 block text-base font-black text-slate-900">(816) 705-1538</a>
           </div>
         </div>
       </div>
@@ -181,7 +188,7 @@
           <h2 class="text-3xl font-black tracking-[-0.06em] sm:text-4xl">Call for emergency plumbing in Gladstone.</h2>
           <p class="mt-4 max-w-xl text-base leading-7 text-slate-300">Available 24/7 for drain cleaning, water heater repair, and all plumbing emergencies in Gladstone.</p>
           <div class="mt-6 flex flex-wrap gap-3">
-            <a href="tel:+18167051538" class="inline-flex items-center justify-center rounded-full bg-brand-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-brand-600">Call 816-705-1538</a><a href="sms:+18167051538?body=Hi%20Drains%20N%20More%20LLC,%20I%20need%20a%20plumbing%20estimate." class="inline-flex items-center justify-center rounded-full border border-emerald-400/40 bg-emerald-400/10 px-5 py-3 text-sm font-bold text-emerald-200 transition hover:bg-emerald-400/20">Text us</a>
+            <a href="tel:+18167051538" class="inline-flex items-center justify-center rounded-full bg-brand-500 px-5 py-3 text-sm font-bold text-white transition hover:bg-brand-600">Call (816) 705-1538</a><a href="sms:+18167051538?body=Hi%20Drains%20N%20More%20LLC,%20I%20need%20a%20plumbing%20estimate." class="inline-flex items-center justify-center rounded-full border border-emerald-400/40 bg-emerald-400/10 px-5 py-3 text-sm font-bold text-emerald-200 transition hover:bg-emerald-400/20">Text us</a>
             <a href="index.html" class="inline-flex items-center justify-center rounded-full border border-slate-700 bg-white/5 px-5 py-3 text-sm font-bold text-white transition hover:bg-white/10">Back to Main</a>
           </div>
         </div>
@@ -212,15 +219,15 @@
         <div><div class="text-lg font-black text-white">Drains N More LLC</div><div class="text-[10px] font-bold uppercase tracking-[0.22em] text-slate-400">Emergency Plumber</div></div>
       </a>
       <div class="flex flex-col gap-2 text-sm">
-        <a href="tel:+18167051538" class="font-semibold text-slate-200 hover:text-white">816-705-1538</a>
+        <a href="tel:+18167051538" class="font-semibold text-slate-200 hover:text-white">(816) 705-1538</a>
         <a href="mailto:drainsnmorellc@gmail.com" class="font-semibold text-slate-200 hover:text-white">drainsnmorellc@gmail.com</a>
         <a href="index.html" class="font-semibold text-slate-200 hover:text-white">Back to Kansas City</a>
       </div>
     </div>
     <div class="border-t border-slate-800">
       <div class="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-4 text-sm text-slate-400 sm:flex-row sm:items-center sm:justify-between">
-        <span>© <span id="year"></span> Drains N More LLC • Gladstone Plumber</span>
-        <span>Open 24 Hours • Mon - Sun</span>
+        <span>&copy; <span id="year"></span> Drains N More LLC • Gladstone Plumber</span>
+        <span>Open 24 Hours &bull; Mon - Sun</span>
       </div>
     </div>
   </footer>
@@ -228,8 +235,8 @@
   <!-- @partial mobile-cta -->
   <div class="fixed inset-x-0 bottom-0 z-50 border-t border-slate-200 bg-white/95 px-3 py-3 shadow-[0_-8px_30px_rgba(15,23,42,0.08)] backdrop-blur-md md:hidden">
     <div class="mx-auto flex max-w-md items-center gap-2">
-      <a href="tel:+18167051538" class="inline-flex flex-1 items-center justify-center rounded-full bg-brand-500 px-4 py-3 text-sm font-bold text-white" aria-label="Call Drains N More at 816-705-1538">Call Now</a>
-      <a href="sms:+18167051538?body=Hi%20Drains%20N%20More%20LLC,%20I%20need%20a%20plumbing%20estimate." class="inline-flex flex-1 items-center justify-center rounded-full bg-emerald-600 px-4 py-3 text-sm font-bold text-white" aria-label="Send text message to Drains N More LLC">Text Us</a>
+      <a href="tel:+18167051538" class="inline-flex flex-1 items-center justify-center rounded-full bg-brand-500 px-4 py-3 text-sm font-bold text-white">Call Now</a>
+      <a href="sms:+18167051538?body=Hi%20Drains%20N%20More%20LLC,%20I%20need%20a%20plumbing%20estimate." class="inline-flex flex-1 items-center justify-center rounded-full bg-emerald-600 px-4 py-3 text-sm font-bold text-white">Text Us</a>
       <a href="#contact" class="inline-flex flex-1 items-center justify-center rounded-full border border-slate-300 bg-slate-50 px-4 py-3 text-sm font-bold text-slate-900">Get Quote</a>
     </div>
   </div>
