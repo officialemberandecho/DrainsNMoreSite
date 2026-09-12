@@ -16,7 +16,7 @@
   <link rel="canonical" href="https://drainsnmorellc.com/raytown-plumber.html" />
   <link rel="preconnect" href="https://cdn.callrail.com" crossorigin />
   <link rel="dns-prefetch" href="https://cdn.callrail.com" />
-  <link rel="stylesheet" href="css/tailwind.css" />
+  <link rel="preload" href="css/tailwind.css" as="style" onload="this.onload=null;this.rel='stylesheet'" /><noscript><link rel="stylesheet" href="css/tailwind.css" /></noscript>
   <style>
     html { scroll-behavior: smooth; }
     body { font-family: Arial, Helvetica, sans-serif; }
@@ -28,6 +28,13 @@
     {
       "@context": "https://schema.org",
       "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://drainsnmorellc.com/#organization",
+          "name": "Drains N More LLC",
+          "url": "https://drainsnmorellc.com/",
+          "logo": "https://drainsnmorellc.com/assets/images/Drains_N_More_LLC_Logo.png"
+        },
         {
           "@type": "Plumber",
           "@id": "https://drainsnmorellc.com/#business",
