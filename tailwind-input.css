@@ -22,7 +22,7 @@
 	--ease-soft: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
+@media (min-width: 1280px) and (prefers-reduced-motion: no-preference) {
 	@view-transition {
 		navigation: auto;
 	}
@@ -32,19 +32,18 @@
 		animation-duration: 0.3s;
 		animation-timing-function: var(--ease-soft);
 	}
+
+	header.sticky {
+		view-transition-name: site-header;
+	}
 }
 
 header.sticky {
-	view-transition-name: site-header;
 	transition: box-shadow 0.35s var(--ease-soft), transform 0.4s var(--ease);
 }
 
 header.sticky.is-scrolled {
 	box-shadow: 0 14px 32px -14px rgba(15, 23, 42, 0.45);
-}
-
-.mobile-cta {
-	view-transition-name: mobile-cta;
 }
 
 html {

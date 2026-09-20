@@ -70,12 +70,20 @@ const siteHeader = document.querySelector('header.sticky');
 if (siteHeader) {
   const compactHeader = window.matchMedia('(max-width: 1279px)');
   let lastY = window.scrollY;
+  let userScrollUntil = 0;
+  const markUserScroll = () => { userScrollUntil = performance.now() + 700; };
+  for (const type of ['touchstart', 'touchmove', 'wheel', 'keydown']) window.addEventListener(type, markUserScroll, { passive: true });
 
   const syncHeader = () => {
     const y = window.scrollY;
     const menuOpen = navToggle && navToggle.getAttribute('aria-expanded') === 'true';
     siteHeader.classList.toggle('is-scrolled', y > 8);
-    if (compactHeader.matches && !menuOpen && y > 160 && y - lastY > 6) {
+    if (Math.abs(y - lastY) > 240) {
+      siteHeader.classList.remove('is-hidden');
+    } else if (performance.now() > userScrollUntil) {
+      // scroll restored by the browser, an anchor jump, or a layout nudge: never hide the header for these
+      if (y <= 160) siteHeader.classList.remove('is-hidden');
+    } else if (compactHeader.matches && !menuOpen && y > 160 && y - lastY > 6) {
       siteHeader.classList.add('is-hidden');
     } else if (y < lastY - 6 || y <= 160 || menuOpen || !compactHeader.matches) {
       siteHeader.classList.remove('is-hidden');
