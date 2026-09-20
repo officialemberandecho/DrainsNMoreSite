@@ -23,7 +23,7 @@
  *
  * Nav links resolve themselves: for a target like `about`, if the page has its
  * own id="about" outside the generated regions the link stays on-page (#about),
- * otherwise it points at index.html#about. That is what keeps the homepage,
+ * otherwise it points at /#about. That is what keeps the homepage,
  * city pages and service pages each getting the correct nav without three
  * hand-maintained copies drifting apart.
  */
@@ -129,7 +129,7 @@ function linkTokens(html, pageName) {
   const tokens = {};
   for (const target of NAV_TARGETS) {
     const onPage = own.includes(`id="${target}"`);
-    tokens[`L_${target}`] = onPage ? `#${target}` : `index.html#${target}`;
+    tokens[`L_${target}`] = onPage ? `#${target}` : `/#${target}`;
   }
   return tokens;
 }
