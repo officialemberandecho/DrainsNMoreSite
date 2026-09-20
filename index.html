@@ -98,163 +98,250 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "Plumber",
-        "@id": "https://drainsnmorellc.com/#business",
-        "name": "Drains N More LLC",
-        "url": "https://drainsnmorellc.com/",
-        "telephone": "+1-816-705-1538",
-        "email": "drainsnmorellc@gmail.com",
-        "sameAs": [
-          "https://g.page/r/CUETYwFSqc1xEAE",
-          "https://www.facebook.com/profile.php?id=61594243250978"
-        ],
-        "areaServed": [
-          "Kansas City, MO", "Kansas City, Missouri",
-          "Downtown Kansas City, MO", "Midtown Kansas City, MO",
-          "North Kansas City, MO", "Westport, Kansas City, MO",
-          "Country Club Plaza, Kansas City, MO", "Brookside, Kansas City, MO",
-          "Waldo, Kansas City, MO", "The Plaza, Kansas City, MO",
-          "River Market, Kansas City, MO", "East Side, Kansas City, MO",
-          "South Kansas City, MO", "Lee's Summit, MO", "Independence, MO",
-          "Raytown, MO", "Blue Springs, MO", "Liberty, MO", "Gladstone, MO",
-          "Grandview, MO", "Belton, MO", "Parkville, MO", "Riverside, MO",
-          "Smithville, MO", "Pleasant Valley, MO", "Oak Grove, MO",
-          "Excelsior Springs, MO", "Kearney, MO", "Claycomo, MO",
-          "Harrisonville, MO", "Shawnee, KS", "Lenexa, KS", "Mission, KS",
-          "Merriam, KS", "Prairie Village, KS", "Leawood, KS",
-          "Olathe, KS", "Overland Park, KS"
-        ],
-        "description": "Residential plumbing, drain cleaning, water heater, toilet, and repiping services in Kansas City, Missouri and nearby areas.",
-        "openingHours": "Mo-Su 00:00-23:59",
-        "priceRange": "$$",
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Plumbing Services",
-          "itemListElement": [
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Emergency Drain Cleaning",
-                "serviceType": "Emergency Drain Cleaning",
-                "description": "Same-day emergency drain clearing, clog removal, and sewer line solutions for Kansas City homeowners. Available 24/7.",
-                "areaServed": [
-                  "Kansas City, MO", "North Kansas City, MO",
-                  "Lee's Summit, MO", "Independence, MO", "Raytown, MO"
-                ],
-                "url": "https://drainsnmorellc.com/emergency-drain-cleaning.html",
-                "provider": { "@id": "https://drainsnmorellc.com/#business" }
-              },
-              "priceCurrency": "USD",
-              "availability": "https://schema.org/InStock"
+        "@graph": [
+          {
+            "@type": "Plumber",
+            "@id": "https://drainsnmorellc.com/#business",
+            "name": "Drains N More LLC",
+            "url": "https://drainsnmorellc.com/",
+            "image": "https://drainsnmorellc.com/assets/images/Drains_N_More_LLC_Logo.png",
+            "logo": "https://drainsnmorellc.com/assets/images/Drains_N_More_LLC_Logo.png",
+            "telephone": "+1-816-705-1538",
+            "email": "drainsnmorellc@gmail.com",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Kansas City",
+              "addressRegion": "MO",
+              "postalCode": "64118",
+              "addressCountry": "US"
             },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Water Heater Repair and Replacement",
-                "serviceType": "Water Heater Service",
-                "description": "Water heater repair, replacement, and installation for Kansas City homes. Same-day service on gas and electric units.",
-                "areaServed": [
-                  "Kansas City, MO", "Blue Springs, MO",
-                  "Liberty, MO", "Gladstone, MO", "Grandview, MO"
-                ],
-                "url": "https://drainsnmorellc.com/water-heater-repair.html",
-                "provider": { "@id": "https://drainsnmorellc.com/#business" }
-              },
-              "priceCurrency": "USD",
-              "availability": "https://schema.org/InStock"
+            "sameAs": [
+              "https://g.page/r/CUETYwFSqc1xEAE",
+              "https://www.facebook.com/profile.php?id=61594243250978"
+            ],
+            "description": "Residential plumbing, drain cleaning, water heater, toilet, and repiping services in Kansas City, Missouri and nearby areas.",
+            "openingHours": "Mo-Su 00:00-23:59",
+            "priceRange": "$$",
+            "@context": "https://schema.org",
+            "areaServed": [
+              "Kansas City, MO",
+              "Kansas City, Missouri",
+              "Downtown Kansas City, MO",
+              "Midtown Kansas City, MO",
+              "North Kansas City, MO",
+              "Westport, Kansas City, MO",
+              "Country Club Plaza, Kansas City, MO",
+              "Brookside, Kansas City, MO",
+              "Waldo, Kansas City, MO",
+              "The Plaza, Kansas City, MO",
+              "River Market, Kansas City, MO",
+              "East Side, Kansas City, MO",
+              "South Kansas City, MO",
+              "Lee's Summit, MO",
+              "Independence, MO",
+              "Raytown, MO",
+              "Blue Springs, MO",
+              "Liberty, MO",
+              "Gladstone, MO",
+              "Grandview, MO",
+              "Belton, MO",
+              "Parkville, MO",
+              "Riverside, MO",
+              "Smithville, MO",
+              "Pleasant Valley, MO",
+              "Oak Grove, MO",
+              "Excelsior Springs, MO",
+              "Kearney, MO",
+              "Claycomo, MO",
+              "Harrisonville, MO",
+              "Shawnee, KS",
+              "Lenexa, KS",
+              "Mission, KS",
+              "Merriam, KS",
+              "Prairie Village, KS",
+              "Leawood, KS",
+              "Olathe, KS",
+              "Overland Park, KS"
+            ],
+            "hasOfferCatalog": {
+              "@type": "OfferCatalog",
+              "name": "Plumbing Services",
+              "itemListElement": [
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Emergency Drain Cleaning",
+                    "serviceType": "Emergency Drain Cleaning",
+                    "description": "Same-day emergency drain clearing, clog removal, and sewer line solutions for Kansas City homeowners. Available 24/7.",
+                    "areaServed": [
+                      "Kansas City, MO",
+                      "North Kansas City, MO",
+                      "Lee's Summit, MO",
+                      "Independence, MO",
+                      "Raytown, MO"
+                    ],
+                    "url": "https://drainsnmorellc.com/emergency-drain-cleaning.html",
+                    "provider": {
+                      "@id": "https://drainsnmorellc.com/#business"
+                    }
+                  },
+                  "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock"
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Water Heater Repair and Replacement",
+                    "serviceType": "Water Heater Service",
+                    "description": "Water heater repair, replacement, and installation for Kansas City homes. Same-day service on gas and electric units.",
+                    "areaServed": [
+                      "Kansas City, MO",
+                      "Blue Springs, MO",
+                      "Liberty, MO",
+                      "Gladstone, MO",
+                      "Grandview, MO"
+                    ],
+                    "url": "https://drainsnmorellc.com/water-heater-repair.html",
+                    "provider": {
+                      "@id": "https://drainsnmorellc.com/#business"
+                    }
+                  },
+                  "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock"
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Sewer Line Repair",
+                    "serviceType": "Sewer Line Repair",
+                    "description": "Professional sewer line inspection, repair, and replacement in Kansas City and surrounding suburbs.",
+                    "areaServed": [
+                      "Kansas City, MO",
+                      "Midtown Kansas City, MO",
+                      "Raytown, MO",
+                      "Independence, MO",
+                      "Lee's Summit, MO"
+                    ],
+                    "url": "https://drainsnmorellc.com/sewer-line-repair.html",
+                    "provider": {
+                      "@id": "https://drainsnmorellc.com/#business"
+                    }
+                  },
+                  "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock"
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Professional Repiping",
+                    "serviceType": "Whole-Home Repiping",
+                    "description": "Complete water line replacement and repiping for older Kansas City homes. Licensed, insured, built to last.",
+                    "areaServed": [
+                      "Kansas City, MO",
+                      "Midtown Kansas City, MO",
+                      "Raytown, MO",
+                      "Blue Springs, MO",
+                      "North Kansas City, MO"
+                    ],
+                    "provider": {
+                      "@id": "https://drainsnmorellc.com/#business"
+                    }
+                  },
+                  "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock"
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Toilet Repair and Replacement",
+                    "serviceType": "Toilet Service",
+                    "description": "Toilet repair, replacement, and troubleshooting for Kansas City homeowners. Same-day availability.",
+                    "areaServed": [
+                      "Kansas City, MO",
+                      "Liberty, MO",
+                      "Gladstone, MO",
+                      "Parkville, MO",
+                      "Belton, MO"
+                    ],
+                    "provider": {
+                      "@id": "https://drainsnmorellc.com/#business"
+                    }
+                  },
+                  "priceCurrency": "USD",
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
             },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Sewer Line Repair",
-                "serviceType": "Sewer Line Repair",
-                "description": "Professional sewer line inspection, repair, and replacement in Kansas City and surrounding suburbs.",
-                "areaServed": [
-                  "Kansas City, MO", "Midtown Kansas City, MO",
-                  "Raytown, MO", "Independence, MO", "Lee's Summit, MO"
-                ],
-                "url": "https://drainsnmorellc.com/sewer-line-repair.html",
-                "provider": { "@id": "https://drainsnmorellc.com/#business" }
-              },
-              "priceCurrency": "USD",
-              "availability": "https://schema.org/InStock"
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "94",
+              "bestRating": "5",
+              "worstRating": "1"
             },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Professional Repiping",
-                "serviceType": "Whole-Home Repiping",
-                "description": "Complete water line replacement and repiping for older Kansas City homes. Licensed, insured, built to last.",
-                "areaServed": [
-                  "Kansas City, MO", "Midtown Kansas City, MO",
-                  "Raytown, MO", "Blue Springs, MO", "North Kansas City, MO"
-                ],
-                "provider": { "@id": "https://drainsnmorellc.com/#business" }
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Ronnie B."
+                },
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                },
+                "reviewBody": "Great price. Dalton arrived quickly within the estimated arrival window. Once our home warranty approved the work, he came back as soon as possible to replace our water heater and did a great job."
               },
-              "priceCurrency": "USD",
-              "availability": "https://schema.org/InStock"
-            },
-            {
-              "@type": "Offer",
-              "itemOffered": {
-                "@type": "Service",
-                "name": "Toilet Repair and Replacement",
-                "serviceType": "Toilet Service",
-                "description": "Toilet repair, replacement, and troubleshooting for Kansas City homeowners. Same-day availability.",
-                "areaServed": [
-                  "Kansas City, MO", "Liberty, MO", "Gladstone, MO",
-                  "Parkville, MO", "Belton, MO"
-                ],
-                "provider": { "@id": "https://drainsnmorellc.com/#business" }
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Jessica F."
+                },
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                },
+                "reviewBody": "Great company. I had an issue with sewer gas in my home, and they ran a smoke test to find exactly where it was coming from. Knowledgeable plumbers at a great price. Highly recommend them."
               },
-              "priceCurrency": "USD",
-              "availability": "https://schema.org/InStock"
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Kristine C."
+                },
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                },
+                "reviewBody": "I can't recommend Drains N More highly enough. I had a clogged drain in a house with old plumbing, got an appointment immediately, and Simon handled the challenges expertly. Fast service, great work, and a fair price."
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://drainsnmorellc.com/#website",
+            "url": "https://drainsnmorellc.com/",
+            "name": "Drains N More LLC",
+            "publisher": {
+              "@id": "https://drainsnmorellc.com/#business"
             }
-          ]
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "94",
-          "bestRating": "5",
-          "worstRating": "1"
-        },
-        "review": [
-          {
-            "@type": "Review",
-            "author": { "@type": "Person", "name": "Ronnie B." },
-            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-            "reviewBody": "Great price. Dalton arrived quickly within the estimated arrival window. Once our home warranty approved the work, he came back as soon as possible to replace our water heater and did a great job."
-          },
-          {
-            "@type": "Review",
-            "author": { "@type": "Person", "name": "Jessica F." },
-            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-            "reviewBody": "Great company. I had an issue with sewer gas in my home, and they ran a smoke test to find exactly where it was coming from. Knowledgeable plumbers at a great price. Highly recommend them."
-          },
-          {
-            "@type": "Review",
-            "author": { "@type": "Person", "name": "Kristine C." },
-            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-            "reviewBody": "I can't recommend Drains N More highly enough. I had a clogged drain in a house with old plumbing, got an appointment immediately, and Simon handled the challenges expertly. Fast service, great work, and a fair price."
           }
         ]
       }
     </script>
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "@id": "https://drainsnmorellc.com/#organization",
-        "name": "Drains N More LLC",
-        "url": "https://drainsnmorellc.com/",
-        "logo": "https://drainsnmorellc.com/assets/images/Drains_N_More_LLC_Logo.png"
-      }
-    </script>
+    
   </head>
   <body class="bg-slate-50 text-slate-900 antialiased">
     <!-- @partial header-home -->
