@@ -28,7 +28,7 @@
  * hand-maintained copies drifting apart.
  */
 
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -41,13 +41,17 @@ const NAV_TARGETS = ['top', 'about', 'services', 'areas', 'reviews', 'contact'];
 
 // ---------------------------------------------------------------------------
 // Page table. `header`/`footer` name a partial; the rest are token values.
+// Area pages are not listed by hand: each content/areas/<slug>.json adds one.
 // ---------------------------------------------------------------------------
-const city = (location, suffix) => ({
+const area = (a) => ({
   header: 'header-page',
   footer: 'footer-page',
-  LOCATION: location,
+  LOCATION: a.label,
   TAGLINE: 'Emergency Plumber',
-  FOOTER_SUFFIX: ` • ${suffix}`,
+  FOOTER_SUFFIX: ` • ${a.name} Plumber`,
+  CRUMB_PARENT: 'Areas We Serve',
+  CRUMB_HREF: '/areas/',
+  CRUMB_CURRENT: a.name,
 });
 
 const service = (suffix) => ({
@@ -56,31 +60,45 @@ const service = (suffix) => ({
   LOCATION: 'Kansas City, MO',
   TAGLINE: 'Kansas City Plumbing',
   FOOTER_SUFFIX: ` • ${suffix}`,
+  CRUMB_PARENT: 'Services',
+  CRUMB_HREF: '/services/',
+  CRUMB_CURRENT: suffix,
+});
+
+const hub = (label) => ({
+  header: 'header-page',
+  footer: 'footer-page',
+  LOCATION: 'Kansas City, MO',
+  TAGLINE: 'Kansas City Plumbing',
+  FOOTER_SUFFIX: ` • ${label}`,
+  CRUMB_CURRENT: label,
 });
 
 const PAGES = {
   'index.html': {
     header: 'header-home',
     footer: 'footer-home',
+    CRUMB_CURRENT: 'Kansas City',
     LOCATION: 'Kansas City, MO 64118',
     TAGLINE: 'Kansas City Plumbing',
     FOOTER_SUFFIX: '',
   },
 
-  'blue-springs-plumber.html': city('Blue Springs, MO', 'Blue Springs Plumber'),
-  'downtown-kansas-city-plumber.html': city('Downtown Kansas City, MO', 'Downtown Kansas City Plumber'),
-  'gladstone-plumber.html': city('Gladstone, MO', 'Gladstone Plumber'),
-  'independence-plumber.html': city('Independence, MO', 'Independence Plumber'),
-  'lees-summit-plumber.html': city("Lee's Summit, MO", "Lee's Summit Plumber"),
-  'midtown-kansas-city-plumber.html': city('Midtown Kansas City, MO', 'Midtown Kansas City Plumber'),
-  'raytown-plumber.html': city('Raytown, MO', 'Raytown Plumber'),
+  'areas/index.html': hub('Areas We Serve'),
+  'services/index.html': hub('Services'),
+  'sitemap/index.html': hub('Site Map'),
 
-  'emergency-drain-cleaning.html': service('Emergency Drain Cleaning'),
-  'water-heater-repair.html': service('Water Heater Repair'),
-  'sewer-line-repair.html': service('Sewer Line Repair'),
-  'gas-line-services.html': service('Gas Line Services'),
-  'smoke-testing.html': service('Smoke Testing'),
+  'services/emergency-drain-cleaning/index.html': service('Emergency Drain Cleaning'),
+  'services/water-heater-repair/index.html': service('Water Heater Repair'),
+  'services/sewer-line-repair/index.html': service('Sewer Line Repair'),
+  'services/gas-line-services/index.html': service('Gas Line Services'),
+  'services/smoke-testing/index.html': service('Smoke Testing'),
 };
+
+for (const file of readdirSync(join(ROOT, 'content/areas')).filter((f) => f.endsWith('.json'))) {
+  const a = JSON.parse(readFileSync(join(ROOT, 'content/areas', file), 'utf8'));
+  PAGES[`areas/${a.slug}/index.html`] = area(a);
+}
 
 // ---------------------------------------------------------------------------
 
@@ -131,6 +149,7 @@ function linkTokens(html, pageName) {
     const onPage = own.includes(`id="${target}"`);
     tokens[`L_${target}`] = onPage ? `#${target}` : `/#${target}`;
   }
+  if (pageName !== 'index.html') tokens.L_top = '/';
   return tokens;
 }
 

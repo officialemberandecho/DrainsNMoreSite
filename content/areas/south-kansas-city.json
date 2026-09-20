@@ -1,0 +1,124 @@
+{
+  "slug": "south-kansas-city",
+  "name": "South Kansas City",
+  "label": "South Kansas City, MO",
+  "chip": "South KC",
+  "tile": "South KC",
+  "region": "kc-core",
+  "order": 9,
+  "description": "South Kansas City plumber for ranch homes and family neighborhoods: sewer excavation, water heaters, repipes, and gas lines. On call 24/7.",
+  "blurb": "Sewer excavation, water heaters and repipes for family neighborhoods around Red Bridge, Hickman Mills and Ward Parkway.",
+  "hero": {
+    "eyebrow": "24/7 South Kansas City Emergency Plumber",
+    "h1": "South Kansas City plumber for ranch homes, family neighborhoods, and larger lots.",
+    "sub": "From Red Bridge to Hickman Mills, South Kansas City spreads across mid-century ranches and later suburban homes on generous lots. Drains N More LLC answers plumbing emergencies in these neighborhoods around the clock.",
+    "badge": "South KC Plumbers",
+    "sideH2": "Family-home plumbing across a big part of the city.",
+    "bullets": [
+      "Sewer excavation on larger lots",
+      "Water heaters for busy households",
+      "Repipes for aging supply lines"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in South Kansas City",
+    "h2": "A big area of the city with one big thing in common: houses built in a boom.",
+    "paras": [
+      "South Kansas City covers a wide stretch of neighborhoods south of 63rd Street, from Ward Parkway and Red Bridge to Hickman Mills, Ruskin Heights, and Martin City, with Swope Park and the Kansas City Zoo nearby. Much of the housing was built from the 1950s through the 1970s, a period of rapid suburban growth.",
+      "Ranch homes, split-levels, and story-and-a-half houses on relatively large lots define much of this area. Basements are common, and so are attached garages that hold the water heater. Sewer lines are often longer than in older parts of the city, because setbacks and lot depths are generous.",
+      "Homes from the 1950s through 1970s often have copper supply lines with soldered joints that are now half a century old, along with cast iron or early plastic drains. Pinhole leaks, failing water heater fittings, and root intrusion in sewer laterals are recurring themes.",
+      "Because this is such a large area, we tailor how we schedule and communicate: we confirm your address up front, give a realistic arrival window, and call ahead so you are not waiting around. Emergencies always come first.",
+      "The Ruskin Heights and Hickman Mills neighborhoods grew quickly in the postwar decades, and streets of similar ranch homes were often built within a few years of each other. Water heater failures, pinhole leaks, and root-clogged laterals tend to appear in waves as a whole street ages together. If a neighbor has recently had a repair, it is worth mentioning when you call, because it helps us anticipate what we may find and bring the right parts.",
+      "Swope Park and the Kansas City Zoo bring visitors and traffic to the northeastern edge of this area, and neighborhoods such as Red Bridge and Martin City have their own character, from shopping centers to larger lots with mature trees. That variety means we ask about your specific street and house before we arrive, rather than assuming one approach fits every address across such a large part of the city."
+    ],
+    "sideTitle": "Where we work in South Kansas City",
+    "chips": [
+      "Red Bridge Road",
+      "Ward Parkway south",
+      "Bannister Road",
+      "Hickman Mills",
+      "Ruskin Heights",
+      "Martin City",
+      "Near Swope Park",
+      "Blue Ridge Boulevard"
+    ]
+  },
+  "services": {
+    "eyebrow": "South Kansas City services",
+    "h2": "Plumbing for South Kansas City family homes.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Sewer and water excavation on larger lots",
+        "p": "Longer runs and deeper setbacks mean sewer and water service lines can be a serious dig. After a camera inspection shows where a line failed, we get buried utilities marked, plan a trench that avoids trees, driveways, and sprinkler lines where possible, and explain how the yard will be restored. Where a smaller repair will do, we recommend it."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for busy family households",
+        "p": "Family homes use a lot of hot water. We replace tank water heaters in basements and garages and install tankless models when gas capacity and venting allow, sizing the unit to how your household actually lives. Garage installs need proper elevation and protection, and we handle those details."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for aging copper and galvanized",
+        "p": "Pinhole leaks in aging copper and falling pressure from galvanized steel both point to supply piping near the end of its life. We can price a full repipe with PEX or copper alongside targeted repairs so you can compare, and we plan the work to minimize wall openings."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes and extensions for appliances",
+        "p": "Adding a gas dryer, range, or patio grill often means new piping, and older gas lines sometimes need replacing first. We size the line for the appliances it feeds, pressure test, and check every joint for leaks. Permit rules vary by city, so confirm what applies before work begins. A gas smell means leave and call 911."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation on every level of the house",
+        "p": "Family homes here often have a toilet on each level, and replacing them one at a time gets tiresome. We install several in a single visit, with new supply lines, fresh seals, level bowls, and a full flush test on each."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for sewer odors and vent leaks",
+        "p": "A sewer smell in a basement or bathroom can come from a dry trap, a cracked vent, or an open cleanout. Smoke testing shows where the drain and vent system leaks, so the repair targets the actual source instead of a guess."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "South Kansas City plumbing questions",
+    "items": [
+      {
+        "q": "Do you serve all of South Kansas City?",
+        "a": "We work across the areas listed on this page and beyond. Call with your address and we will confirm we can reach you and give you an arrival window."
+      },
+      {
+        "q": "How can I tell if my copper pipes are failing?",
+        "a": "Green or blue corrosion at joints, tiny spray leaks, and recurring pinholes are the usual signs. We inspect the pipe and the leak history and explain whether repair or repipe makes sense."
+      },
+      {
+        "q": "Is a water heater in the garage safe?",
+        "a": "Yes, when it is installed correctly. Gas units in garages need to be raised off the floor and protected from vehicle impact, and they need safe venting. We install to those requirements."
+      },
+      {
+        "q": "Can you handle a sewer backup on a weekend?",
+        "a": "Yes. We answer 24 hours a day, seven days a week."
+      },
+      {
+        "q": "What causes recurring drain clogs in ranch homes?",
+        "a": "Often it is a sagging or root-infested line rather than a simple blockage. A camera inspection shows whether cleaning will help or a repair is the better path."
+      },
+      {
+        "q": "How do you decide between cleaning and replacing a drain line?",
+        "a": "We look at the camera footage. A line that is partly blocked by buildup or a small root intrusion can often be cleaned. One with cracks, offsets, or collapse needs a repair or replacement, and we show you the footage so you can see what we see."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "South Kansas City meets Grandview and Raytown, and we also serve",
+    "links": [
+      "grandview",
+      "raytown",
+      "waldo",
+      "brookside"
+    ]
+  },
+  "contact": {
+    "h2": "South Kansas City plumbers on call around the clock.",
+    "p": "A backed-up drain or a failing heater cannot wait. Call or send your details and we will follow up."
+  }
+}

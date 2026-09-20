@@ -1,0 +1,117 @@
+{
+  "slug": "raytown",
+  "name": "Raytown",
+  "label": "Raytown, MO",
+  "chip": "Raytown",
+  "tile": "Raytown",
+  "region": "east-jackson",
+  "order": 14,
+  "description": "Raytown plumber for basement water heaters, aging pipes, sewer odors, and gas lines. Drains N More LLC answers 24/7 with same-day help.",
+  "blurb": "Basement water heaters, aging supply lines and sewer odors in Raytown's brick ranches along 63rd Street and Blue Ridge Boulevard.",
+  "hero": {
+    "eyebrow": "24/7 Raytown Emergency Plumber",
+    "h1": "Raytown plumber for water heaters, repipes, gas lines, and emergencies.",
+    "sub": "Drains N More LLC works on the brick ranches, story-and-a-half homes, and basement utility rooms that make up much of Raytown. Call any hour for a leak, a dead water heater, or a backed-up line, and we will get someone out the same day.",
+    "badge": "Raytown Plumbers",
+    "sideH2": "Repairs, replacements, and testing for Raytown homes.",
+    "bullets": [
+      "Water heater replacement in basement utility rooms",
+      "Whole-home repipes for aging supply lines",
+      "Smoke tests for sewer odors and vent leaks"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Raytown",
+    "h2": "What older Raytown homes ask of their plumbing.",
+    "paras": [
+      "Raytown sits between Kansas City and Independence, with 63rd Street and Blue Ridge Boulevard running through the middle of town and I-70 and I-435 close enough that most of the city is a short drive from either. A lot of the housing went up in the decades after the war: compact brick ranches, cape cods, and story-and-a-half homes on established lots with big trees.",
+      "That mix shapes the plumbing calls we get here. Basements are common, so water heaters, floor drains, and main cleanouts tend to live below grade, where a small leak can sit unnoticed for weeks. The sewer lines under those mature yards are often older clay or cast iron, and tree roots find every joint. Supply piping installed a generation or two ago is reaching the end of its useful life, which is why repipe estimates are a regular part of our Raytown schedule.",
+      "We keep the advice simple. If a repair makes sense, we say so and do the repair. If a part is past saving, we explain why and lay out your options before any work begins."
+    ],
+    "sideTitle": "Where we work in Raytown",
+    "chips": [
+      "63rd Street corridor",
+      "Blue Ridge Boulevard",
+      "Raytown Road",
+      "Central Raytown",
+      "North Raytown",
+      "South Raytown",
+      "Near I-70",
+      "Near I-435"
+    ]
+  },
+  "services": {
+    "eyebrow": "Raytown services",
+    "h2": "Six jobs we handle in Raytown homes.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heater replacement for Raytown basements",
+        "p": "A basement water heater is out of sight until it fails, and by then the floor is usually wet. We replace tank and tankless units in Raytown utility rooms and check the parts most owners never think about: the drain valve, the temperature and pressure relief valve, and the flue connection. A tank in the ten-year range that starts leaking is a replacement, not a repair, and we will tell you which side of that line yours is on."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for older supply lines",
+        "p": "If faucets sputter, hot water takes forever to reach the far bathroom, or water runs brown after sitting overnight, the piping is usually the problem, not the fixtures. Many Raytown homes still have galvanized steel that has narrowed from the inside. A whole-home repipe replaces those runs with new PEX or copper, and we open only the walls we have to. We can also price a partial repipe if only one section has failed."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests to trace sewer odors",
+        "p": "A sewer smell in a Raytown basement usually comes from one of a few places: a dried-out floor drain trap, a cracked vent, or an open cleanout. A smoke test pushes non-toxic smoke through the drain system and shows where it escapes, so the repair targets the actual leak instead of a guess. It is also a quick way to check an older home before you buy it."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for failed sewer and water lines",
+        "p": "When a camera inspection shows a collapsed or root-filled sewer line, digging down to it is sometimes the right fix. On Raytown's established lots that means working around mature trees, foundations, and driveways. Underground utilities are located through 811 before we break ground, we dig only what the repair requires, and we talk through what the yard will look like afterward before we start."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for ranges, dryers, and furnaces",
+        "p": "Replacing a range or adding a gas dryer often exposes old piping that was never sized for the new appliance. We repipe gas lines with pressure testing and leak checks, and we can extend a line for a new appliance without disturbing the rest of the house. Permit and inspection rules differ from city to city, so ask us what applies at your address before work starts. If you ever smell gas, leave the house and call 911 first."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation that stops the rocking",
+        "p": "A toilet that rocks, leaks at the base, or keeps running often has a worn seal or a flange sitting too low or too high. When we install a new toilet in Raytown, we check the flange, set the bowl level on a fresh seal, and test the fill and flush before leaving. Bring the toilet you picked, or ask what suits your bathroom and we will point you to something that works."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Raytown plumbing questions",
+    "items": [
+      {
+        "q": "Should I repair or replace an older water heater?",
+        "a": "Age and the failure point decide it. A leak from the tank itself cannot be patched, so that means replacement. A bad thermostat, element, or gas valve on a younger unit is usually worth repairing. We look at both and give you a straight recommendation."
+      },
+      {
+        "q": "How do I know if my Raytown home needs a repipe?",
+        "a": "Low pressure at several fixtures, discolored water, repeated pinhole leaks, and visible corrosion at joints are the usual signs. One leak alone rarely justifies a whole-house repipe, but a pattern of them does. We look at the material and the leak history before recommending anything."
+      },
+      {
+        "q": "Can you find where a sewer smell is coming from?",
+        "a": "Yes. We usually start with the simple checks, such as trap seals and cleanout caps, then use a smoke test if the source is not obvious. The smoke shows any opening between the drain system and your living space."
+      },
+      {
+        "q": "Do you dig up the yard to fix a sewer line?",
+        "a": "Only when the repair calls for it. A camera inspection tells us whether a spot repair, a longer replacement, or a trenchless approach fits your line, and we walk you through it before scheduling any excavation."
+      },
+      {
+        "q": "Is a musty basement smell a plumbing problem?",
+        "a": "Sometimes. Dry floor drain traps, a slowly leaking water heater, or a small supply leak can all cause damp odors. Checking the plumbing is an inexpensive first step before assuming the cause is groundwater or the foundation."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Raytown sits between Independence and Kansas City, and we serve both, along with",
+    "links": [
+      "blue-springs",
+      "lees-summit",
+      "independence",
+      "midtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Raytown plumber on call, day or night.",
+    "p": "Leaking water heater, unreliable toilet, or a gas appliance that needs new piping? Call or send your details and we will get back to you."
+  }
+}

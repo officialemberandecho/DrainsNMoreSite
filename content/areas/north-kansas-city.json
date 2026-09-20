@@ -1,0 +1,123 @@
+{
+  "slug": "north-kansas-city",
+  "name": "North Kansas City",
+  "label": "North Kansas City, MO",
+  "chip": "North KC",
+  "tile": "North KC",
+  "region": "northland",
+  "order": 3,
+  "description": "North Kansas City plumber for older homes, bungalows, and small buildings: sewer excavation, repipes, water heaters, and 24/7 emergencies.",
+  "blurb": "Repipes, sewer excavation and water heaters for the older bungalows and small buildings around Armour Road and Burlington Avenue.",
+  "hero": {
+    "eyebrow": "24/7 North Kansas City Emergency Plumber",
+    "h1": "North Kansas City plumber for older bungalows, sewer lines, and water heater emergencies.",
+    "sub": "Just across the river from downtown, North Kansas City packs older homes, apartments, and small commercial buildings into a compact grid. Drains N More LLC works on the aging pipes those buildings share, with same-day help when something fails.",
+    "badge": "North KC Plumbers",
+    "sideH2": "Older-building plumbing, handled carefully.",
+    "bullets": [
+      "Sewer excavation on compact city lots",
+      "Repipes for older bungalows and apartments",
+      "Water heater swaps in tight utility spaces"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in North Kansas City",
+    "h2": "A compact river-side city where the pipes are as old as the blocks.",
+    "paras": [
+      "North Kansas City sits across the Missouri River from downtown Kansas City, in Clay County, with Armour Road and Burlington Avenue as its main streets and North Kansas City Hospital as a longtime anchor. The city was laid out in the early 1900s as an industrial and residential district, and a lot of its housing and small commercial space still reflects that era.",
+      "Compact lots and dense blocks shape the plumbing here. Houses sit close together, alleys and side yards are narrow, and sewer and water service lines often run a short distance under sidewalks, driveways, and shared boundaries. When one of those lines fails, the repair has to be planned around neighbors' property lines and very little working room.",
+      "Housing runs from small bungalows and one-story cottages to duplexes and older apartment buildings, and many were built well before modern plumbing codes. Cast iron drains, clay sewer laterals, and galvanized supply lines are common, and decades of repairs mean the piping in a single building may use three or four different materials.",
+      "Because North Kansas City is small and close to downtown, we tend to see repeat patterns: the same street, the same year of construction, the same failure. That helps us diagnose quickly, and it also means a problem in one house is often worth mentioning to the neighbors before it becomes theirs.",
+      "Because so many North Kansas City properties are within a short walk of each other, neighbors often share the same contractor history and the same materials. When we tell you what we find in your line, it can be useful information for the house next door too. We are happy to explain what we see in a way you can pass along, and to answer questions about whether a problem is likely to affect the blocks around you."
+    ],
+    "sideTitle": "Where we work in North KC",
+    "chips": [
+      "Armour Road",
+      "Burlington Avenue",
+      "Swift Avenue",
+      "Near North KC Hospital",
+      "Central North KC",
+      "Along the river",
+      "Near the Clay County line",
+      "Close to downtown"
+    ]
+  },
+  "services": {
+    "eyebrow": "North Kansas City services",
+    "h2": "What we repair and install across North Kansas City.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Sewer excavation on tight city lots",
+        "p": "Digging on a compact North Kansas City lot takes planning. Buried utilities are marked through 811 first, then we choose a trench route that avoids foundations, retaining walls, and shared boundaries where possible. A camera inspection tells us exactly where the failure is, so we open the smallest area the repair allows. Alleys and side yards may limit equipment, so we talk through access before we schedule and explain how the surface will be restored."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for bungalows, duplexes, and small apartment buildings",
+        "p": "Older supply piping in small multi-unit buildings usually means galvanized steel that has narrowed, or copper with a history of patchwork. We replace lines with PEX or copper, coordinate shutoffs between units, and phase the work when needed so tenants are without water for as short a time as possible. Single-family bungalows get the same careful, minimal-opening approach."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement in tight utility spaces",
+        "p": "Small homes and apartments often put the water heater in a closet, a narrow basement corner, or a shared mechanical room. We replace tank and tankless units in those spaces, check venting and gas connections, and fit new relief piping to the drain. When space is the constraint, a tankless unit or a lower-profile tank may solve the problem, and we will tell you which one fits."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation for older bathrooms",
+        "p": "Older North Kansas City bathrooms often have floors that have been re-covered several times, which leaves the toilet flange sitting below the finished surface. We check the flange height and condition, correct it when needed, and set the new toilet level on a fresh seal so it does not rock or weep at the base."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke testing for shared drains and sewer odor",
+        "p": "In dense blocks with old sewer laterals, an odor can come from your house, a neighbor's, or a shared line. A smoke test through the drain and vent system shows where smoke escapes on your property, which tells us whether the source is yours. It is also a reliable first step before buying an older home in the area."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for older homes and appliances",
+        "p": "Original iron gas piping in older buildings can corrode at threaded joints. We replace worn sections, add lines for new ranges or dryers, pressure test each run, and check for leaks before we leave. Permit and inspection rules vary by city, so we tell you what applies at your address. If you ever smell gas, leave and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "North Kansas City plumbing questions",
+    "items": [
+      {
+        "q": "Who is responsible for the sewer line under the street?",
+        "a": "In most cities, the property owner is responsible for the sewer line from the house to the connection at the main, and the city handles the main itself. Rules vary, so check with the city, and we can inspect your line to show where a problem sits."
+      },
+      {
+        "q": "Can you repair a line shared with a neighbor?",
+        "a": "We can inspect it and show you what the camera finds. Repairs on a shared line usually involve both owners, so we give you clear findings you can both use to decide who does what."
+      },
+      {
+        "q": "Are older bungalows worth repiping?",
+        "a": "Often, yes, when galvanized pipe has lost flow or pinhole leaks keep recurring. If the pipe is in decent shape, targeted repairs may be enough. We look at the material and the history and give you both options."
+      },
+      {
+        "q": "How quickly can you reach North Kansas City?",
+        "a": "The city is right across the river from downtown, so we can usually arrive quickly for emergencies. Call with your address and we will give you an honest arrival window."
+      },
+      {
+        "q": "Do you work on apartment buildings?",
+        "a": "Yes, on small multi-unit buildings. We coordinate with owners and tenants about shutoffs and access so repairs go smoothly."
+      },
+      {
+        "q": "Do you handle small commercial spaces?",
+        "a": "Our work is primarily residential, including small multi-unit buildings. If you have a small commercial space, call and describe it and we will tell you honestly whether it is a good fit for us."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "North Kansas City sits beside Downtown Kansas City, and we also serve",
+    "links": [
+      "downtown-kansas-city",
+      "river-market",
+      "gladstone",
+      "liberty"
+    ]
+  },
+  "contact": {
+    "h2": "North Kansas City plumbers, on call any hour.",
+    "p": "Old pipes fail without warning. Call or send your details and we will get you scheduled."
+  }
+}

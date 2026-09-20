@@ -1,0 +1,26 @@
+[
+  {
+    "key": "kc-core",
+    "title": "Kansas City, MO neighborhoods",
+    "intro": "From the River Market and Downtown to the Plaza, Brookside, and Waldo, these neighborhoods share a mix of historic brick homes, converted lofts, and early twentieth century apartment buildings. Older pipe is the common thread.",
+    "short": "Kansas City"
+  },
+  {
+    "key": "northland",
+    "title": "The Northland and Platte County",
+    "intro": "North of the Missouri River, our service area runs from North Kansas City and Gladstone through Liberty, Smithville, Parkville, Riverside, and Claycomo. Homes here range from mid-century ranches to new subdivisions and lake properties.",
+    "short": "Northland"
+  },
+  {
+    "key": "east-jackson",
+    "title": "Eastern Jackson County",
+    "intro": "East of Kansas City along the I-70 and US-40 corridors, Raytown, Independence, Blue Springs, Lee's Summit, and Oak Grove combine some of the metro's oldest housing with its newest suburban growth.",
+    "short": "East Jackson County"
+  },
+  {
+    "key": "south-metro",
+    "title": "South metro",
+    "intro": "South of the city along the I-49 and US-71 corridor, Grandview and Belton mix post-war neighborhoods with newer construction on the edge of Cass County.",
+    "short": "South Metro"
+  }
+]

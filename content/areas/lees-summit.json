@@ -1,0 +1,118 @@
+{
+  "slug": "lees-summit",
+  "name": "Lee's Summit",
+  "label": "Lee's Summit, MO",
+  "chip": "Lee's Summit",
+  "tile": "Lee's Summit",
+  "region": "east-jackson",
+  "order": 12,
+  "description": "Lee's Summit plumber for tankless water heaters, generator gas lines, repipes, and excavation. Drains N More LLC is on call 24/7.",
+  "blurb": "Tankless upgrades, generator gas lines and long-run excavation for larger homes from downtown to Longview Lake.",
+  "hero": {
+    "eyebrow": "24/7 Lee's Summit Emergency Plumber",
+    "h1": "Lee's Summit plumber for tankless upgrades, repipes, gas lines, and urgent repairs.",
+    "sub": "From the historic blocks around Downtown Lee's Summit to newer neighborhoods near Longview Lake, Drains N More LLC handles the plumbing that larger and busier homes depend on. Call any hour and we will schedule same-day help for urgent problems.",
+    "badge": "Lee's Summit Plumbers",
+    "sideH2": "Plumbing built around bigger households.",
+    "bullets": [
+      "Tank and tankless water heater installs",
+      "Gas lines for generators and outdoor kitchens",
+      "Excavation for long service lines"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Lee's Summit",
+    "h2": "A city that mixes 1860s railroad blocks with modern subdivisions.",
+    "paras": [
+      "Lee's Summit grew up around the railroad in the 1860s, and Downtown Lee's Summit still has the older commercial blocks and neighborhoods to show for it. Since then the city has expanded steadily south and east, with subdivisions of larger homes, homeowner associations, and lakeside communities around Longview Lake and Lakewood. Unity Village is close by.",
+      "Those two halves of the city ask very different things of a plumber. Historic homes near downtown call for careful work on aging drain and supply lines. Newer homes tend to be bigger, with three or four bathrooms, finished basements, and hot water demand to match, so decisions about water heater size, expansion tanks, and gas capacity matter more than they would in a smaller house.",
+      "Larger lots also mean longer runs between the street and the house. A failed water service or sewer line can be a serious dig, and we plan those jobs around irrigation lines, mature landscaping, and any HOA requirements.",
+      "Lee's Summit also sits at the edge of the metro's growth, with new construction going up beside mature neighborhoods. New subdivisions come with modern PEX and PVC, but that does not make them trouble-free: water heaters sized to the bare minimum and builder-grade fixtures are common, and we often help owners upgrade once the household settles into how much hot water it actually uses."
+    ],
+    "sideTitle": "Where we work in Lee's Summit",
+    "chips": [
+      "Downtown Lee's Summit",
+      "Longview Lake area",
+      "Lakewood",
+      "Pryor Road area",
+      "Highway 50 corridor",
+      "M-291 corridor",
+      "Chipman Road area",
+      "Unity Village area"
+    ]
+  },
+  "services": {
+    "eyebrow": "Lee's Summit services",
+    "h2": "What we install and repair around Lee's Summit.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Tank and tankless water heaters for bigger households",
+        "p": "When four or five people shower in the same morning, a standard 40-gallon tank falls behind. We size replacements to the household, install tankless units where the demand and gas supply support them, and set expansion tanks on closed plumbing systems so pressure spikes do not shorten the heater's life. If your current unit is on its way out, ask about stepping up to a better fit."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for generators, grills, and outdoor kitchens",
+        "p": "Standby generators, fire pits, outdoor kitchens, and pool heaters all pull gas that the original line was never sized for. We calculate the load, run new piping from the meter side of the house, pressure test it, and check every fitting for leaks. Every city sets its own permit and inspection requirements, so ask up front what your address needs. And if gas is ever in the air, get out and call 911 before anything else."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for long service and sewer lines",
+        "p": "On larger Lee's Summit lots, the water service and sewer line can run a long way from the street. When a failed section has to be opened up, we get buried utilities marked through 811, plan the trench around irrigation and mature plantings, and dig no more than the repair demands. Rock and clay are common across the metro, so we set expectations on timing before the first shovel goes in."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for copper and older supply lines",
+        "p": "Pinhole leaks in copper, low pressure, and stained water all point to supply piping at the end of its life. Homes in the older parts of town may have galvanized steel, and some copper systems in newer homes develop pinholes from water chemistry over time. We replace supply lines with PEX or copper depending on the house, and we tell you which material we recommend and why."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation, from standard to high-end",
+        "p": "Whether you bought a basic two-piece toilet or a one-piece, comfort-height, or bidet-ready model, we handle the install: new supply line, a properly seated seal, a level bowl, and a test of the fill and flush cycle. Several bathrooms in one visit are easy to schedule, and we will tell you if a fixture you have chosen needs special rough-in dimensions."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests after remodels and basement finishing",
+        "p": "Remodels and basement finishes sometimes leave vent tie-ins disconnected or cleanouts buried behind drywall, and the first sign is a faint sewer smell. A smoke test through the drain and vent system shows where the odor is getting out, so repairs stay local instead of opening walls at random. We also run smoke tests as a pre-purchase check on older homes near downtown."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Questions Lee's Summit homeowners ask",
+    "items": [
+      {
+        "q": "What size water heater does a large home need?",
+        "a": "It depends on how many people live there, how many bathrooms run at once, and whether you have large soaking tubs or multiple showerheads. We match capacity to real usage rather than the bare minimum, and we will talk through tank versus tankless for your gas and space situation."
+      },
+      {
+        "q": "Can you add a gas line for a generator or outdoor kitchen?",
+        "a": "Yes. The first step is calculating the total gas load so the line is sized correctly for everything it will feed. Then we run and pressure test the new piping. Ask us up front about permits and inspections for your address."
+      },
+      {
+        "q": "Will excavation damage my landscaping?",
+        "a": "Any trench affects the ground it crosses, but planning helps. We locate utilities, work around irrigation and plantings where we can, and talk through what to expect afterward. Raise restoration questions when you schedule the estimate so nothing surprises you."
+      },
+      {
+        "q": "Do you work in older homes near downtown Lee's Summit?",
+        "a": "Yes. Older homes there often have galvanized supply lines, cast iron or clay drains, and unusual routing that has changed with each remodel. We inspect before recommending, so you get a repair plan that fits the actual house."
+      },
+      {
+        "q": "Can you add a second water heater or a recirculation line?",
+        "a": "In many large homes, yes. A second heater or a recirculation setup can shorten the wait for hot water at distant bathrooms. We look at your layout and your gas or electric supply first and recommend what actually fits the house."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "We also work in nearby",
+    "links": [
+      "blue-springs",
+      "raytown",
+      "independence",
+      "downtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Lee's Summit plumbing help on your schedule.",
+    "p": "Planning a water heater upgrade or a new gas line, or dealing with a leak right now? Call or send your details and we will follow up."
+  }
+}

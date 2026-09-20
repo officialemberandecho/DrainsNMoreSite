@@ -1,0 +1,124 @@
+{
+  "slug": "claycomo",
+  "name": "Claycomo",
+  "label": "Claycomo, MO",
+  "chip": "Claycomo",
+  "tile": "Claycomo",
+  "region": "northland",
+  "order": 23,
+  "description": "Claycomo plumber for mid-century homes near the Ford plant: water heaters, repipes, sewer lines, and toilets. Drains N More LLC, on call 24/7.",
+  "blurb": "Water heaters, repipes and sewer repairs for the mid-century homes built around the Ford assembly plant along Highway 69.",
+  "hero": {
+    "eyebrow": "24/7 Claycomo Emergency Plumber",
+    "h1": "Claycomo plumber for mid-century homes, dependable repairs, and shift-work schedules.",
+    "sub": "Claycomo grew up around the Ford assembly plant, and its homes reflect that mid-century boom. Drains N More LLC handles water heaters, drains, and supply lines here and answers emergencies at any hour, including nights and weekends.",
+    "badge": "Claycomo Plumbers",
+    "sideH2": "Plumbing help that keeps up with your schedule.",
+    "bullets": [
+      "Water heater replacement, day or night",
+      "Repipes for aging supply lines",
+      "Sewer inspection and repair"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Claycomo",
+    "h2": "A small city built around a big plant.",
+    "paras": [
+      "Claycomo is a small Clay County city along Highway 69, best known for the Ford Kansas City Assembly Plant, which opened in 1951 and has shaped the community ever since. Housing in and around the city reflects that mid-century growth, with modest homes built for workers and their families.",
+      "Homes from the 1950s and 1960s typically have copper supply lines, cast iron or clay drains, and water heaters that have been replaced at least once. Pipe that old is approaching the end of its service life, and the first signs are often pinhole leaks, slow drains, and heaters that struggle to keep up.",
+      "Shift schedules mean plumbing emergencies do not always happen at convenient times, and residents cannot always be home for a daytime appointment. We schedule around your availability where we can and answer emergencies around the clock.",
+      "Because Claycomo is a small, close-knit community, word travels. We treat every call as a chance to earn your neighbors' trust, with clear explanations and honest recommendations, including telling you when a repair will do and a replacement is not needed. Where a repair is minor, we say so and keep the visit short; where it is not, we lay out the options and the reasons behind each so the decision is yours.",
+      "Many Claycomo homes are modest in size but have been lived in for decades, and their owners have often done repairs themselves over the years. That is fine when the work is sound, but it does mean surprises: a supply line joined with the wrong fitting, a drain connected without a proper trap, or a shutoff valve that no longer closes. We look at what is actually there and explain what needs to be corrected and what can be left alone.",
+      "Highway 69 carries a great deal of traffic past Claycomo, and many residents work at the plant or elsewhere along the corridor. We plan visits with that in mind, telling you our arrival window and calling ahead when we are close. For emergencies, we respond as quickly as we can, and we explain what we are doing as we go so that you can decide on repairs with clear information."
+    ],
+    "sideTitle": "Where we work in Claycomo",
+    "chips": [
+      "Highway 69",
+      "Near the Ford plant",
+      "Central Claycomo",
+      "Near Pleasant Valley",
+      "Near Gladstone",
+      "Near I-435",
+      "Near Liberty",
+      "Clay County"
+    ]
+  },
+  "services": {
+    "eyebrow": "Claycomo services",
+    "h2": "Plumbing help built around Claycomo schedules.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heater replacement, day or night",
+        "p": "Few things disrupt a shift-work household like a cold shower before an early start. We replace tank and tankless water heaters at a time that suits your schedule, check the venting and gas connections, and set new relief piping. If yours fails overnight, call and we will work to get hot water back the same day."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for 1950s and 1960s copper and galvanized",
+        "p": "Copper supply lines from the mid-century era can develop pinhole leaks, and any remaining galvanized pipe has narrowed with age. We replace lines with PEX or copper, plan routes that limit wall openings, and price a partial repipe if only one section has failed."
+      },
+      {
+        "key": "dig",
+        "h3": "Sewer inspection and excavation",
+        "p": "Older sewer lines fail in familiar ways: roots, sags, and collapsed sections. A camera inspection shows which, so we dig where the failure is rather than guessing. Buried lines are located before we break ground, and we explain the plan and the restoration before we start. If the line is close to a foundation or a slab, we describe exactly how we plan to work around it."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation for older bathrooms",
+        "p": "A toilet that rocks on the floor, seeps at the base, or refills by itself is usually telling you about a worn wax seal, a loose closet bolt, or a flange that has shifted. Replacing the toilet lets us look at what is underneath, and we do not leave until it sits level and flushes properly."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for sewer odors in older homes",
+        "p": "Sewer smells in older homes usually come from a dry floor drain trap, an open cleanout, or a cracked vent. A smoke test shows where the drain and vent system leaks, so the repair targets the real source."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for furnaces and ranges",
+        "p": "Gas lines that date to the plant's early years can weep at threaded joints, and appliance changes over the decades often leave piping undersized. We replace tired sections, run new lines where they are needed, pressure test the result, and check every connection. Permit needs depend on the city and the scope, and we explain them when we quote. If you ever smell gas, get out and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Claycomo plumbing questions",
+    "items": [
+      {
+        "q": "Can you come outside normal working hours?",
+        "a": "Yes. We are on call 24 hours a day, seven days a week, and we schedule around shift work whenever we can."
+      },
+      {
+        "q": "How old is too old for a water heater?",
+        "a": "Many tank water heaters last roughly eight to twelve years. If yours is older and showing rust, leaks, or noise, replacement is usually wiser than repair."
+      },
+      {
+        "q": "Do pinhole leaks mean my whole house needs a repipe?",
+        "a": "One pinhole is a repair. A pattern of them usually means the pipe is failing from the inside, and we can price a repair and a repipe so you can compare."
+      },
+      {
+        "q": "How do I find my main water shutoff?",
+        "a": "It is usually in the basement or a utility closet where the line enters the house, or in a meter box outside. We can show you during a visit."
+      },
+      {
+        "q": "Do you serve homes outside the city limits?",
+        "a": "We serve the surrounding area too. Call with your address and we will confirm. We tell you what we are doing and why as we work."
+      },
+      {
+        "q": "Can you fix DIY plumbing work that has gone wrong?",
+        "a": "Yes. We correct improper fittings, missing traps, and other problems, and we explain what was wrong so it does not happen again."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Claycomo is close to Gladstone and Liberty, and we also serve",
+    "links": [
+      "gladstone",
+      "liberty",
+      "north-kansas-city",
+      "smithville"
+    ]
+  },
+  "contact": {
+    "h2": "Claycomo plumbers on call any hour.",
+    "p": "Emergencies do not wait for a day off. Call or send your details and we will follow up."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "grandview",
+  "name": "Grandview",
+  "label": "Grandview, MO",
+  "chip": "Grandview",
+  "tile": "Grandview",
+  "region": "south-metro",
+  "order": 18,
+  "description": "Grandview plumber for post-war homes: water heaters, repipes, sewer excavation, and gas lines. Drains N More LLC answers Grandview calls 24/7.",
+  "blurb": "Water heaters, repipes and sewer repairs for Grandview's post-war neighborhoods near Truman Corners and the I-49 and Highway 71 corridor.",
+  "hero": {
+    "eyebrow": "24/7 Grandview Emergency Plumber",
+    "h1": "Grandview plumber for post-war neighborhoods, family basements, and honest repairs.",
+    "sub": "Grandview grew after World War II as a home for families south of Kansas City, and its houses show it. Drains N More LLC handles water heaters, sewer lines, supply piping, and gas work in Grandview and answers emergencies at any hour.",
+    "badge": "Grandview Plumbers",
+    "sideH2": "Plumbing for mid-century family homes.",
+    "bullets": [
+      "Water heater replacement in basements",
+      "Repipes for aging copper and galvanized",
+      "Sewer excavation on established lots"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Grandview",
+    "h2": "A post-war suburb and the pipes that have kept up with it.",
+    "paras": [
+      "Grandview sits south of Kansas City along the I-49 and Highway 71 corridor, in Jackson County, and is home to the Truman Farm Home, a historic site where Harry S. Truman lived and worked as a young man. Truman Corners, a longtime shopping center at the north end of town, is another well-known landmark.",
+      "Much of Grandview's housing was built in the decades after World War II: ranches, cape cods, and split-levels on established lots. Homes of that era commonly have copper supply lines, cast iron drains, basements, and water heaters that have been replaced at least once and are due again.",
+      "Root intrusion into older sewer laterals, pinhole leaks in aging copper, and water heaters failing at their fittings are the most frequent calls we see in neighborhoods like this. They tend to be predictable, which means that catching them early usually costs less than waiting for an emergency.",
+      "We aim to make Grandview visits straightforward: a clear diagnosis, a plain explanation of the options, and a fair recommendation. If a repair will do, we say so.",
+      "Grandview's position on the I-49 and Highway 71 corridor and the roads toward Raymore and Belton means many residents commute, and plumbing problems often surface at inconvenient times: before work, late in the evening, or on a weekend when everyone is home. We schedule around commutes where we can and answer emergencies around the clock, so a failing heater or a backed-up drain does not have to wait for a convenient day.",
+      "Neighborhoods built from the late 1940s through the 1960s often came with attached carports or single-car garages that were later enclosed, and with basements finished by owners over the years. Those changes moved and extended plumbing in ways that do not always show up on original plans. When we trace a leak or an odor in a house like that, we follow the actual pipes rather than assuming the original layout still applies.",
+      "A single Grandview lot can hold three eras of plumbing: original cast iron and clay, mid-century copper, and newer plastic from a bathroom or kitchen remodel. A repair often has to cross more than one of them, and the joints between materials are where problems tend to start. Knowing that going in helps us choose the right fittings and avoid creating a new weak point."
+    ],
+    "sideTitle": "Where we work in Grandview",
+    "chips": [
+      "Truman Corners",
+      "I-49 and Highway 71",
+      "Main Street",
+      "Near the Truman Farm Home",
+      "Central Grandview",
+      "Near south Kansas City",
+      "Near Raytown",
+      "Near Belton"
+    ]
+  },
+  "services": {
+    "eyebrow": "Grandview services",
+    "h2": "Plumbing for Grandview's mid-century family homes.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heater replacement for post-war basements",
+        "p": "Grandview basements often hold a water heater that has been replaced before and is nearing the end again. We replace tank and tankless units, check the flue and gas connections, and fit proper relief piping. A tank that is leaking from the tank body cannot be patched, so replacement is the honest answer."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for aging copper and galvanized",
+        "p": "Pinhole leaks in mid-century copper and falling pressure in galvanized steel both point to supply piping at the end of its life. We replace lines with PEX or copper, plan routes through basements and closets, and price a partial repipe alongside the full option."
+      },
+      {
+        "key": "dig",
+        "h3": "Sewer excavation on established Grandview lots",
+        "p": "Older sewer lines fail through roots, sags, and collapsed sections. A camera inspection shows which, so we dig only where the failure is. Utilities are located ahead of time, and we explain the plan and the restoration before we begin."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for furnaces, dryers, and ranges",
+        "p": "Original iron gas pipe from the post-war era can corrode at joints. We replace worn sections, extend lines for new appliances, pressure test each run, and check for leaks. Permit rules differ by city, and we cover them when we quote. A smell of gas means leave and call 911."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation for older bathrooms",
+        "p": "Bathroom floors in post-war houses were built to last, but the flange beneath the toilet often was not. We look for rust, cracks, or a flange sitting below the floor, fix what we find, seat the new toilet on a fresh seal, and confirm a clean flush. Replacing more than one? We can do them all in a single visit."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for basement odors and vent leaks",
+        "p": "Damp, sour, or sewer-like smells in a Grandview basement rarely mean the house itself is failing. More often the cause is a floor drain that dried out, a cleanout that lost its cap, or a small break in a vent. Smoke testing shows us which, so the fix is a small one instead of a guess."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Grandview plumbing questions",
+    "items": [
+      {
+        "q": "How do I know if my water heater is about to fail?",
+        "a": "Rust-colored water, popping or rumbling noises, moisture at the base, and age past about ten years are common warning signs. We can check yours and tell you whether it is worth keeping."
+      },
+      {
+        "q": "Are tree roots a common cause of backups here?",
+        "a": "Yes, in older neighborhoods with mature trees and clay or cast iron laterals. A camera inspection shows whether roots are the cause."
+      },
+      {
+        "q": "Can you repipe part of a house?",
+        "a": "Yes. If only one section has failed, we can price a partial repipe alongside a full one so you can compare."
+      },
+      {
+        "q": "Do you offer same-day service?",
+        "a": "Yes for emergencies: we prioritize getting to you the same day whenever we can. Tell us your address and what is happening, and we will give you an honest time."
+      },
+      {
+        "q": "What is the fastest way to stop a leaking pipe?",
+        "a": "Close the nearest shutoff valve, or the main if you cannot find it, and call us. Turning off the water limits damage while we get there."
+      },
+      {
+        "q": "Can you check my plumbing before I buy a house?",
+        "a": "Yes. We can inspect the sewer line with a camera, look at the water heater and visible supply piping, and give you a realistic picture of what needs attention and roughly when."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Grandview borders south Kansas City, and we also serve",
+    "links": [
+      "belton",
+      "raytown",
+      "south-kansas-city",
+      "lees-summit"
+    ]
+  },
+  "contact": {
+    "h2": "Grandview plumbers on call day or night.",
+    "p": "Post-war pipes tend to fail on weekends. Call or send your details and we will follow up."
+  }
+}

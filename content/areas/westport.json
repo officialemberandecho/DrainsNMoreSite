@@ -1,0 +1,123 @@
+{
+  "slug": "westport",
+  "name": "Westport",
+  "label": "Westport, Kansas City, MO",
+  "chip": "Westport",
+  "tile": "Westport",
+  "region": "kc-core",
+  "order": 5,
+  "description": "Westport plumber for historic brick buildings, apartments, and older homes: smoke tests, repipes, water heaters, and 24/7 emergencies.",
+  "blurb": "Smoke tests, repipes and water heater work for Westport's historic brick buildings, apartments and older homes near Westport Road.",
+  "hero": {
+    "eyebrow": "24/7 Westport Emergency Plumber",
+    "h1": "Westport plumber for historic brick, older apartments, and busy mixed-use blocks.",
+    "sub": "Westport is one of Kansas City's oldest neighborhoods, with plumbing to match. Drains N More LLC works in its older homes, apartments, and mixed-use buildings and responds to leaks and backups at any hour.",
+    "badge": "Westport Plumbers",
+    "sideH2": "Careful plumbing for a historic district.",
+    "bullets": [
+      "Smoke tests for old vents and drains",
+      "Repipes for apartments and older homes",
+      "Excavation on tight, established lots"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Westport",
+    "h2": "Kansas City's oldest neighborhood and the pipes that keep it running.",
+    "paras": [
+      "Westport dates to the 1830s, when it served as an outfitting town on the trails west, and it was the site of the 1864 Battle of Westport. Today Westport Road, Broadway, and the streets around them mix restaurants, shops, apartments, and older homes, with a lot of buildings that have been renovated many times over.",
+      "Old brick buildings with mixed uses put unusual demands on plumbing. Apartments above ground-floor businesses share stacks and vents, and remodels over the decades have added, moved, and capped lines without always updating the records. That is why odors and slow drains here can trace to a vent joint or a shared stack rather than a single fixture.",
+      "Residential streets nearby have early-1900s homes with basements, plaster walls, and mature trees. Cast iron drains, clay sewer laterals, and galvanized supply lines are common, and the root systems of old trees are hard on aging joints.",
+      "Westport's foot traffic and parking constraints affect how we work. We plan arrival, loading, and access ahead of time, and we keep the work area tidy so neighbors and tenants can keep going about their day. We also point out shared shutoffs and access panels as we go, so the next repair in the building is faster and cheaper for everyone who lives or works there.",
+      "Renters and owners alike in Westport often have limited information about what is behind their walls. We look at the age and construction of the building, ask about past repairs, and explain what we find in plain language. When a landlord or property manager is involved, we document the problem clearly so responsibility is settled and repairs are not repeated. That documentation also helps when the same building needs work again in a few years and someone new is trying to understand its history."
+    ],
+    "sideTitle": "Where we work in Westport",
+    "chips": [
+      "Westport Road",
+      "Broadway Boulevard",
+      "Pennsylvania Avenue",
+      "Main Street",
+      "Belleview Avenue",
+      "Near Volker",
+      "Near Roanoke",
+      "Near Southwest Trafficway"
+    ]
+  },
+  "services": {
+    "eyebrow": "Westport services",
+    "h2": "Plumbing for Westport's apartments, homes, and mixed-use buildings.",
+    "cards": [
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for old vents and shared stacks",
+        "p": "Westport's apartments and mixed-use buildings often share drain and vent stacks. When a sewer odor shows up, a smoke test through the system shows where it escapes, whether that is a cracked vent above the roofline, a dry trap in an empty unit, or a failing joint inside a wall. We can then repair that spot instead of opening walls to guess."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for early-1900s houses",
+        "p": "Many houses near Westport still run on galvanized supply lines that have narrowed with rust. Because their walls are plaster over lath, we plan repipes carefully: new PEX or copper is routed through basements, closets, and existing chases wherever possible, and we open only what we must. Apartment owners can repipe individual units too."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation on established lots with mature trees",
+        "p": "Older Westport streets have big trees close to houses and sewer lines that were laid decades ago. After a camera inspection shows where a line has failed, we call in the utility locates through 811, route the trench around roots and foundations, and explain what the yard or driveway will look like afterward."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters in basements and apartment closets",
+        "p": "Basement water heaters in older houses often sit at the bottom of narrow stairs, and apartment units may keep them in a closet. We replace tank and tankless water heaters in those spaces, inspect flues and gas connections, and replace corroded valves and connectors while we are there."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation over old floors and flanges",
+        "p": "Old floors and old flanges go together. In a Westport house, a toilet that rocks is often sitting on a cracked cast iron flange or a subfloor softened by a long-ago leak. We check both, repair what we can, set the new toilet level on a fresh seal, and test the flush before we leave."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for older black iron piping",
+        "p": "Black iron gas pipe in early-century buildings can corrode at threaded fittings, and additions like a new range or dryer can overload old lines. We replace worn sections, add runs for appliances, pressure test, and check every joint for leaks. Rules on permits differ from one city to the next, and we sort out what your job needs when we quote it. A gas smell is always a reason to step outside and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Westport plumbing questions",
+    "items": [
+      {
+        "q": "Can you work in a building that has businesses on the ground floor?",
+        "a": "Yes. We coordinate with owners and tenants on shutoffs and timing, and we plan the work to keep disruption to businesses as small as we can."
+      },
+      {
+        "q": "Why does my Westport apartment smell like sewage?",
+        "a": "Common causes are a dry trap in an unused drain, a failed vent joint, or a cracked stack. A smoke test shows which. Running water in unused drains once a month is a simple way to keep traps sealed."
+      },
+      {
+        "q": "How do I know if my old house needs a repipe?",
+        "a": "Low pressure at several fixtures, discolored water, and repeated pinhole leaks are the usual signs. We look at the material and the leak history, and we give you targeted repair pricing and repipe pricing so you can compare."
+      },
+      {
+        "q": "Do you handle emergencies at night?",
+        "a": "Yes. We are on call 24 hours a day, seven days a week, including holidays."
+      },
+      {
+        "q": "Can you locate a leak inside a plaster wall?",
+        "a": "Often. We use the layout of the building, pressure testing, and where the stain appears to narrow it down, then open the smallest section needed to reach the pipe."
+      },
+      {
+        "q": "Do you replace water heaters in apartment units?",
+        "a": "Yes, with the landlord's or building's approval. We check venting and clearances, and we plan the shutoff so neighbors are not affected longer than necessary."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Westport neighbors Midtown, and we also serve",
+    "links": [
+      "midtown-kansas-city",
+      "plaza",
+      "country-club",
+      "downtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Westport plumbers on call, 24/7.",
+    "p": "Brick buildings hide problems until they cannot be ignored. Call or send your details and we will schedule a visit."
+  }
+}

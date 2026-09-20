@@ -1,0 +1,125 @@
+{
+  "slug": "riverside",
+  "name": "Riverside",
+  "label": "Riverside, MO",
+  "chip": "Riverside",
+  "tile": "Riverside",
+  "region": "northland",
+  "order": 21,
+  "description": "Riverside plumber for river-bottom homes: sewer lines, floor drains, water heaters, and repipes. Drains N More LLC answers Riverside calls 24/7.",
+  "blurb": "Sewer lines, drains, water heaters and repipes for Platte County homes along the Missouri River bottoms.",
+  "hero": {
+    "eyebrow": "24/7 Riverside Emergency Plumber",
+    "h1": "Riverside plumber for river-bottom homes, floor drains, and reliable repairs.",
+    "sub": "Riverside sits on the Missouri River in Platte County, just north of Kansas City. Drains N More LLC handles the drains, sewer lines, and water heaters in its neighborhoods and answers emergencies at any hour.",
+    "badge": "Riverside Plumbers",
+    "sideH2": "Plumbing for river-bottom living.",
+    "bullets": [
+      "Sewer line inspection and excavation",
+      "Water heater replacement",
+      "Repipes for aging supply lines"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Riverside",
+    "h2": "A small river city with flat ground and a high water table to think about.",
+    "paras": [
+      "Riverside is a Platte County city along the Missouri River, just northwest of downtown Kansas City, near I-635 and Highway 9. Its neighborhoods include modest mid-century homes, later infill, and developments closer to the river, with a working-river history that has shaped the community.",
+      "Flat river-bottom ground has plumbing consequences. The water table can be high, groundwater can affect basement and crawlspace plumbing, and low-lying areas ask more of floor drains and sump systems. When a drain backs up or smells, it is worth confirming whether the cause is plumbing or water outside the house.",
+      "Homes built in the mid-twentieth century commonly have copper supply lines and cast iron or early plastic drains. Sewer laterals in flat areas can have little slope to work with, which makes them more prone to slow flow and buildup over the years.",
+      "We start with the simple causes and move toward the larger ones: a dry trap, a partial clog, a sag in the line, a root intrusion. A camera inspection settles the question, and it tells us whether cleaning will help or a repair is warranted. Ask us if you are unsure whether a hose bib or an exterior drain on your property is protected for winter.",
+      "Riverside's location near I-635, Highway 9, and the river makes it a quick drive to downtown Kansas City and the airport corridor, and many residents commute. That means plumbing emergencies often surface at inconvenient times, on a weekday morning before work or on an evening when everyone is home. We schedule around your commute where we can and answer emergencies around the clock so a failing heater or a backed-up drain does not have to wait.",
+      "Older Riverside homes often started as smaller houses that owners expanded over the years, adding rooms, bathrooms, or a laundry. Each addition brought new plumbing that was tied into the existing lines, sometimes cleanly and sometimes not. When we trace a problem, we follow the pipe rather than assuming the original layout, and we explain what we find so you understand what your house actually has.",
+      "Because river-bottom soil can hold moisture, exterior plumbing such as hose bibs, outdoor drains, and buried lines deserves more attention than it might elsewhere. Freeze protection and proper drainage around exterior fixtures reduce winter problems, and we are glad to walk through what to check before the cold season."
+    ],
+    "sideTitle": "Where we work in Riverside",
+    "chips": [
+      "Highway 9",
+      "I-635",
+      "Near the Missouri River",
+      "Line Creek area",
+      "Near Parkville",
+      "Near North Kansas City",
+      "Central Riverside",
+      "River-bottom neighborhoods"
+    ]
+  },
+  "services": {
+    "eyebrow": "Riverside services",
+    "h2": "Plumbing for Riverside's low-lying, river-side homes.",
+    "cards": [
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for drain odors and vent leaks",
+        "p": "Odors in a low-lying home can come from the plumbing or from moisture outside, and telling them apart matters. A smoke test through the drain and vent system shows whether the plumbing is leaking into your home, which helps you decide where to focus your time and money."
+      },
+      {
+        "key": "dig",
+        "h3": "Sewer line inspection and excavation",
+        "p": "Flat lots leave sewer lines with little slope, which can mean slow flow, buildup, and sags. A camera inspection shows the condition of the line, and if excavation is needed, we have the underground utilities located, dig only what the repair requires, and explain how the yard will be restored."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement for river-bottom homes",
+        "p": "Basements and utility rooms in low-lying areas can be damp, which is hard on water heaters. We replace tank and tankless units, check the flue and gas connections, and raise or protect equipment where it helps. If your heater is leaking, we can usually replace it promptly."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for mid-century copper and galvanized lines",
+        "p": "Copper supply lines from the 1950s through the 1970s can develop pinhole leaks, and galvanized pipe loses flow with age. We can price a full repipe alongside targeted repairs, use PEX or copper, and plan routes that limit wall openings."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation that seals and stays level",
+        "p": "A new toilet is only as good as the flange and seal beneath it. We inspect both, correct what we find, set the toilet level on a new seal, connect a fresh supply line, and test the fill and flush. Multiple bathrooms can be scheduled together."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes and new appliance lines",
+        "p": "Older gas piping can corrode at joints, and new appliances can overload a line that was sized for the old ones. We replace worn sections, extend lines, pressure test, and check every joint for leaks. Permits vary by city, and we go over what applies at your address. A gas smell means leaving and calling 911 first."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Riverside plumbing questions",
+    "items": [
+      {
+        "q": "Why does my floor drain smell after heavy rain?",
+        "a": "Rain can raise groundwater, stress drains, and dry out or push past a trap. We check the trap, the drain line, and the vent to see whether the plumbing is the source."
+      },
+      {
+        "q": "How do I know if my sewer line has a sag?",
+        "a": "Repeated slow drains and standing water in the line are signs. A camera inspection shows sags and how serious they are."
+      },
+      {
+        "q": "Is a damp basement always a plumbing problem?",
+        "a": "No. Groundwater, grading, and gutters can all be involved. We check the plumbing first because it is quick to rule in or out, and we tell you honestly if the cause looks like something else."
+      },
+      {
+        "q": "Do you serve all of Riverside?",
+        "a": "Yes. Call with your address and we will confirm timing."
+      },
+      {
+        "q": "Can you help at night?",
+        "a": "Yes, on call 24/7. We put water shutoff and containment first, then talk through the permanent repair."
+      },
+      {
+        "q": "Do you help with outdoor plumbing like hose bibs and outside drains?",
+        "a": "Yes. We repair and replace exterior fixtures and can advise on winterizing so they do not freeze and split."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Riverside neighbors Parkville and North Kansas City, and we also serve",
+    "links": [
+      "parkville",
+      "north-kansas-city",
+      "gladstone",
+      "smithville"
+    ]
+  },
+  "contact": {
+    "h2": "Riverside plumbers on call, 24/7.",
+    "p": "Low ground and old pipe make a tough combination. Call or send your details and we will follow up."
+  }
+}

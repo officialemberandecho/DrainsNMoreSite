@@ -1,0 +1,122 @@
+{
+  "slug": "gladstone",
+  "name": "Gladstone",
+  "label": "Gladstone, MO",
+  "chip": "Gladstone",
+  "tile": "Gladstone",
+  "region": "northland",
+  "order": 17,
+  "description": "Gladstone plumber for gas line repipes, aging copper pipe, water heaters, and toilets. Drains N More LLC answers Northland calls 24/7.",
+  "blurb": "Gas line and copper repipes for mid-century Northland homes along Antioch Road, North Oak Trafficway and 76th Street.",
+  "hero": {
+    "eyebrow": "24/7 Gladstone Emergency Plumber",
+    "h1": "Gladstone, MO plumber for gas lines, water heaters, repipes, and emergencies.",
+    "sub": "North of the river in Clay County, Gladstone's mid-century homes and established streets keep their plumbing busy. Drains N More LLC answers Gladstone calls at any hour and offers same-day help for leaks, backups, and failed water heaters.",
+    "badge": "Gladstone Plumbers",
+    "sideH2": "Northland plumbing help, day or night.",
+    "bullets": [
+      "Gas line repipes for furnaces and appliances",
+      "Whole-home repipes for aging copper and galvanized",
+      "Toilet installs and water heater swaps"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Gladstone",
+    "h2": "Established Northland streets and the plumbing behind them.",
+    "paras": [
+      "Gladstone is a Clay County city in the Northland, with Antioch Road, North Oak Trafficway, and 76th Street as its main routes and Happy Rock Park, Linden Square, and the Gladstone Community Center as familiar landmarks. Much of the housing dates to the middle of the last century, when the Northland filled in with ranches, split-levels, and two-story homes.",
+      "Homes from that era have sturdy bones and aging systems. Copper supply lines that have been in service for decades can develop pinhole leaks. Gas piping to furnaces, water heaters, and ranges may be original iron. Cast iron drains have often been patched and extended over time. None of that is unusual, but it is exactly what to look for before a small leak or odor becomes an emergency.",
+      "Many Gladstone homes also have finished basements and long-unused floor drains, so sewer smells and slow leaks tend to show up in living space. We diagnose first and repair second, so the fix matches the actual problem.",
+      "Gladstone's older neighborhoods were built with copper supply lines and cast iron drains that have often been repaired and extended over the years, sometimes by earlier owners without records. When we open a wall, we frequently find a mix of materials joined by transition fittings. Those joints are where leaks like to start, and knowing they are there helps us plan a repair that lasts rather than patching the same spot twice. In practice, we spend the first few minutes of a visit identifying materials, because the right repair where copper meets galvanized steel is different from the right repair where copper meets cast iron."
+    ],
+    "sideTitle": "Where we work in Gladstone",
+    "chips": [
+      "Antioch Road",
+      "North Oak Trafficway",
+      "76th Street",
+      "Happy Rock Park area",
+      "Linden Square area",
+      "Community Center area",
+      "North Gladstone",
+      "South Gladstone"
+    ]
+  },
+  "services": {
+    "eyebrow": "Gladstone services",
+    "h2": "Six ways we help Gladstone homeowners.",
+    "cards": [
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for furnaces, water heaters, and ranges",
+        "p": "Original iron gas pipe in a mid-century home can corrode at fittings and joints. We replace worn sections or complete runs, pressure test the new piping, and check for leaks before we call the job done. If you are adding an appliance, we size the line to handle it. Permits and inspections vary by city, so we go over what your project needs. If you smell gas, get out and call 911."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for aging copper and galvanized pipe",
+        "p": "Repeated pinhole leaks in copper, or falling pressure from galvanized pipe, mean the system is wearing out as a whole. Replacing sections one leak at a time adds up. We can price a full repipe with PEX or copper and compare it to targeted repairs, so you can choose based on what the house needs."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement without the guesswork",
+        "p": "If your Gladstone water heater is leaking, popping from sediment, or no longer keeping up, we assess whether a repair is worth it. When replacement is the answer, we handle removal, install, venting, and connections, and we can talk through tankless options if your gas supply and space allow."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installations that seal and stay level",
+        "p": "A new toilet is only as good as the flange and seal beneath it. We inspect both, correct what we find, and set the toilet level on a new seal. We connect a fresh supply line, adjust the fill valve, and test flush performance. If you are updating more than one bathroom, we can schedule them together."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for basement sewer odor",
+        "p": "Musty or sewer smells in a finished basement usually come from a dry trap, an open cleanout, or a crack in the drain or vent system. Smoke testing pinpoints which. We can also inspect roof vents and floor drains to confirm they are doing their jobs. Fixing the right thing the first time saves money."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for sewer and water service repairs",
+        "p": "When a line is broken or collapsed, we dig only where a camera inspection tells us to. Underground utilities get marked through 811 first, then we open the trench, make the repair, and backfill. We explain what to expect for your yard, driveway, or walk before we start."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Gladstone plumbing FAQ",
+    "items": [
+      {
+        "q": "Are pinhole leaks in copper a sign I need a repipe?",
+        "a": "One pinhole is a repair. Several in a short time usually mean the pipe is failing from the inside. We can evaluate the pattern and give you both repair and repipe pricing."
+      },
+      {
+        "q": "How do I know if my gas line needs repiping?",
+        "a": "Signs include a gas smell near appliances, corroded fittings, and piping that is too small for a newly added appliance. Never hunt for a leak with a flame. If you smell gas, leave the house and call 911, then call us for the repair."
+      },
+      {
+        "q": "Why does my basement smell like sewage?",
+        "a": "Most of the time it is a dry floor drain trap, an open cleanout, or a small crack in the drain or vent. Pouring water into an unused drain sometimes solves the first one. If the smell persists, a smoke test shows where it is getting in."
+      },
+      {
+        "q": "Do you serve all of Gladstone?",
+        "a": "Yes, from the Antioch Road area to Happy Rock Park and the neighborhoods along 76th Street and North Oak Trafficway."
+      },
+      {
+        "q": "Can you tell me what kind of pipe my home has?",
+        "a": "Usually yes. We check the material where pipes enter the home, near the water heater, and under sinks, then explain what it means for repair or replacement and what to watch for over time."
+      },
+      {
+        "q": "Should I shut anything off if I am away for weeks?",
+        "a": "Closing the main water valve is a smart precaution for a long trip. Many gas water heaters also have a vacation setting. Ask us if you want help setting your home up before you leave."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "We also serve",
+    "links": [
+      "downtown-kansas-city",
+      "midtown-kansas-city",
+      "independence",
+      "blue-springs"
+    ]
+  },
+  "contact": {
+    "h2": "Call a Gladstone plumber any hour.",
+    "p": "Whether it is a gas line, a leaking heater, or a toilet that will not stay put, call or send your details and we will follow up."
+  }
+}

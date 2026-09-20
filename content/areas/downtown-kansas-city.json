@@ -1,0 +1,123 @@
+{
+  "slug": "downtown-kansas-city",
+  "name": "Downtown Kansas City",
+  "label": "Downtown Kansas City, MO",
+  "chip": "Downtown KC",
+  "tile": "Downtown KC",
+  "region": "kc-core",
+  "order": 1,
+  "description": "Downtown Kansas City plumber for lofts, condos, and historic buildings: water heaters, risers, smoke tests, and gas lines. On call 24/7.",
+  "blurb": "Water heaters, toilets, repipes and smoke tests for lofts, condos and historic buildings from the River Market to Union Station.",
+  "hero": {
+    "eyebrow": "24/7 Downtown Kansas City Emergency Plumber",
+    "h1": "Downtown Kansas City plumber for lofts, condos, and historic buildings.",
+    "sub": "Downtown plumbing means shared risers, tight access, and buildings that were never designed for what they hold today. Drains N More LLC works in the River Market, Crossroads, Power & Light, and beyond, with same-day help for emergencies.",
+    "badge": "Downtown KC Plumbers",
+    "sideH2": "Plumbing for downtown buildings, big and small.",
+    "bullets": [
+      "Water heaters in closets and mechanical rooms",
+      "Toilet installs with unusual rough-ins",
+      "Smoke tests for stacks and shared vents"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Downtown Kansas City",
+    "h2": "Loft conversions, high-rises, and the plumbing inside them.",
+    "paras": [
+      "Downtown Kansas City covers a lot of ground: the River Market and City Market, the Crossroads Arts District, the Power & Light District, Union Station and the Freight House area, and the West Bottoms nearby. Historic warehouses and office buildings have been converted into lofts and apartments, and newer towers stand beside them.",
+      "That variety creates plumbing problems you rarely find in a single-family house. Converted buildings often have older cast iron stacks, vent lines routed through masonry, and supply risers shared between units. A leak in one apartment can affect several below it. Newer buildings bring their own challenges: tight mechanical rooms, water heaters in closets, and access rules set by the building.",
+      "Working downtown also means logistics: elevator reservations, loading zones, and coordination with property managers or HOA boards. We plan for those, protect the work area, and communicate clearly with building staff so jobs go smoothly.",
+      "Some of the oldest buildings downtown predate modern plumbing standards, and later renovations sometimes layered new pipe on top of old without removing what was there. That means a leak can trace back to a pipe that is no longer in use, and a valve that looks like it controls one unit may control several. We map what is in the wall or ceiling before we cut, and we describe what we find so property managers have a clear record of the work.",
+      "The Power & Light District and Crossroads see the same pattern from a different angle: ground-floor spaces above basements or parking structures, where water can travel a long way before it shows up as a stain. When the source of a leak is not obvious, we trace it methodically instead of opening walls at random, which saves time and repair cost for everyone in the building."
+    ],
+    "sideTitle": "Where we work downtown",
+    "chips": [
+      "Downtown Core",
+      "River Market",
+      "Power & Light",
+      "Crossroads",
+      "Freight House",
+      "West Bottoms",
+      "Union Station",
+      "North Downtown"
+    ]
+  },
+  "services": {
+    "eyebrow": "Downtown services",
+    "h2": "Plumbing services for downtown properties.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heaters in closets, mechanical rooms, and lofts",
+        "p": "Downtown units rarely offer much space for a water heater. We replace tank and tankless models in closets, utility rooms, and mechanical spaces, checking venting and shutoffs before installation. Tankless units can free precious square footage when the gas and venting support one. Before starting, we confirm access, elevator, and shutoff requirements with your property manager."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation with non-standard rough-ins",
+        "p": "Converted lofts often have rough-ins that are not standard, with unusual distances from the wall and floors of concrete or aged wood. We check the flange, choose the right seal, and set the toilet level. We can install standard, comfort-height, or wall-hung models where the wall can support them, and we protect finished floors while we work."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes and riser replacement for older buildings",
+        "p": "Aging galvanized risers and branch lines restrict flow and leak at threaded joints. We repipe individual units and coordinate with building management on shutoffs and schedules when a shared riser is involved. New PEX or copper gives you stronger pressure and fewer leaks, and we plan the work to limit the number of walls opened."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke testing for stacks, vents, and sewer odors",
+        "p": "In a large building, tracing a sewer odor is a scavenger hunt. Smoke testing removes the guesswork by showing where smoke escapes from stacks, vents, and floor drains. It works especially well for finding failed vent joints or dry traps in units that are seldom used, and it helps building managers document exactly what needs to be fixed."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for lofts and multi-unit buildings",
+        "p": "Converted buildings sometimes have gas piping that was rerouted several times. We repair and replace gas piping, add lines for ranges and dryers, pressure test each run, and check joints for leaks. Property managers can coordinate shutoffs with us, and permit needs depend on the building and the work. Gas odor in the air means leave the unit and call 911."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation in tight urban right-of-way",
+        "p": "Downtown digs mean sidewalks, curbs, and buried utilities in close quarters. Before any excavation, underground lines are marked through 811, and work near public right-of-way may involve additional approvals from the city. We plan around access, traffic, and neighboring properties so a repair to a sewer or water service line does not turn into a bigger disruption."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Downtown Kansas City plumbing questions",
+    "items": [
+      {
+        "q": "Can you coordinate with my building's property manager?",
+        "a": "Yes. Many downtown jobs involve shutoffs, elevator use, or access to shared areas, so we work with property managers to schedule around their requirements."
+      },
+      {
+        "q": "Why does one leak in my loft affect the units below?",
+        "a": "Older buildings share stacks and risers, and water follows gravity through floors and ceilings. A quick shutoff and repair limits the damage, which is why we recommend not waiting on a small leak."
+      },
+      {
+        "q": "Do you install wall-hung or specialty toilets?",
+        "a": "Where the wall or floor supports them, yes. We check the framing and plumbing rough-in first, and if the space cannot accommodate a specialty fixture, we suggest an alternative that will."
+      },
+      {
+        "q": "How do you track down sewer odors in a big building?",
+        "a": "We start with the easy causes, then use smoke testing to show the leak path through the drain and vent system so we repair the right thing."
+      },
+      {
+        "q": "Can you work around a building's quiet hours?",
+        "a": "We schedule around a building's rules whenever the situation allows. In a true emergency, such as an active leak, we respond first and coordinate with the property manager as we go."
+      },
+      {
+        "q": "What should I do while I wait for a plumber?",
+        "a": "Close the shutoff valve for your unit or the main if you can find it, move belongings away from the wet area, and let your property manager know. Then call us so we can arrive prepared for what you are describing."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "We also serve",
+    "links": [
+      "midtown-kansas-city",
+      "independence",
+      "raytown",
+      "gladstone"
+    ]
+  },
+  "contact": {
+    "h2": "Downtown plumbing help, 24/7.",
+    "p": "Burst supply line, dead water heater, or a smell you cannot trace? Call or send your details and we will follow up."
+  }
+}

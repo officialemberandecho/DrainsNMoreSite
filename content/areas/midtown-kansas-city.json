@@ -1,0 +1,123 @@
+{
+  "slug": "midtown-kansas-city",
+  "name": "Midtown Kansas City",
+  "label": "Midtown Kansas City, MO",
+  "chip": "Midtown KC",
+  "tile": "Midtown KC",
+  "region": "kc-core",
+  "order": 2,
+  "description": "Midtown Kansas City plumber for historic homes and apartments: plaster-friendly repipes, smoke tests, and water heaters. On call 24/7.",
+  "blurb": "Plumbing for historic Midtown homes and apartments, from Hyde Park and Roanoke to Hospital Hill and Volker.",
+  "hero": {
+    "eyebrow": "24/7 Midtown Kansas City Emergency Plumber",
+    "h1": "Midtown Kansas City plumber for historic homes, apartments, and urgent repairs.",
+    "sub": "From Hyde Park and Roanoke to Westport and the Plaza, Midtown's early-1900s homes and multi-unit buildings need plumbers who respect old construction. Drains N More LLC serves Midtown at any hour, with same-day help for emergencies.",
+    "badge": "Midtown KC Plumbers",
+    "sideH2": "Careful plumbing for historic Midtown buildings.",
+    "bullets": [
+      "Repipes for plaster-wall houses and older buildings",
+      "Smoke tests for old vents and cast iron stacks",
+      "Toilet and water heater replacements"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Midtown Kansas City",
+    "h2": "Brick, plaster, and cast iron: plumbing in historic Midtown.",
+    "paras": [
+      "Midtown Kansas City stretches from Westport and the Country Club Plaza to Hospital Hill, Hyde Park, Roanoke, and the Volker area. Westport dates to the 1830s, the Plaza opened in the 1920s, and many of the neighborhoods between were built in the early decades of the twentieth century with brick homes, porches, and mature street trees.",
+      "That history is charming and expensive to maintain. Plaster-and-lath walls make pipe access harder. Houses converted to duplexes or apartments carry plumbing that has been altered over many years. Cast iron drain stacks corrode, and galvanized supply lines run through walls with little room to work. Old vent connections lose their seals, and sewer gas finds its way into rooms.",
+      "We treat Midtown jobs with more planning than a newer house needs. That means tracing existing runs before cutting, protecting original finishes, and explaining options that avoid opening more wall than necessary.",
+      "Duplex and apartment conversions add a wrinkle: shared drain stacks, shared shutoffs, and tenants who cannot see what is happening in the unit above. When a leak or odor affects more than one unit, we look at the stack and the vents first instead of treating each unit as a separate problem, which usually finds the cause faster and prevents repeat calls.",
+      "Westport's older commercial buildings and the apartment blocks around Hospital Hill add another layer, with plumbing that has been modified for decades by different owners and contractors. We trace before we cut, protect finished surfaces where we can, and leave clear notes about what changed so the next person who opens that wall is not starting from zero."
+    ],
+    "sideTitle": "Where we work in Midtown",
+    "chips": [
+      "Westport",
+      "Country Club Plaza",
+      "Hyde Park",
+      "Hospital Hill",
+      "Roanoke",
+      "Volker",
+      "Waldo and Brookside",
+      "Central Midtown"
+    ]
+  },
+  "services": {
+    "eyebrow": "Midtown services",
+    "h2": "What we do for Midtown homes and buildings.",
+    "cards": [
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for old vents and cast iron stacks",
+        "p": "Sewer odors in older Midtown buildings often trace to cracked stacks, failing vent joints, or traps that dried out in unused fixtures. Smoke testing sends non-toxic smoke through the drain and vent system and shows exactly where it escapes, including inside walls and above the roofline. It is a clean way to diagnose before opening plaster."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes that respect plaster and lath",
+        "p": "Galvanized supply lines in older homes lose flow as rust builds up inside. Repiping a plaster house takes planning: we route new PEX or copper through the least intrusive paths, use existing chases and basement or crawlspace access where possible, and limit wall openings. We also repipe individual units in duplexes and multi-family buildings."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation on old floors and flanges",
+        "p": "In an older Midtown house, a toilet that rocks often sits on a cracked cast iron flange or a floor softened by an old leak. We check the flange and the subfloor, fix what we can, and set the new toilet level on a fresh seal. Apartment and duplex owners can schedule multiple units in one trip."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement in tight basements and closets",
+        "p": "Midtown basements have low ceilings and narrow stairs, and apartments often put the heater in a closet. We replace tank and tankless water heaters in cramped spaces, check flues and gas connections, and swap out corroded valves and connectors while we are there. Tankless can free up floor space, if the gas supply works."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas repipes for old black iron and added appliances",
+        "p": "Black iron gas pipe in early-century homes can corrode, and additions like a gas range or dryer may overload old lines. We replace worn gas piping, add new runs for appliances, pressure test, and check every connection. Whether a permit applies depends on the city and the scope, which we sort out when we quote. Smelling gas is an emergency: leave first, then call 911."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation in tight lots and mature tree roots",
+        "p": "Many Midtown homes sit on narrow lots with old trees and little space between the house and property line. When a sewer or water service line must be exposed, we have buried utilities located through 811 first, plan the trench route around roots and foundations, and talk through the impact on your yard before we begin."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Midtown plumbing questions",
+    "items": [
+      {
+        "q": "Can you replace pipes in a plaster-and-lath house?",
+        "a": "Yes, though it requires planning. We look for accessible routes through basements, closets, and existing chases to limit how many walls are opened."
+      },
+      {
+        "q": "Why does my old apartment building smell like sewage?",
+        "a": "Dry traps in unused sinks and floor drains, failed vent joints, and cracked cast iron stacks are common causes. A smoke test identifies which one you have."
+      },
+      {
+        "q": "Do you work on duplexes and multi-unit buildings?",
+        "a": "Yes. We work in single-family homes and small multi-unit properties around Midtown, and we can coordinate with landlords and tenants."
+      },
+      {
+        "q": "How do I choose between repairing and repiping galvanized lines?",
+        "a": "If the pipe is corroded throughout, repairs tend to lead to more repairs. We test sample sections and compare the cost of targeted fixes with a full repipe, so you can decide with real numbers."
+      },
+      {
+        "q": "Will you show me what you find inside the walls?",
+        "a": "Yes. When walls or ceilings are opened, we show you what we found, explain the options, and photograph the condition of the pipe so you have a record for your own files or for your landlord."
+      },
+      {
+        "q": "How can I tell whether a smell is a sewer problem?",
+        "a": "Sewer gas tends to come and go with drain use, weather, or wind, and it can smell much like the odorant added to natural gas. If you smell gas near an appliance or meter, leave the building and call 911 first. Otherwise, a smoke test can show whether the drain system is the source."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "We also serve neighboring",
+    "links": [
+      "downtown-kansas-city",
+      "independence",
+      "raytown",
+      "gladstone"
+    ]
+  },
+  "contact": {
+    "h2": "Midtown plumbers, on call 24/7.",
+    "p": "Old house, new problem? Call or send your details, and we will schedule a visit."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "east-side-kansas-city",
+  "name": "East Side Kansas City",
+  "label": "East Side Kansas City, MO",
+  "chip": "East Side KC",
+  "tile": "East Side KC",
+  "region": "kc-core",
+  "order": 10,
+  "description": "East Side Kansas City plumber for older homes: repipes, sewer excavation, water heaters, and smoke tests. Drains N More LLC, on call 24/7.",
+  "blurb": "Repipes, sewer excavation and water heaters for older homes east of Troost, from 18th and Vine to the Northeast and Blue Hills.",
+  "hero": {
+    "eyebrow": "24/7 East Side Kansas City Emergency Plumber",
+    "h1": "East Side Kansas City plumber for older homes, historic blocks, and dependable repairs.",
+    "sub": "East of Troost Avenue, Kansas City's East Side has some of the city's oldest housing and its deepest history. Drains N More LLC repairs and replaces the plumbing in these homes and answers emergencies at any hour.",
+    "badge": "East Side Plumbers",
+    "sideH2": "Respectful, thorough work in older homes.",
+    "bullets": [
+      "Repipes for early-1900s supply lines",
+      "Excavation for old clay and cast iron sewers",
+      "Smoke tests for odors and vent leaks"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing on the East Side",
+    "h2": "Historic neighborhoods, old materials, and homes worth keeping in good repair.",
+    "paras": [
+      "Kansas City's East Side is a broad area east of Troost Avenue that includes the 18th and Vine Jazz District, Blue Hills, Ivanhoe, and the historic Northeast, running out toward the Truman Sports Complex. It holds some of the oldest housing in the city, including brick foursquares, bungalows, and older multi-family buildings dating from the early 1900s.",
+      "Homes that old often still have their original plumbing in part: cast iron drains, clay sewer laterals, galvanized supply lines, and shutoff valves that have not been turned in decades. Some have been repaired many times, and some have sat vacant, which affects the condition of pipes and fixtures in ways that are not obvious from the outside.",
+      "For owners renovating older homes, plumbing is often the first hidden cost. We inspect thoroughly, explain what is failing and what is not, and give you priorities so you can spend where it matters most and phase the rest.",
+      "Long-time homeowners here have often maintained their houses carefully for decades, and we treat them accordingly: clean work, clear explanations, and no pressure to replace things that still have life. If you have questions about what we find, we are glad to explain it in as much detail as you would like, and to show you photos of the pipe itself.",
+      "The East Side's historic blocks include many houses with details worth protecting, from original woodwork to plaster ceilings. When plumbing work requires opening a wall or a floor, we plan the smallest opening that lets us do the job properly and explain how it will be patched or what a finish carpenter would need to do afterward. Preserving what is original matters to many owners here, and we take that seriously.",
+      "Investors and first-time buyers renovating houses on the East Side often work against a budget and a schedule. We help by giving clear priorities: what has to be fixed before you move in, what can wait a year, and what is fine as it is. That kind of triage keeps a renovation from stalling on plumbing surprises, and we coordinate with contractors on rough-in timing so plumbing is finished before drywall and floors close up."
+    ],
+    "sideTitle": "Where we work on the East Side",
+    "chips": [
+      "18th and Vine",
+      "Blue Hills",
+      "Ivanhoe",
+      "Independence Avenue",
+      "Near Troost Avenue",
+      "Historic Northeast",
+      "Near Swope Parkway",
+      "Near the Truman Sports Complex"
+    ]
+  },
+  "services": {
+    "eyebrow": "East Side services",
+    "h2": "Plumbing work for East Side homes and buildings.",
+    "cards": [
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for early-1900s homes",
+        "p": "Galvanized supply lines in early-1900s homes have often narrowed to a fraction of their original capacity. We replace them with PEX or copper, plan routes through basements and closets to limit wall openings, and price partial repipes when only part of the house is affected. For renovations, we coordinate timing so walls are open only once."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for old clay and cast iron sewer lines",
+        "p": "Older sewer lines fail in familiar ways: roots in the joints, sags that hold water, and collapsed sections. A camera inspection shows which, so we dig where the failure is rather than guessing. Buried utilities get located first, and we explain the scope before we begin."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for sewer gas and vent problems",
+        "p": "Sewer gas can escape through cracked vents, dried traps, or lines that were capped or altered decades ago. A smoke test through the drain and vent system shows where it leaks, whether in an occupied home or a vacant one you are considering buying. The result is a clear list of what to repair."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement in older basements",
+        "p": "Old basements come with low ceilings, narrow stairs, and venting that has been changed over time. We replace tank and tankless water heaters in those spaces, inspect the flue and gas connections, and bring the piping up to current standards. A leaking tank is a replacement, not a repair."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation on aging floors and flanges",
+        "p": "In older homes, toilets often sit on flanges that have cracked, shifted, or rusted. We inspect the flange and the floor around it, repair or replace what is needed, and set the new toilet level on a fresh seal, testing the fill and flush before we leave."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for older appliances",
+        "p": "Original iron gas piping can corrode at threaded joints, and appliance upgrades sometimes need larger lines. We replace worn gas piping, extend lines for new appliances, pressure test each run, and check for leaks. Permits depend on the city and the scope of work, and we cover that when we quote. Smell gas? Get out first, then call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "East Side plumbing questions",
+    "items": [
+      {
+        "q": "I am renovating an older home. Where should I start with the plumbing?",
+        "a": "Start with an inspection: a camera run through the sewer line and a look at the supply piping and water heater. That tells you what is failing and lets you set priorities before walls are closed."
+      },
+      {
+        "q": "Is it worth repairing an old cast iron drain?",
+        "a": "Often, yes, if the pipe is sound. Cast iron can last a very long time, and spot repairs or replacing only the failed sections can be more economical than replacing everything. We show you the condition."
+      },
+      {
+        "q": "What should I check when buying a vacant older house?",
+        "a": "A camera inspection of the sewer line, a smoke test of the drain and vent system, and a look at the water heater and supply piping tell you most of what you need to know before closing."
+      },
+      {
+        "q": "Do you work on multi-family buildings?",
+        "a": "Yes, on small multi-unit buildings, coordinating with owners and tenants about access and shutoffs."
+      },
+      {
+        "q": "Can you come out for an emergency after hours?",
+        "a": "Yes, day or night."
+      },
+      {
+        "q": "Can you provide an estimate before I buy a house?",
+        "a": "Yes. We can inspect the sewer line, water heater, and supply piping and give you a realistic picture of what needs attention, which is useful when you are negotiating a price."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "The East Side borders Midtown and Independence, and we also serve",
+    "links": [
+      "midtown-kansas-city",
+      "downtown-kansas-city",
+      "independence",
+      "raytown"
+    ]
+  },
+  "contact": {
+    "h2": "East Side plumbers on call, any hour.",
+    "p": "Old pipes and new problems, day or night. Call or send your details and we will schedule a visit."
+  }
+}

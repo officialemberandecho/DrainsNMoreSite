@@ -1,3 +1,10 @@
 node_modules/
 .DS_Store
 .vscode/
+
+# Private notes: never commit
+notes/
+_notes/
+NOTES.md
+*.notes.md
+*.private.md

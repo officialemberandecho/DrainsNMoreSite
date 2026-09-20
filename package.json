@@ -1,11 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "build": "npm run build:html && npm run build:css && npm run build:sitemap",
+    "build": "node tools/build.mjs",
     "build:html": "node tools/build-partials.mjs",
     "build:css": "tailwindcss -i ./tailwind-input.css -o ./css/tailwind.css --minify",
     "build:sitemap": "node tools/build-sitemap.mjs",
-    "check": "npm run check:html && npm run check:sitemap",
+    "check": "node tools/build.mjs --check",
     "check:html": "node tools/build-partials.mjs --check",
     "check:sitemap": "node tools/build-sitemap.mjs --check"
   },

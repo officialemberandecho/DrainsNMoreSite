@@ -1,0 +1,107 @@
+[
+  {
+    "from": "/about/",
+    "to": "/#about",
+    "title": "About Drains N More LLC"
+  },
+  {
+    "from": "/contact/",
+    "to": "/#contact",
+    "title": "Contact Drains N More LLC"
+  },
+  {
+    "from": "/contact-us/",
+    "to": "/#contact",
+    "title": "Contact Drains N More LLC"
+  },
+  {
+    "from": "/gallery/",
+    "to": "/",
+    "title": "Drains N More LLC Kansas City Plumber"
+  },
+  {
+    "from": "/reviews/",
+    "to": "/#reviews",
+    "title": "Customer Reviews | Drains N More LLC"
+  },
+  {
+    "from": "/areas-we-serve/",
+    "to": "/areas/",
+    "title": "Service Areas | Drains N More LLC"
+  },
+  {
+    "from": "/services/water-heater/",
+    "to": "/services/water-heater-repair/",
+    "title": "Water Heater Repair | Drains N More LLC"
+  },
+  {
+    "from": "/services/drain-water-line/",
+    "to": "/services/emergency-drain-cleaning/",
+    "title": "Drain Cleaning | Drains N More LLC"
+  },
+  {
+    "from": "/services/water-quality-pumps/",
+    "to": "/services/",
+    "title": "Plumbing Services | Drains N More LLC"
+  },
+  {
+    "from": "/blue-springs-plumber.html",
+    "to": "/areas/blue-springs/",
+    "title": "Blue Springs Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/downtown-kansas-city-plumber.html",
+    "to": "/areas/downtown-kansas-city/",
+    "title": "Downtown Kansas City Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/gladstone-plumber.html",
+    "to": "/areas/gladstone/",
+    "title": "Gladstone Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/independence-plumber.html",
+    "to": "/areas/independence/",
+    "title": "Independence Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/lees-summit-plumber.html",
+    "to": "/areas/lees-summit/",
+    "title": "Lee's Summit Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/midtown-kansas-city-plumber.html",
+    "to": "/areas/midtown-kansas-city/",
+    "title": "Midtown Kansas City Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/raytown-plumber.html",
+    "to": "/areas/raytown/",
+    "title": "Raytown Plumber | Drains N More LLC"
+  },
+  {
+    "from": "/emergency-drain-cleaning.html",
+    "to": "/services/emergency-drain-cleaning/",
+    "title": "Emergency Drain Cleaning | Drains N More LLC"
+  },
+  {
+    "from": "/water-heater-repair.html",
+    "to": "/services/water-heater-repair/",
+    "title": "Water Heater Repair | Drains N More LLC"
+  },
+  {
+    "from": "/sewer-line-repair.html",
+    "to": "/services/sewer-line-repair/",
+    "title": "Sewer Line Repair | Drains N More LLC"
+  },
+  {
+    "from": "/gas-line-services.html",
+    "to": "/services/gas-line-services/",
+    "title": "Gas Line Services | Drains N More LLC"
+  },
+  {
+    "from": "/smoke-testing.html",
+    "to": "/services/smoke-testing/",
+    "title": "Smoke Testing | Drains N More LLC"
+  }
+]

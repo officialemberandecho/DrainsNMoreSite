@@ -1,0 +1,124 @@
+{
+  "slug": "liberty",
+  "name": "Liberty",
+  "label": "Liberty, MO",
+  "chip": "Liberty",
+  "tile": "Liberty",
+  "region": "northland",
+  "order": 16,
+  "description": "Liberty plumber for historic square homes and new subdivisions: water heaters, repipes, gas lines, and excavation. Drains N More LLC, 24/7.",
+  "blurb": "Water heaters, gas lines and repipes for homes from the historic Liberty Square to new subdivisions off Highway 152 and Missouri 291.",
+  "hero": {
+    "eyebrow": "24/7 Liberty Emergency Plumber",
+    "h1": "Liberty plumber for historic square homes, growing subdivisions, and busy families.",
+    "sub": "Liberty combines a historic courthouse square with some of the Northland's fastest-growing neighborhoods. Drains N More LLC serves both, from older homes near the square to newer subdivisions, and answers emergencies at any hour.",
+    "badge": "Liberty Plumbers",
+    "sideH2": "Plumbing for old Liberty and new Liberty.",
+    "bullets": [
+      "Water heaters and toilets for growing households",
+      "Gas lines for generators and outdoor kitchens",
+      "Repipes and excavation for older homes"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Liberty",
+    "h2": "A county seat with 1800s roots and neighborhoods still being built.",
+    "paras": [
+      "Liberty is the county seat of Clay County and has a history that shows around its historic square, where the Jesse James Bank Museum and the nearby Liberty Jail Historic Site are among the well-known landmarks. William Jewell College is one of the city's anchors, and neighborhoods spread out from the square toward Highway 152, Missouri 291, and I-35.",
+      "Near the square, older homes from the late 1800s and early 1900s share streets with more modern infill. Cast iron drains, clay sewer laterals, and galvanized or early copper supply lines are common there, with the usual mix of repairs by previous owners.",
+      "Beyond the historic core, Liberty has grown steadily, with newer subdivisions, larger homes, and households that use a lot of hot water and gas. Water heaters sized to the minimum, expansion tank needs, and gas capacity for generators and outdoor living come up often.",
+      "That range means we approach each Liberty call differently. A house near the square needs careful, minimal-opening work and a look at old materials. A newer home needs the right sizing and a plan for the appliances it is likely to add. Whether the house is a century old or three years old, we explain each option before we begin.",
+      "Around the square, the age of the buildings means that plumbing decisions are often shaped by preservation. Owners of older homes and small historic properties want work that respects what they have, and we plan access and repairs accordingly, keeping openings small and finishes intact where we can. We are also careful about documentation, describing what we find in old walls so the next owner or contractor knows the history.",
+      "Growth in the Northland means new homes going up quickly, and not every one gets the same level of plumbing attention at the finish stage. Builders work to a schedule, and small issues such as a water heater set with too little clearance, a missing expansion tank, or a vent tie-in left loose can show up in the first few years. We are happy to look at a newer home and check the details that tend to get missed."
+    ],
+    "sideTitle": "Where we work in Liberty",
+    "chips": [
+      "Liberty Square",
+      "Highway 152",
+      "Missouri 291",
+      "I-35 corridor",
+      "Near William Jewell College",
+      "Shoal Creek Parkway",
+      "Kansas Street",
+      "Near the historic square"
+    ]
+  },
+  "services": {
+    "eyebrow": "Liberty services",
+    "h2": "Plumbing for Liberty's historic homes and newer neighborhoods.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heaters for growing Liberty households",
+        "p": "A new Liberty subdivision means more people and more bathrooms under one roof, and a heater picked for the minimum will not keep up. We match the replacement to how your household really uses hot water, offer tankless where the gas supply allows, and add an expansion tank on closed systems to protect the unit from pressure swings."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for generators, grills, and outdoor kitchens",
+        "p": "Standby generators and outdoor kitchens are popular in Liberty's newer neighborhoods, and both depend on a properly sized gas line. We add up the total demand, size the piping to match, test it under pressure, and check each fitting for leaks. Permit rules are set city by city, so ask us what applies. If gas is ever in the air, get out and call 911."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for homes near the historic square",
+        "p": "Older homes near the square often have galvanized or early copper supply lines. We replace them with PEX or copper, route around plaster and original finishes, and limit wall openings. If only one section has failed, we price a partial repipe alongside the full option."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation, standard to high-end",
+        "p": "Liberty homeowners upgrading a bathroom often bring their own fixture: a tall comfort-height bowl, a one-piece model, or a seat with a built-in bidet. We confirm the rough-in dimensions first, then handle the swap from start to finish, including a fresh supply line, a new seal, and a flush test. Several bathrooms can be handled in one visit."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for long water and sewer service lines",
+        "p": "Bigger Liberty lots can put a long stretch of buried pipe between the street and the house. Once a camera inspection shows where a failure sits, we have the underground utilities located through 811, choose a route around irrigation and mature plantings, and explain how the surface will be restored."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests after remodels and additions",
+        "p": "Additions and finished basements are common in Liberty's growing neighborhoods, and they are where vent lines are most likely to be disturbed or hidden. If a faint sewer odor appears after construction, smoke tested through the drains and vents will show where it escapes so repairs stay local. We also recommend one before finishing a basement, since it is far cheaper to fix a leaking vent before the drywall goes up."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Liberty plumbing questions",
+    "items": [
+      {
+        "q": "Do you serve homes near the historic square?",
+        "a": "Yes. Older homes there often need careful work around plaster and original finishes, and we plan access to disturb as little as possible."
+      },
+      {
+        "q": "How big a water heater does a new home need?",
+        "a": "It depends on the number of bathrooms, the people in the household, and how you use hot water. We size to real usage, not the bare minimum, and talk through tank versus tankless."
+      },
+      {
+        "q": "Can you add a gas line for a standby generator?",
+        "a": "Yes. We start by adding up everything the line will need to feed, so it is sized correctly, and then run the new piping and test it under pressure."
+      },
+      {
+        "q": "What should I know before excavation on my lot?",
+        "a": "Buried utilities must be marked through 811 before digging, and we plan the route around irrigation and landscaping. We explain restoration expectations before we begin."
+      },
+      {
+        "q": "Do you offer emergency service in Liberty?",
+        "a": "Yes. We are on call 24 hours a day. We put water shutoff and containment first, then talk through the permanent repair once things are stable."
+      },
+      {
+        "q": "Should a new home have its plumbing checked?",
+        "a": "It can be worth it, especially before a builder warranty expires. We check the water heater, visible piping, drains, and fixtures and let you know if anything needs attention."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Liberty sits north of Gladstone, and we also serve",
+    "links": [
+      "gladstone",
+      "smithville",
+      "north-kansas-city",
+      "claycomo"
+    ]
+  },
+  "contact": {
+    "h2": "Liberty plumbers ready when you call.",
+    "p": "From the square to the newest subdivisions, call or send your details and we will follow up."
+  }
+}

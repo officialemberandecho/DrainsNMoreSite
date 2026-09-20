@@ -1,0 +1,125 @@
+{
+  "slug": "parkville",
+  "name": "Parkville",
+  "label": "Parkville, MO",
+  "chip": "Parkville",
+  "tile": "Parkville",
+  "region": "northland",
+  "order": 20,
+  "description": "Parkville plumber for river-bluff and hillside homes: sewer excavation, water heaters, repipes, and smoke tests. Drains N More LLC, on call 24/7.",
+  "blurb": "Excavation, water heaters and repipes for hillside and river-bluff homes near English Landing Park and historic downtown Parkville.",
+  "hero": {
+    "eyebrow": "24/7 Parkville Emergency Plumber",
+    "h1": "Parkville plumber for hillside homes, river-bluff lots, and historic downtown buildings.",
+    "sub": "Parkville sits above the Missouri River in Platte County, with a historic downtown and neighborhoods built into the bluffs. Drains N More LLC handles the plumbing challenges of hillside lots and older buildings and answers emergencies at any hour.",
+    "badge": "Parkville Plumbers",
+    "sideH2": "Plumbing that works with the terrain.",
+    "bullets": [
+      "Excavation on sloped, rocky lots",
+      "Water heaters for walkout basements",
+      "Smoke tests and sewer inspections"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Parkville",
+    "h2": "A river town built into the bluffs.",
+    "paras": [
+      "Parkville is a Platte County city on the Missouri River, known for English Landing Park, its historic downtown along Main Street, and Park University. Founded in the 1840s, the town spreads from the riverfront up into wooded hills and newer neighborhoods along Highway 9 and I-435.",
+      "Hillsides shape the plumbing. Homes built on slopes often have walkout basements, sewer lines that run steeply or unevenly, and utilities that need to cross rock and clay. Rock is common in the Kansas City area, and it slows excavation and affects how a repair is planned.",
+      "Water drains toward the river, and in some places toward homes. Basement plumbing, floor drains, and sump systems matter more on a hillside lot, and it is worth making sure the drains that should carry water away are working before a heavy rain tests them.",
+      "Downtown Parkville has older brick buildings with residential and commercial spaces, where plumbing has been added to and modified over many years. We treat those buildings with the same care: trace first, cut second, and document what we find. Because many of those buildings have basements or crawlspaces that are hard to reach, we look at access before we quote so that the price reflects the actual work involved.",
+      "The historic downtown along Main Street draws visitors for its shops and restaurants, and English Landing Park along the river hosts events through the year. That activity means property owners downtown care about plumbing that works quietly and reliably, and about repairs that do not interrupt business or residents. We plan around events and busy days whenever a schedule allows and tell you when work will be noisy.",
+      "Park University and its surrounding neighborhoods add older, smaller homes and apartments, some converted from single-family houses. Conversions often leave plumbing that was extended in stages, with shutoffs that do not match the number of units and drain lines that share a stack. We trace how the plumbing actually flows before recommending a repair, which avoids fixing one unit only to find the problem was upstream.",
+      "Homes with views often have decks, patios, and outdoor kitchens that bring gas lines and outdoor hose bibs into the plumbing picture. Freeze protection for outdoor lines matters on exposed hillsides, and we can advise on shutoffs and winterizing when you have outdoor plumbing that needs attention before the cold weather arrives."
+    ],
+    "sideTitle": "Where we work in Parkville",
+    "chips": [
+      "English Landing Park",
+      "Downtown Parkville",
+      "Main Street",
+      "Highway 9",
+      "Near Park University",
+      "Near the Nature Sanctuary",
+      "Riverfront area",
+      "Hillside neighborhoods"
+    ]
+  },
+  "services": {
+    "eyebrow": "Parkville services",
+    "h2": "Plumbing for Parkville's hills, bluffs, and downtown.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Excavation on sloped, rocky, and wooded lots",
+        "p": "Digging on a Parkville hillside means slopes, roots, and rock. After a camera inspection shows where a sewer or water line failed, we plan a trench that respects the grade and the trees, call for the utility locates before breaking ground, and explain what to expect for timing, since rock can slow the work. We describe restoration before we begin."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests and sewer line inspections",
+        "p": "On hillside lots, sewer lines run at steep or uneven grades and are hard to assess from the surface. A camera inspection shows the actual condition, and a smoke test through the drain and vent system finds leaks and odors that do not appear on video. Together they give a full picture."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for walkout basements and garages",
+        "p": "Walkout basements and attached garages often hold water heaters in Parkville homes. We replace tank and tankless units, check flues and gas connections, and confirm proper elevation and protection for garage installs. If you are upgrading capacity for a larger household, we walk through the options."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for older downtown and hillside homes",
+        "p": "Older Parkville homes may have galvanized supply lines or copper with a long history of repairs. We replace supply lines with PEX or copper and plan routes to limit wall openings, especially in downtown buildings with brick and original finishes."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation, one bathroom or several",
+        "p": "We install toilets with a new supply line, a properly seated seal, a level bowl, and a full flush test. Homes with multiple bathrooms on different levels are common in Parkville, and we can install several in one visit."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for appliances and outdoor living",
+        "p": "Many Parkville homes take advantage of views with patios, grills, and fire pits, all of which need gas piping sized for the load. We run new lines, pressure test them, and check every joint. Permit rules vary by city; we tell you what applies before we start. If you smell gas, leave the house and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Parkville plumbing questions",
+    "items": [
+      {
+        "q": "Does rock make excavation more expensive?",
+        "a": "It can slow the work, which affects the schedule and the plan. We look at your lot and explain what to expect before you decide."
+      },
+      {
+        "q": "How do I keep my basement dry on a hillside lot?",
+        "a": "Make sure gutters and downspouts carry water away, keep floor drains and sump systems working, and address plumbing leaks quickly. If you are unsure whether a drain is working, we can check it."
+      },
+      {
+        "q": "Can you inspect a sewer line on a steep slope?",
+        "a": "Yes. A camera inspection works regardless of grade and shows the condition of the pipe along its length."
+      },
+      {
+        "q": "Do you work in historic downtown buildings?",
+        "a": "Yes. We plan access carefully and protect finishes, and we document what we find in the walls."
+      },
+      {
+        "q": "Are you available for emergencies at night?",
+        "a": "Yes, 24 hours a day. We shut off water and contain the problem first, then explain the permanent fix."
+      },
+      {
+        "q": "Can you help with a house on a steep driveway or hard-to-reach lot?",
+        "a": "Yes. Tell us about access when you call so we can bring the right equipment and plan the visit around the terrain."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Parkville sits beside Riverside in Platte County, and we also serve",
+    "links": [
+      "riverside",
+      "north-kansas-city",
+      "smithville",
+      "liberty"
+    ]
+  },
+  "contact": {
+    "h2": "Parkville plumbers on call, day or night.",
+    "p": "Hillside homes need practical plumbing help. Call or send your details and we will get you scheduled."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "plaza",
+  "name": "Country Club Plaza",
+  "label": "Country Club Plaza, Kansas City, MO",
+  "chip": "The Plaza",
+  "tile": "The Plaza",
+  "region": "kc-core",
+  "order": 6,
+  "description": "Country Club Plaza plumber for condos, apartments, and historic buildings: water heaters, toilets, smoke tests, and gas lines. On call 24/7.",
+  "blurb": "Condos and apartments in and around the Country Club Plaza: water heaters, toilets, smoke tests and repipes, coordinated with building management.",
+  "hero": {
+    "eyebrow": "24/7 Country Club Plaza Emergency Plumber",
+    "h1": "Country Club Plaza plumber for condos, apartments, and historic mid-rise buildings.",
+    "sub": "Around the Plaza, most plumbing calls come from multi-story buildings: condos, apartments, and older mid-rise residences with shared risers and limited access. Drains N More LLC works with residents and building managers and responds at any hour.",
+    "badge": "Plaza Plumbers",
+    "sideH2": "Plumbing for multi-unit living near the Plaza.",
+    "bullets": [
+      "Water heaters in closets and mechanical rooms",
+      "Toilet installs with coordinated building access",
+      "Smoke tests for shared stacks and vents"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing around the Plaza",
+    "h2": "Spanish tile roofs above, decades-old risers below.",
+    "paras": [
+      "The Country Club Plaza opened in 1923 as one of the country's first planned suburban shopping districts, with Spanish-inspired architecture, fountains, and a replica of Seville's Giralda tower. Around it, Mill Creek Park, the Nelson-Atkins Museum a short distance away, and blocks of apartments and condos make one of Kansas City's most walkable residential areas.",
+      "Most residential plumbing here is in multi-story buildings, some built in the 1920s and 30s, others more recently. Older buildings have cast iron stacks and galvanized or early copper risers that serve many units. Newer buildings have modern piping but tight mechanical rooms and strict rules about who can shut off what, and when.",
+      "That makes coordination as important as the repair itself. A leak in one unit can affect the ones below, shutoffs may be building-wide, and elevators and loading areas have schedules. We work through property managers, plan the job in advance when we can, and keep everyone informed about timing. If a shared riser or stack needs work, we explain which units are affected, how long water will be off, and what residents should do beforehand, so nobody is caught by surprise on the day.",
+      "Residents in these buildings usually want a clean, respectful job with minimal disruption to shared spaces. We protect floors and hallways, keep tools contained, and clean up before we leave, so the building looks the way we found it.",
+      "Newer residential towers around the Plaza bring different concerns than the older mid-rise buildings. Modern piping and finishes reward careful handling, and warranty terms for appliances and fixtures sometimes matter. We follow manufacturer installation requirements, avoid shortcuts that could affect a warranty, and keep a clear description of what we installed, which helps if you ever need to make a claim or sell the unit and answer a buyer's inspection questions."
+    ],
+    "sideTitle": "Where we work around the Plaza",
+    "chips": [
+      "Wornall Road",
+      "Ward Parkway",
+      "Main Street",
+      "Near Mill Creek Park",
+      "J.C. Nichols Parkway",
+      "47th Street area",
+      "Near the Nelson-Atkins Museum",
+      "Near Brush Creek"
+    ]
+  },
+  "services": {
+    "eyebrow": "Plaza-area services",
+    "h2": "What we handle in Plaza-area condos and apartments.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heaters in condo closets and mechanical rooms",
+        "p": "Condo and apartment water heaters usually live in a hall closet or a small mechanical space with tight clearance. We replace tank and tankless models, check venting and gas connections, and confirm elevator, parking, and shutoff requirements with your management office before we start. If the space is the constraint, we will tell you which unit fits."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation without disturbing the building",
+        "p": "In a multi-story building, a toilet swap is a plumbing job and a logistics job. We check the flange, choose the right seal, set the toilet level, and test the flush, while protecting floors and shared hallways. Bring the model you chose, or ask what fits your bathroom, and we will coordinate access with management."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke testing for stacks and vents in mid-rise buildings",
+        "p": "When a sewer odor shows up in one unit and not the next, the cause is often a vent joint, a dry trap, or a cracked section of a shared stack. A smoke test through the drain and vent system shows where smoke escapes, and it gives building managers a clear picture of what needs to be repaired."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes and riser work for older buildings",
+        "p": "Older Plaza-area buildings may have galvanized risers and branch lines that restrict flow and leak at threaded joints. We repipe individual units and coordinate with management when a riser is shared. New PEX or copper improves pressure and reduces leaks, and we plan routes that limit wall openings."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for ranges, dryers, and fireplaces",
+        "p": "Some Plaza-area units have gas ranges, dryers, or fireplaces on older piping. We repair and replace gas lines, add runs for new appliances, pressure test, and check every joint for leaks. Your management office can schedule shutoffs with us, and permit needs depend on the building and the work. If you smell gas, leave the unit and call 911."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for buried service lines around the Plaza",
+        "p": "Excavation near the Plaza means busy streets, mature landscaping, and buried utilities close together. Underground lines are located through 811 first, and work in public right-of-way may involve additional city approvals. We plan access and traffic in advance so a buried water or sewer repair stays as contained as possible."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Plaza-area plumbing questions",
+    "items": [
+      {
+        "q": "Can you coordinate with my condo association?",
+        "a": "Yes. Many jobs require notice, elevator reservations, or building-wide shutoffs, and we work with management to schedule around those requirements."
+      },
+      {
+        "q": "Who is responsible for a leak that starts in a wall between units?",
+        "a": "It depends on your building's governing documents and where the pipe sits. We identify the source and document what we find, which gives you and your association what you need to sort out responsibility."
+      },
+      {
+        "q": "Can you install a tankless water heater in a condo?",
+        "a": "Sometimes. It depends on gas capacity, venting, and space, and your association may have rules. We check what is possible and explain the options before recommending anything."
+      },
+      {
+        "q": "How do you protect shared hallways and floors?",
+        "a": "We lay down protection, keep tools and materials contained, and clean up before we leave. If a job needs more than one visit, we plan it so the building stays presentable in between."
+      },
+      {
+        "q": "What should I do first if water is leaking into the unit below?",
+        "a": "Close your unit's water shutoff, or the main if you cannot find it, and call your property manager. Then call us so we can begin stopping the leak and tracing the source. We also tell you what to have ready when we arrive, such as clear access to the shutoff and the affected area."
+      },
+      {
+        "q": "Do you provide documentation of the work?",
+        "a": "We describe what we found and what we did, and we can provide a summary you can share with your management office or association for their records."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "The Plaza sits between Midtown and Brookside, and we also serve",
+    "links": [
+      "midtown-kansas-city",
+      "westport",
+      "brookside",
+      "country-club"
+    ]
+  },
+  "contact": {
+    "h2": "Plaza-area plumbers, on call around the clock.",
+    "p": "Water in the wrong place cannot wait. Call or send your details and we will coordinate with your building."
+  }
+}

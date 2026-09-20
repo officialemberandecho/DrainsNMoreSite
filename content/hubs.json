@@ -1,0 +1,135 @@
+{
+  "areas": {
+    "title": "Kansas City Plumber Service Areas | Drains N More",
+    "description": "Find your Kansas City neighborhood or suburb. Drains N More LLC serves 24 areas with local plumbers on call 24/7 and same-day help.",
+    "crumb": "Areas We Serve",
+    "tile": "KC Metro",
+    "hero": {
+      "eyebrow": "Service areas",
+      "h1": "Plumber service areas across Kansas City and the metro.",
+      "sub": "Drains N More LLC works in neighborhoods and suburbs on both sides of the Missouri River. Choose your area for local plumbing notes, the services we offer there, and a direct way to schedule.",
+      "badge": "All service areas",
+      "sideH2": "Find your neighborhood or city.",
+      "bullets": [
+        "Kansas City, MO neighborhoods",
+        "The Northland and Platte County",
+        "Jackson County and the south metro"
+      ]
+    },
+    "intro": {
+      "eyebrow": "How we cover the metro",
+      "h2": "One team, many neighborhoods, each with its own plumbing.",
+      "paras": [
+        "A plumber in Waldo deals with different houses than a plumber in Smithville. Older brick homes near the Plaza have plaster walls and cast iron stacks. Lake properties in the Northland have long water lines and seasonal use. Newer subdivisions in Lee's Summit and Blue Springs have big households and gas-hungry outdoor kitchens.",
+        "Every area page below explains what we see most often in that part of the metro, how our six core services apply there, and the questions homeowners ask us. If your neighborhood is not listed, call anyway. We cover more ground than any single page can name."
+      ]
+    },
+    "faq": {
+      "h2": "Service area questions",
+      "items": [
+        {
+          "q": "Do you charge extra to come to certain areas?",
+          "a": "Rates and scheduling depend on the job and your location. Call or send a request and we will explain the details for your address before any work begins."
+        },
+        {
+          "q": "What if my neighborhood is not listed?",
+          "a": "Call us. The areas listed here are the ones we work in most often, and the metro is larger than any list. We will tell you honestly whether we can reach you."
+        },
+        {
+          "q": "Do you work on both sides of the state line?",
+          "a": "Our service area centers on Kansas City, Missouri and the surrounding Missouri communities listed on this page. Ask us about your specific address."
+        }
+      ]
+    },
+    "contact": {
+      "h2": "Not sure which area you are in?",
+      "p": "Call or send your address and we will point you to the right team and the fastest way to get help."
+    }
+  },
+  "services": {
+    "title": "Plumbing Services in Kansas City | Drains N More",
+    "description": "Drain cleaning, sewer repair, water heaters, gas lines, smoke testing, toilets, and repipes across Kansas City. On call 24/7 with same-day help.",
+    "crumb": "Services",
+    "tile": "KC Plumbing",
+    "hero": {
+      "eyebrow": "Plumbing services",
+      "h1": "Kansas City plumbing services for homes and small buildings.",
+      "sub": "From a clogged drain at midnight to a whole-home repipe you have planned for months, Drains N More LLC handles the work that keeps water and gas moving safely. Every service below is available across our service areas.",
+      "badge": "All services",
+      "sideH2": "Every core plumbing service, one team.",
+      "bullets": [
+        "Drain, sewer, and excavation work",
+        "Water heaters, toilets, and repipes",
+        "Gas lines and smoke testing"
+      ]
+    },
+    "intro": {
+      "eyebrow": "What we do",
+      "h2": "Six core services, built for older Kansas City pipes and newer homes.",
+      "paras": [
+        "Our work falls into six categories: water heater repair and installation, toilet installation, smoke testing for sewer odors and vent leaks, plumbing excavation for buried water and sewer lines, gas line repipes, and whole-home repipes. Emergency drain cleaning and sewer line repair round out the emergency side of the business.",
+        "Each service page explains how the work is done, what affects the outcome, and the questions we hear most. Pick the one that matches your problem, or call and describe what you are seeing and we will point you the right way."
+      ]
+    },
+    "also": {
+      "h2": "Also part of what we do",
+      "cards": [
+        {
+          "h3": "Toilet installation",
+          "p": "New toilets set level on fresh seals, with the flange checked and the fill and flush tested. Bring the one you chose or ask what fits your bathroom."
+        },
+        {
+          "h3": "Whole-home repipes",
+          "p": "Replacement of galvanized, polybutylene, or failing copper supply lines with PEX or copper, planned to open as few walls as possible."
+        },
+        {
+          "h3": "Plumbing excavation",
+          "p": "Digging to repair or replace buried sewer and water service lines after a camera inspection shows where the problem is. See sewer line repair for details."
+        }
+      ]
+    },
+    "faq": {
+      "h2": "Plumbing service questions",
+      "items": [
+        {
+          "q": "Which service should I call about a sewer smell?",
+          "a": "Start with smoke testing. It shows where the drain and vent system is leaking into your home, which tells us whether the fix is a trap, a vent, or a line repair."
+        },
+        {
+          "q": "Can you install a toilet I bought myself?",
+          "a": "Yes. We install the toilet you chose, check the flange, set it on a fresh seal, and test the fill and flush."
+        },
+        {
+          "q": "Do you handle emergencies outside business hours?",
+          "a": "Yes. We are on call 24 hours a day, seven days a week, for backups, leaks, and other plumbing emergencies."
+        }
+      ]
+    },
+    "contact": {
+      "h2": "Tell us what is going on.",
+      "p": "Call or send a few details about the problem and we will recommend the right service and schedule a visit."
+    }
+  },
+  "sitemap": {
+    "title": "Site Map | Drains N More LLC Kansas City",
+    "description": "Every Drains N More LLC page in one list: plumbing services, all Kansas City service areas, and contact and review links.",
+    "crumb": "Site Map",
+    "tile": "Site Map",
+    "hero": {
+      "eyebrow": "Site map",
+      "h1": "Every page on the Drains N More LLC site, in one place.",
+      "sub": "Use this page to jump straight to any plumbing service, service area, or main page. Every page on this site is no more than two clicks from the homepage.",
+      "badge": "Site map",
+      "sideH2": "Find any page fast.",
+      "bullets": [
+        "Every plumbing service",
+        "Every service area",
+        "Contact and review links"
+      ]
+    },
+    "contact": {
+      "h2": "Cannot find what you need?",
+      "p": "Call or send your details and we will point you to the right page or schedule a visit."
+    }
+  }
+}

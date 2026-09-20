@@ -38,9 +38,11 @@ const SKIP_FILES = new Set(['404.html']);
 // Priority by URL shape. First match wins; anything unmatched gets the default.
 const PRIORITY = [
   [/^\/$/, '1.0'],
-  [/-plumber\.html$/, '0.9'],
-  [/^\/(emergency-drain-cleaning|water-heater-repair|sewer-line-repair)\.html$/, '0.8'],
-  [/^\/(gas-line-services|smoke-testing)\.html$/, '0.7'],
+  [/^\/(areas|services)\/$/, '0.9'],
+  [/^\/sitemap\/$/, '0.5'],
+  [/^\/areas\/./, '0.8'],
+  [/^\/services\/(emergency-drain-cleaning|water-heater-repair|sewer-line-repair)\/$/, '0.8'],
+  [/^\/services\/(gas-line-services|smoke-testing)\/$/, '0.7'],
 ];
 const DEFAULT_PRIORITY = '0.7';
 

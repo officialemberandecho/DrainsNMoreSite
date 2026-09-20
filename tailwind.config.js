@@ -1,5 +1,5 @@
 module.exports = {
-  content: ['./*.html', './partials/**/*.html'],
+  content: ['./*.html', './areas/**/*.html', './services/**/*.html', './partials/**/*.html', './js/**/*.js'],
   theme: {
     extend: {
       // Height-aware breakpoints. The default `md:` is width-only, so a phone
@@ -14,6 +14,8 @@ module.exports = {
         brand: {
           50: '#ecf7ff',
           100: '#d9f0ff',
+          200: '#b8e1ff',
+          300: '#78c4fa',
           400: '#38a9f5',
           500: '#0a8cf0',
           600: '#0a6fcd',

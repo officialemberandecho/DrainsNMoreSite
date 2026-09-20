@@ -1,0 +1,125 @@
+{
+  "slug": "oak-grove",
+  "name": "Oak Grove",
+  "label": "Oak Grove, MO",
+  "chip": "Oak Grove",
+  "tile": "Oak Grove",
+  "region": "east-jackson",
+  "order": 24,
+  "description": "Oak Grove plumber for acreage and small-town homes: water heaters, long-line excavation, repipes, and gas lines. Drains N More LLC, on call 24/7.",
+  "blurb": "Water heaters, long-line excavation and gas work for small-town and acreage homes along the I-70 corridor east of Blue Springs.",
+  "hero": {
+    "eyebrow": "24/7 Oak Grove Emergency Plumber",
+    "h1": "Oak Grove plumber for small-town homes, acreage properties, and long service lines.",
+    "sub": "East of Blue Springs along I-70, Oak Grove blends a small-town core with homes on acreage and new subdivisions. Drains N More LLC handles water heaters, excavation, gas lines, and emergencies across Oak Grove at any hour.",
+    "badge": "Oak Grove Plumbers",
+    "sideH2": "Plumbing for the eastern edge of the metro.",
+    "bullets": [
+      "Excavation for long service lines",
+      "Water heaters for larger homes",
+      "Gas lines for outdoor living and generators"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Oak Grove",
+    "h2": "Small-town streets and country lots at the edge of the metro.",
+    "paras": [
+      "Oak Grove sits along the I-70 corridor at the eastern edge of the Kansas City metro, mostly in Jackson County. It combines a small-town center with newer subdivisions and homes on larger lots, and its growth has come mostly as commuters looking for more space have moved farther out. Newer subdivisions near the edge of town are built to modern standards, but they share the same needs as anywhere: correctly sized water heaters, working shutoffs, and drains that clear quickly. We are glad to look at a newer home as readily as an older one.",
+      "Larger lots change the plumbing picture. Water and sewer service lines are longer, and a failure can mean a significant dig. Some properties outside the town center have private arrangements for water or wastewater that are outside our scope, so we always confirm what your home is connected to before quoting.",
+      "Homes range from older farmhouses and small-town houses with decades-old piping to new construction on modern PEX and PVC. Older houses often have galvanized or copper supply lines and cast iron drains, while newer homes commonly need water heaters and gas capacity sized for larger households and outdoor living.",
+      "Distance matters when you are on the edge of a metro. We give you a realistic arrival window for Oak Grove, communicate if anything changes, and treat emergencies as priority.",
+      "Oak Grove's small-town center has older homes, churches, and storefronts along its main streets, where plumbing may date to the early or mid-twentieth century. Cast iron drains, galvanized supply lines, and sewer laterals of clay tile are common there, with the usual pattern of repairs and additions over the years. We trace what a building has before we recommend a repair, and we explain the options plainly.",
+      "The I-70 corridor brings commuters and freight past Oak Grove every day, and that traffic can affect arrival times at rush hour. We account for it when we give you a window and call ahead if anything changes. For emergencies, we prioritize getting water shut off and the problem contained, then talk through the permanent repair once the situation is stable.",
+      "Some Oak Grove properties have wells, septic systems, or private water arrangements that are handled by other specialists. When you call, tell us how your home gets its water and where its wastewater goes. That way we can be honest about whether the work you need is something we do, and point you in the right direction when it is not."
+    ],
+    "sideTitle": "Where we work in Oak Grove",
+    "chips": [
+      "I-70 corridor",
+      "Downtown Oak Grove",
+      "Near Blue Springs",
+      "Near Grain Valley",
+      "Eastern Jackson County",
+      "Acreage properties",
+      "Newer subdivisions",
+      "Small-town streets"
+    ]
+  },
+  "services": {
+    "eyebrow": "Oak Grove services",
+    "h2": "Plumbing for Oak Grove homes, shops, and acreage.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Excavation for long water and sewer lines",
+        "p": "On acreage and larger lots, service lines can run a long way. After a camera inspection shows where a failure sits, we have the utilities located, plan the trench around trees, drives, and buried lines, and dig only what the repair requires. Rock and clay are common in the metro, so we set expectations on timing before we start."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for larger homes and outbuildings",
+        "p": "Bigger homes need bigger capacity, and some properties have shops or outbuildings with their own plumbing. We replace tank and tankless units, size them to real usage, and check venting and gas connections. If you are unsure whether to repair or replace, we tell you plainly."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for generators, shops, and outdoor kitchens",
+        "p": "Standby generators, shop heaters, and patio kitchens all draw gas. We calculate the total load, run and pressure test new piping, and check every joint. Ask us what permits your address requires before work starts. If you smell gas, get out and call 911."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for older farmhouses and town homes",
+        "p": "Older houses often have galvanized or aging copper supply lines. We replace them with PEX or copper and plan routes that limit wall openings, working around plaster or original finishes where they exist."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation, one bathroom or several",
+        "p": "We install toilets with a new supply line, a properly seated seal, a level bowl, and a full flush test. If you are updating several bathrooms, we can schedule them in a single visit. We can also replace toilets in guest bathrooms and outbuildings that see only occasional use."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for odors in older homes",
+        "p": "Sewer odors in older homes usually trace to a dry trap, a cracked vent, or an open cleanout. A smoke test shows where the drain and vent system leaks, so the repair goes where it is needed."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Oak Grove plumbing questions",
+    "items": [
+      {
+        "q": "Do you serve homes outside the city limits?",
+        "a": "Yes, within our service area. Call with your address and we will confirm we can reach you and give you a realistic arrival window."
+      },
+      {
+        "q": "What if my home is not on city water or sewer?",
+        "a": "Tell us when you call. Some rural setups involve systems outside our scope, and we will be upfront about what we can and cannot help with."
+      },
+      {
+        "q": "Can you handle plumbing in a shop or outbuilding?",
+        "a": "Often, yes. Tell us what is there and we will plan the visit."
+      },
+      {
+        "q": "How long does a service call take to reach Oak Grove?",
+        "a": "It depends on where we are when you call and traffic on I-70. We give you an honest window, and emergencies take priority."
+      },
+      {
+        "q": "Do you work weekends?",
+        "a": "Yes, every day of the year. If it is an emergency, we start with shutting off water and containing the problem."
+      },
+      {
+        "q": "Do you install water heaters in detached shops or garages?",
+        "a": "Often, yes. Tell us what fuel is available and what the space looks like, and we will explain what is possible and what the installation requires."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Oak Grove sits east of Blue Springs, and we also serve",
+    "links": [
+      "blue-springs",
+      "lees-summit",
+      "independence",
+      "raytown"
+    ]
+  },
+  "contact": {
+    "h2": "Oak Grove plumbers on call, 24/7.",
+    "p": "Distance should not mean waiting. Call or send your details and we will follow up."
+  }
+}

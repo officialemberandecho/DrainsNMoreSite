@@ -1,0 +1,124 @@
+{
+  "slug": "smithville",
+  "name": "Smithville",
+  "label": "Smithville, MO",
+  "chip": "Smithville",
+  "tile": "Smithville",
+  "region": "northland",
+  "order": 22,
+  "description": "Smithville plumber for lake-area and growing subdivision homes: water heaters, long-line excavation, repipes, and gas lines. On call 24/7.",
+  "blurb": "Water heaters, long-line excavation and gas work for lake-area and growing neighborhoods around Smithville Lake.",
+  "hero": {
+    "eyebrow": "24/7 Smithville Emergency Plumber",
+    "h1": "Smithville plumber for lake-area homes, growing neighborhoods, and long service lines.",
+    "sub": "Smithville has grown up around its lake and its historic downtown, with homes on larger lots and long runs of pipe. Drains N More LLC handles water heaters, gas lines, excavation, and emergencies across Smithville at any hour.",
+    "badge": "Smithville Plumbers",
+    "sideH2": "Plumbing for the north edge of the metro.",
+    "bullets": [
+      "Excavation for long water and sewer lines",
+      "Water heaters for busy households",
+      "Gas lines for outdoor living"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Smithville",
+    "h2": "A lake town where lots run larger and the pipe runs longer.",
+    "paras": [
+      "Smithville sits along Highway 169 and Missouri 92 in the north Kansas City metro, next to Smithville Lake, a large recreational reservoir with parks and trails. The city has a historic downtown and has grown steadily as newer neighborhoods have joined older streets.",
+      "Homes here tend to sit on larger lots than in the urban core, which means longer water and sewer service lines and more yard to work around. A repair that would be a short trench in a dense neighborhood can be a larger project here, and planning matters.",
+      "The lake brings seasonal patterns. Some homes near the water are used part of the year or have guests on summer weekends, so plumbing can sit idle and then be pushed hard. Idle water heaters, dry traps, and supply lines that are not used regularly all deserve attention before a busy season.",
+      "Newer subdivisions add a different set of needs: water heaters sized for larger households, gas lines for outdoor kitchens, and finishing touches that fixtures and supply lines have to support. If your home has a private water or wastewater system, tell us up front so we can be honest about what we can help with and what needs another specialist.",
+      "Downtown Smithville has a small-town character, with older buildings and homes near Main Street that predate the newer neighborhoods around them. Older houses in the core often have galvanized or early copper supply lines and cast iron drains, while the outskirts have modern plastic piping. When we visit a home, we identify what it has before we recommend a repair, because the right fix depends on the material.",
+      "Smithville Lake and its trails draw people out for boating, fishing, and events, and homes near the lake often host visitors. A household that doubles in size on a summer weekend puts real demand on a water heater and on drains, and small weaknesses show up fast. We are happy to look at your system before the busy season and tell you honestly whether anything needs attention."
+    ],
+    "sideTitle": "Where we work in Smithville",
+    "chips": [
+      "Highway 169",
+      "Missouri 92",
+      "Near Smithville Lake",
+      "Historic downtown Smithville",
+      "Near Smith's Fork Park",
+      "Main Street",
+      "Near the Little Platte River",
+      "Newer subdivisions"
+    ]
+  },
+  "services": {
+    "eyebrow": "Smithville services",
+    "h2": "Plumbing for lake-area and growing Smithville homes.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Excavation for long water and sewer service lines",
+        "p": "Larger Smithville lots mean longer runs between the street and the house. After a camera inspection shows where a failure sits, we get utility locates done through 811, plan the trench around trees, landscaping, and drives, and explain how the surface will be restored. Rock and clay are common in the metro, so we set expectations on timing up front."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for seasonal and full-time homes",
+        "p": "Lake-area homes can sit idle and then be used heavily, and water heaters feel it. We replace tank and tankless units, check flues and gas connections, and talk through capacity for weekend crowds. If your home is vacant part of the year, we also explain simple steps to protect the heater while you are away."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for grills, fire pits, and outdoor kitchens",
+        "p": "Outdoor living is a big part of lake-area homes, and gas is what powers it. We size new lines for the appliances they will feed, pressure test every run, and check each joint for leaks. Whether a permit applies depends on the city and the job, and we explain it up front. Gas smell? Leave and call 911."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for aging supply lines",
+        "p": "Older Smithville homes may have galvanized or aging copper supply piping. We replace lines with PEX or copper and plan routes that limit wall openings. If you are renovating, we coordinate timing so rough-in is complete before walls close."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for odors in idle plumbing",
+        "p": "Dry traps in unused drains are the most common source of sewer odor in seasonal homes, and simply refilling them often solves the problem. When the smell persists, a smoke test through the drain and vent system shows whether a vent or line is leaking."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation for family and guest bathrooms",
+        "p": "Homes with guest bathrooms and finished basements often have several toilets to replace. We install them with new supply lines, fresh seals, level bowls, and a flush test on each, and we can do several in one visit. That is a popular project ahead of a busy summer season, and we are happy to plan it around your schedule."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Smithville plumbing questions",
+    "items": [
+      {
+        "q": "How should I prepare plumbing before leaving a lake house for the winter?",
+        "a": "Shut off the main water valve, drain lines where appropriate, and check that no fixtures are left with standing water. Ask us for guidance specific to your home, since freeze protection matters in our climate."
+      },
+      {
+        "q": "Why does my seldom-used bathroom smell?",
+        "a": "The most common cause is a dry trap. Run water in the fixture for a minute to refill it. If the smell returns, it may be a vent or line problem."
+      },
+      {
+        "q": "Do long service lines cost more to repair?",
+        "a": "They can involve more digging, which affects the plan and timing. A camera inspection tells us exactly where the failure is so we can limit excavation."
+      },
+      {
+        "q": "Can you run a gas line to my patio?",
+        "a": "Yes. We size the line for the appliance and check permit requirements for your address."
+      },
+      {
+        "q": "Do you serve homes near the lake?",
+        "a": "Yes. Call with your address and we will confirm timing. We can also suggest a checklist of what to look at before you leave the house for a long period."
+      },
+      {
+        "q": "Do you offer seasonal inspections for lake homes?",
+        "a": "We can look at your water heater, visible piping, drains, and fixtures before you open a seasonal home for the year and tell you whether anything needs attention."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Smithville sits north of Kansas City near Liberty and Gladstone, and we also serve",
+    "links": [
+      "liberty",
+      "gladstone",
+      "parkville",
+      "claycomo"
+    ]
+  },
+  "contact": {
+    "h2": "Smithville plumbers on call, day or night.",
+    "p": "Whether your home is at the lake or in a new neighborhood, call or send your details and we will follow up."
+  }
+}

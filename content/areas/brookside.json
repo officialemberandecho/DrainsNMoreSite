@@ -1,0 +1,123 @@
+{
+  "slug": "brookside",
+  "name": "Brookside",
+  "label": "Brookside, Kansas City, MO",
+  "chip": "Brookside",
+  "tile": "Brookside",
+  "region": "kc-core",
+  "order": 7,
+  "description": "Brookside plumber for 1920s cottages and bungalows: sewer excavation, repipes, water heaters, and smoke tests. Drains N More LLC, on call 24/7.",
+  "blurb": "Repipes, sewer work and water heaters for the 1920s cottages and bungalows near Brookside Boulevard, 63rd Street and Loose Park.",
+  "hero": {
+    "eyebrow": "24/7 Brookside Emergency Plumber",
+    "h1": "Brookside plumber for 1920s cottages, bungalows, and neighborhood-scale charm.",
+    "sub": "Brookside's Tudor cottages and brick bungalows sit on quiet, tree-lined streets near the shops on 63rd Street. Drains N More LLC keeps their plumbing working and answers leaks and backups at any hour.",
+    "badge": "Brookside Plumbers",
+    "sideH2": "Plumbing for cottage-scale homes.",
+    "bullets": [
+      "Sewer excavation around mature trees",
+      "Repipes for smaller homes with plaster walls",
+      "Basement water heater replacement"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Brookside",
+    "h2": "Small homes, big trees, and plumbing from the era of the first Brookside shops.",
+    "paras": [
+      "Brookside centers on Brookside Boulevard and 63rd Street, with a walkable shopping district and quiet residential streets nearby, close to Loose Park and its rose garden. Much of the housing was built in the 1920s and 1930s as cottages, bungalows, and small Tudor-style homes, a smaller scale than the grand houses just to the north.",
+      "Small does not mean simple. These homes are often on tight footprints, with basements that hold the water heater, main cleanout, and utilities together in a small space. Access matters: a repair that takes an hour in a modern house can take much longer in a cellar with low headroom and narrow stairs.",
+      "Mature trees define Brookside, and they are hard on old sewer lines. Roots work into clay joints and cast iron connections, causing slow drains and backups. A camera inspection is usually the first step, because it shows whether cleaning will buy years or a repair is the better choice.",
+      "Supply piping from the same era is often galvanized steel, sometimes with copper added over the years. Low pressure and discolored water are common complaints, and many homeowners plan a repipe when they renovate a kitchen or bathroom. If you are planning a kitchen or bathroom renovation, ask us about doing the plumbing rough-in and the repipe in the same visit.",
+      "Homes here also tend to have finished attics, enclosed porches, and back additions that brought plumbing along with them over the years, like a bathroom tucked under the eaves or a laundry off the rear of the house. Those additions are frequently where vent and drain problems hide, because they were built by different hands at different times. When we trace a leak or an odor, we follow the drain and vent runs from the addition back to the main stack rather than assuming the original layout still applies."
+    ],
+    "sideTitle": "Where we work in Brookside",
+    "chips": [
+      "Brookside Boulevard",
+      "63rd Street",
+      "Near Loose Park",
+      "Wornall Road",
+      "Ward Parkway",
+      "Oak Street",
+      "Rockhill Road",
+      "Near Country Club Plaza"
+    ]
+  },
+  "services": {
+    "eyebrow": "Brookside services",
+    "h2": "Plumbing work for Brookside cottages and bungalows.",
+    "cards": [
+      {
+        "key": "dig",
+        "h3": "Sewer excavation around Brookside's mature trees",
+        "p": "When a camera shows a collapsed or root-filled sewer line, digging may be the right fix. In Brookside that means working close to foundations, sidewalks, and large trees. We arrange the utility locates first, plan the trench around major roots, dig only what the repair requires, and talk through restoration before we start."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement in small basements",
+        "p": "A Brookside basement can be tight, with low ceilings and narrow stairs between the water heater and the outside world. We replace tank and tankless units in those spaces, check the flue and gas connections, and swap corroded valves and connectors while we are there. If your heater is leaking, replacement is usually the answer."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for galvanized lines in 1920s homes",
+        "p": "Galvanized pipe narrows from the inside as it rusts, so pressure drops and hot water takes longer to arrive. We replace those lines with PEX or copper, use basement and closet access to limit wall openings, and price a partial repipe when only one section has failed. The goal is to fix the problem without disturbing more of your home than needed."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for odors in old cottages",
+        "p": "Sewer smells in an older cottage can come from a dry floor drain, a cracked vent, or an open cleanout. A smoke test shows where smoke escapes from the drain system, so the repair targets the real source. It is also a smart check before you buy an older home in the neighborhood."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation that stops the rocking",
+        "p": "A toilet that rocks or leaks at the base often has a worn seal or a flange sitting too low or too high, and 1920s bathrooms often have both. We inspect the flange, correct it if needed, set the new toilet level on a fresh seal, and test the fill and flush before we leave."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for furnaces and ranges",
+        "p": "Original iron gas pipe can corrode at joints after nearly a century. We replace worn sections, add lines for new appliances, pressure test every run, and check for leaks. Permits and inspections vary, so ask us what your address requires. If you ever smell gas, leave the house and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Brookside plumbing questions",
+    "items": [
+      {
+        "q": "Why does my old cottage have low water pressure?",
+        "a": "Galvanized supply pipe narrows as it rusts, restricting flow. Pressure can also drop from a partially closed valve or a failing pressure regulator. We check the simple things first and test the pipe before suggesting a repipe."
+      },
+      {
+        "q": "Will tree roots damage my sewer line?",
+        "a": "They can. Roots enter through small cracks and joints looking for moisture, then grow and block the line. A camera inspection shows whether roots are present and how much damage they have done."
+      },
+      {
+        "q": "Can you fix a leaking water heater or do I need a new one?",
+        "a": "A leak from the tank itself cannot be repaired, so that means replacement. A leak from a fitting, valve, or connector can often be fixed. We check the source before recommending anything."
+      },
+      {
+        "q": "How do I find my main water shutoff?",
+        "a": "In most older homes it is in the basement near where the water line enters, or in a utility closet. Knowing where it is before an emergency saves time, and we are happy to show you during a visit."
+      },
+      {
+        "q": "Do you work on Saturdays and holidays?",
+        "a": "Yes. We are on call around the clock, every day of the year. Emergencies are handled first, and routine visits are scheduled around your week whenever possible."
+      },
+      {
+        "q": "Do you work in homes with finished attics or added bathrooms?",
+        "a": "Yes. Additions are common in older cottages, and we trace the drain and vent runs from the addition back to the main stack to find where problems start."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Brookside sits beside the Country Club District and Waldo, and we also serve",
+    "links": [
+      "country-club",
+      "waldo",
+      "plaza",
+      "south-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Brookside plumbers on call, 24/7.",
+    "p": "Cottage plumbing is not complicated, but it is old. Call or send your details and we will get you scheduled."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "river-market",
+  "name": "River Market",
+  "label": "River Market, Kansas City, MO",
+  "chip": "River Market",
+  "tile": "River Market",
+  "region": "kc-core",
+  "order": 4,
+  "description": "River Market plumber for lofts and historic brick buildings: water heaters, risers, smoke tests, and gas lines. Drains N More LLC, on call 24/7.",
+  "blurb": "Lofts and converted warehouses near City Market and the Missouri River, with water heaters, shared risers and smoke testing done right.",
+  "hero": {
+    "eyebrow": "24/7 River Market Emergency Plumber",
+    "h1": "River Market plumber for brick lofts, converted warehouses, and riverside buildings.",
+    "sub": "The River Market packs restaurants, lofts, and historic warehouses along the Missouri River. Drains N More LLC handles the plumbing behind those brick walls, from shared risers to loft water heaters, and answers emergencies at any hour.",
+    "badge": "River Market Plumbers",
+    "sideH2": "Plumbing for historic brick and modern lofts.",
+    "bullets": [
+      "Water heaters in loft closets and mechanical rooms",
+      "Smoke tests for shared stacks and vents",
+      "Gas line repipes for converted buildings"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in the River Market",
+    "h2": "Cobblestone-era buildings, twenty-first century water demand.",
+    "paras": [
+      "The River Market sits just north of Downtown Kansas City along the Missouri River, anchored by City Market and its weekend farmers market, and close to the Steamboat Arabia Museum. Much of the district is made up of brick warehouses and commercial buildings from the late 1800s and early 1900s, many now converted into lofts, offices, and restaurants.",
+      "Converting a warehouse to apartments meant threading new plumbing through brick, timber, and concrete that was never designed for it. Supply lines, drain stacks, and vents often run through chases and ceilings that were added after the fact, and old pipe that was abandoned in place can still be hiding in walls. That history explains why leaks here can be hard to trace.",
+      "Proximity to the river adds its own considerations. Lower levels and basement-adjacent spaces deal with moisture, and older buildings can have drainage designed for an earlier grade. We check the ordinary causes first, like a dripping supply joint or a dry trap, before assuming a bigger problem.",
+      "The district's mix of residents, retail, and dining means a plumbing problem in one part of a building can affect several neighbors. We work closely with property managers on shutoff timing and access, and we keep our notes clear so the building has a record of what was done.",
+      "Street-level businesses, deliveries, and foot traffic mean a River Market building rarely has quiet hours, and residents upstairs feel the effects of any plumbing work below. We plan disruptive steps such as shutoffs and drain openings for the times that inconvenience the fewest people, tell you in advance what to expect, and keep the work area tidy so the rest of the building can carry on. When a job needs a second visit, we schedule it before we leave so nothing is left hanging."
+    ],
+    "sideTitle": "Where we work in the River Market",
+    "chips": [
+      "City Market",
+      "Grand Boulevard",
+      "Walnut Street",
+      "Delaware Street",
+      "Berkley Riverfront Park area",
+      "Steamboat Arabia Museum area",
+      "Along the Missouri River",
+      "North of Downtown"
+    ]
+  },
+  "services": {
+    "eyebrow": "River Market services",
+    "h2": "Plumbing work for lofts, warehouses, and riverside blocks.",
+    "cards": [
+      {
+        "key": "smoke",
+        "h3": "Smoke tests through brick, chases, and old stacks",
+        "p": "Tracing a sewer odor in a converted warehouse can mean following a vent through three floors of brick and timber. A smoke test sends non-toxic smoke through the drain and vent system and shows every point where it escapes, including joints hidden in chases and above ceilings. It turns a guessing game into a targeted repair and gives the building a clear record of what was found."
+      },
+      {
+        "key": "wh",
+        "h3": "Loft water heaters where space is tight",
+        "p": "Loft units often keep the water heater in a closet or a shared mechanical room with limited clearance. We replace tank and tankless models, check venting and gas connections, and confirm shutoff and access requirements with your property manager before we begin. A tankless unit can free floor space when the gas supply and venting allow it."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes in converted buildings",
+        "p": "Restaurants, lofts, and offices share many River Market buildings, and gas service to a converted unit can run through walls and ceilings that neighbors also use. Before extending or replacing a line, we trace where the existing pipe goes and which meter it serves. Then we replace worn sections, add appliance lines, and pressure test each run. Whether a permit applies depends on the building. If gas is ever in the air, leave and call 911."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation on old floors and unusual rough-ins",
+        "p": "Old timber and concrete floors, added subfloors, and nonstandard rough-in distances all show up in River Market lofts. We check the flange, choose a seal that suits the setup, and set the toilet level. If the framing allows, we can install comfort-height or wall-hung models, and we protect finished floors while we work."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes and riser replacement for older buildings",
+        "p": "Threaded galvanized risers in older buildings choke down over time and leak at their joints. In the River Market, we repipe single units and coordinate with building management when a shared riser is involved, using PEX or copper for better pressure and fewer leak points. Routes are planned around exposed brick and timber so the look of the space is preserved."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation near the river and in tight urban ground",
+        "p": "Digging in the River Market means old brick, buried utilities close together, and sidewalks and streets that belong to the city. Underground lines are located through 811 before excavation, and work in public right-of-way may need approvals. We plan access, traffic, and neighbors into the job so a repair to a buried line stays as small as possible."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "River Market plumbing questions",
+    "items": [
+      {
+        "q": "Can you find the source of a leak that shows up on a different floor?",
+        "a": "Water follows gravity and framing, so the visible stain is often far from the source. We trace from the stain upward and along the pipe runs, and we use pressure tests and smoke tests where they help, to avoid opening more than necessary."
+      },
+      {
+        "q": "What if my building has old pipe abandoned inside the walls?",
+        "a": "That is common in converted warehouses. We identify which lines are live before cutting and cap or remove abandoned pipe where it makes sense, so a forgotten line does not cause a surprise later."
+      },
+      {
+        "q": "Do you coordinate with property managers?",
+        "a": "Yes. Many River Market jobs involve shutoffs, elevator use, and access to shared areas, so we schedule around the building's requirements and communicate clearly."
+      },
+      {
+        "q": "Is a musty smell near the river a plumbing issue?",
+        "a": "It can be. A slow leak, a dry trap, or a damp drain line can cause it, and so can moisture from outside. We check the plumbing first because it is the quickest thing to rule in or out."
+      },
+      {
+        "q": "Do you install water heaters in shared mechanical rooms?",
+        "a": "Yes, with the building's approval. We check clearances, venting, and shutoffs, and we coordinate timing with management so the whole building is not without hot water longer than needed."
+      },
+      {
+        "q": "How do you handle shutoffs for a whole building?",
+        "a": "We coordinate timing with the property manager and give residents notice when a building-wide shutoff is needed, then work efficiently so water is off for as short a time as possible."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "The River Market borders Downtown Kansas City, and we also serve",
+    "links": [
+      "downtown-kansas-city",
+      "north-kansas-city",
+      "midtown-kansas-city",
+      "east-side-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "River Market plumbers, ready day or night.",
+    "p": "A leak in a brick building cannot wait. Call or send your details and we will get someone moving."
+  }
+}

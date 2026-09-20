@@ -1,0 +1,124 @@
+{
+  "slug": "country-club",
+  "name": "Country Club District",
+  "label": "Country Club District, Kansas City, MO",
+  "chip": "Country Club",
+  "tile": "Country Club",
+  "region": "kc-core",
+  "order": 11,
+  "description": "Country Club District plumber for large historic homes: repipes, sewer excavation, water heaters, and gas lines. Drains N More LLC, on call 24/7.",
+  "blurb": "Large historic homes along Ward Parkway and in Armour Hills, Crestwood and Sunset Hill: repipes, excavation, water heaters and gas lines.",
+  "hero": {
+    "eyebrow": "24/7 Country Club District Emergency Plumber",
+    "h1": "Country Club District plumber for large historic homes and tree-lined streets.",
+    "sub": "The Country Club District's Tudor, Colonial, and Georgian homes were built to last, and their plumbing has done exactly that, with a few generations of repairs. Drains N More LLC handles repipes, sewer lines, water heaters, and gas work, and answers emergencies at any hour.",
+    "badge": "Country Club Plumbers",
+    "sideH2": "Careful work for large, well-loved homes.",
+    "bullets": [
+      "Repipes that protect original plaster and finishes",
+      "Excavation planned around old trees and landscaping",
+      "Water heaters and gas lines for large households"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in the Country Club District",
+    "h2": "Grand homes, old trees, and pipes that have outlived several owners.",
+    "paras": [
+      "The Country Club District was developed by J.C. Nichols starting in the early twentieth century, with curving, tree-lined streets, Ward Parkway's fountains, and neighborhoods such as Armour Hills, Crestwood, and Sunset Hill. Many of the homes date to the 1920s and 1930s and are larger, with multiple bathrooms, finished basements, and detailed plaster and woodwork.",
+      "Homes of that age and size generate a particular set of plumbing calls. Galvanized or early copper supply lines are approaching the end of their life. Cast iron drains have corroded from the inside. Clay sewer laterals run a long way from the house under large lawns and big trees, and roots find every joint.",
+      "Because the finishes are worth protecting, how we do the work matters as much as what we do. We plan repipes to limit wall openings, route around original plaster where possible, and explain in advance what will be opened and how it will be closed.",
+      "Bathrooms are numerous and often original, with tile that is expensive to disturb. When a leak is behind tile, we look for access from the other side, such as a basement ceiling or an adjacent closet, before cutting into finished surfaces.",
+      "Many homes in the district have been renovated by owners who wanted modern kitchens and bathrooms without losing the character of the original house. That often means plumbing that was moved or extended to fit a new layout, sometimes with a mix of materials and old runs left in place. We trace what is live before we cut, and we tell you what we find so future renovations start with better information than the last one did.",
+      "Ward Parkway and the streets around it also have mature trees, boulevard medians, and utility corridors that limit where a trench can go. When excavation is unavoidable, we walk the route with you, mark where the line runs, and talk through how the yard and any plantings will be handled before we bring in equipment."
+    ],
+    "sideTitle": "Where we work in the Country Club District",
+    "chips": [
+      "Ward Parkway",
+      "Armour Hills",
+      "Crestwood",
+      "Sunset Hill",
+      "Wornall Road",
+      "Near Loose Park",
+      "Near Brookside",
+      "Near the Plaza"
+    ]
+  },
+  "services": {
+    "eyebrow": "Country Club District services",
+    "h2": "Plumbing that respects large historic homes.",
+    "cards": [
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes that protect plaster and tile",
+        "p": "In a large historic home, a repipe is a planning exercise. We map the supply lines, choose PEX or copper routes that use basements, closets, and existing chases, and open as little finished wall as possible. Galvanized steel and aging copper are the usual candidates for replacement, and we explain which sections need attention now and which can wait."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for long sewer and water lines",
+        "p": "Large lots and mature trees mean long runs between the street and the house. After a camera inspection pinpoints the failure, we schedule the utility locates, plan a trench route around major roots and landscaping, and discuss restoration before we begin. Where a smaller repair will do, we say so instead of recommending a bigger dig."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for large households and multiple baths",
+        "p": "A big house with several bathrooms needs a water heater sized for real use. We replace tank and tankless units, talk through capacity and recirculation options for distant bathrooms, and check venting, gas connections, and relief piping. Older basements sometimes need modest changes to meet current requirements, and we tell you up front."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for ranges, fireplaces, and outdoor living",
+        "p": "Historic homes often have gas at the range, the furnace, and one or more fireplaces, plus new demands like grills and patio heaters. We replace worn piping, size new lines for the appliances they feed, pressure test everything, and check every fitting. Permit rules differ by city, and we explain what your project needs. Gas in the air means leaving the house and calling 911."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests before you buy or renovate",
+        "p": "A smoke test through the drain and vent system finds openings you cannot see: a cracked vent behind a wall, a disconnected cleanout, or a dry trap in an unused bathroom. It is a valuable check before buying an older home and before starting a renovation that will close up walls."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation in original bathrooms",
+        "p": "Original bathrooms have original floors, and original floors have flanges that are decades old. We check the flange, fix what we can without disturbing tile, and set new toilets level on fresh seals. If you want a specific model, tell us the make and we will confirm the rough-in dimensions match before installation day."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Country Club District plumbing questions",
+    "items": [
+      {
+        "q": "Can you replace old pipes without wrecking my plaster walls?",
+        "a": "We plan repipes to use access points like basements and closets and to limit wall openings, and we tell you in advance what will be opened. Some plaster repair is sometimes unavoidable, but careful planning keeps it minimal."
+      },
+      {
+        "q": "How do I know if my sewer line has tree roots in it?",
+        "a": "Slow drains, gurgling, and repeated backups are common signs, and a camera inspection shows exactly what is in the line. From there, we can recommend cleaning, spot repair, or replacement."
+      },
+      {
+        "q": "Should I replace all the galvanized pipe at once?",
+        "a": "It depends on its condition and your plans. If you are renovating or seeing frequent leaks, a full repipe often makes sense. If the pipe is holding up, targeted work may be enough, and we lay out both."
+      },
+      {
+        "q": "Can you work around a renovation schedule?",
+        "a": "Yes. We coordinate with contractors on rough-in timing so plumbing is in place before walls are closed."
+      },
+      {
+        "q": "Do you handle emergency repairs at night?",
+        "a": "Yes, 24 hours a day, seven days a week."
+      },
+      {
+        "q": "Do you work with architects and interior designers?",
+        "a": "Yes. We coordinate on fixture locations and rough-in dimensions so plumbing supports the design rather than fighting it."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "The Country Club District borders the Plaza and Brookside, and we also serve",
+    "links": [
+      "plaza",
+      "brookside",
+      "waldo",
+      "midtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Country Club plumbers on call, day or night.",
+    "p": "Older homes deserve careful work. Call or send your details and we will schedule a visit."
+  }
+}

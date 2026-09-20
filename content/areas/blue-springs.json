@@ -1,0 +1,122 @@
+{
+  "slug": "blue-springs",
+  "name": "Blue Springs",
+  "label": "Blue Springs, MO",
+  "chip": "Blue Springs",
+  "tile": "Blue Springs",
+  "region": "east-jackson",
+  "order": 15,
+  "description": "Blue Springs plumber for family homes: water heaters, toilet installs, polybutylene repipes, and 24/7 emergencies from Drains N More LLC.",
+  "blurb": "Water heaters, toilets and repipes for family homes off Woods Chapel Road, R.D. Mize Road and Adams Dairy Parkway.",
+  "hero": {
+    "eyebrow": "24/7 Blue Springs Emergency Plumber",
+    "h1": "Blue Springs plumber for family homes: water heaters, toilets, repipes, and emergencies.",
+    "sub": "Blue Springs homes are built for busy households, and their plumbing works hard. Drains N More LLC handles everything from a failed water heater to a whole-home repipe, with same-day response when something cannot wait.",
+    "badge": "Blue Springs Plumbers",
+    "sideH2": "Plumbing for busy Blue Springs households.",
+    "bullets": [
+      "Water heaters sized for family demand",
+      "Toilet installs across multiple bathrooms",
+      "Repipes for homes built in the 1970s to 1990s"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Blue Springs",
+    "h2": "Why Blue Springs plumbing needs a plan, not a patch.",
+    "paras": [
+      "Blue Springs has grown into one of the larger cities on the east side of the metro, with much of its housing built from the 1970s onward. Neighborhoods off Woods Chapel Road, R.D. Mize Road, and Adams Dairy Parkway are full of family homes with bathrooms on more than one level, finished basements, and garages that often double as utility space. Fleming Park and its lakes are a local favorite, and I-70 and Highway 40 connect the city to Kansas City.",
+      "Homes built in that window can have plumbing quirks worth knowing about. Polybutylene supply lines were used in many homes from the late 1970s through the mid-1990s and have a track record of failing at their fittings. Water heaters in garages and basements have worked hard for years. And fixtures multiply: more bathrooms means more toilets, more supply lines, and more chances for a slow leak to go unnoticed.",
+      "Our approach here is to look at the whole system before proposing work, so a single repair does not turn into five separate ones over the next year.",
+      "Because many homes in a subdivision were built within a few years of each other, the same plumbing issues tend to show up house after house. A water heater that fails early on one street often means its neighbors are next, and knowing which subdivision you live in helps us anticipate what we are likely to find before we arrive."
+    ],
+    "sideTitle": "Where we work in Blue Springs",
+    "chips": [
+      "Downtown Blue Springs",
+      "Woods Chapel Road",
+      "R.D. Mize Road",
+      "Adams Dairy Parkway",
+      "Fleming Park area",
+      "Highway 40 corridor",
+      "Interstate 70 area",
+      "South Blue Springs"
+    ]
+  },
+  "services": {
+    "eyebrow": "Blue Springs services",
+    "h2": "Blue Springs plumbing services, room by room.",
+    "cards": [
+      {
+        "key": "toilet",
+        "h3": "Toilet installation across every bathroom",
+        "p": "Family homes here often have a toilet on every level, and replacing them one at a time gets old. We install several in a single visit: new supply lines, fresh seals, level bowls, and a full flush test on each. If a toilet keeps running or rocks after a previous install, we check the flange and fill valve rather than swapping parts and hoping."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heaters for households that use hot water hard",
+        "p": "Laundry, dishes, and back-to-back showers test a water heater in a family home. We replace tank units in garages, basements, and closets, and we install tankless models where gas capacity and venting allow. We check the venting and relief piping on every install, and we talk through capacity so the new unit does not run out mid-shower."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes, including polybutylene replacement",
+        "p": "If your Blue Springs home was built between the late 1970s and mid-1990s, it is worth checking whether the supply lines are polybutylene, the gray or blue plastic pipe with a reputation for failing at its fittings. We replace it, along with tired galvanized and corroded copper, using PEX or copper, and we plan the work to limit how many walls get opened."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke testing for finished basements and vent problems",
+        "p": "Finishing a basement can bury cleanouts and disturb vent connections, and the first hint is often a sewer smell that comes and goes. Non-toxic smoke pushed through the drain and vent lines shows every opening: a loose roof vent, a cracked pipe behind a wall, an open cleanout. It is faster and less invasive than tearing into drywall to guess."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation around big yards and sprinkler systems",
+        "p": "Blue Springs lots often include irrigation zones, invisible fence lines, and mature trees. A call to 811 gets buried utilities marked before we dig, and we route the trench to avoid what we can. Whether it is a broken water service, a sagging sewer line, or a collapsed section, we go over the plan and the cleanup steps before the dig begins."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas repipes and new lines for grills, dryers, and fire pits",
+        "p": "Adding a gas dryer, patio grill, or fire pit means new piping, and older gas lines sometimes need replacing before they can carry the extra load. We size the line, install it, pressure test it, and leak check every joint. Permit rules are set city by city, so we can walk through what a Blue Springs address requires. Smell gas? Leave and call 911 first."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Blue Springs plumbing FAQ",
+    "items": [
+      {
+        "q": "How do I tell if my home has polybutylene pipe?",
+        "a": "Look at the supply lines near your water heater, where they enter the house, or under sinks. Polybutylene is usually gray, blue, or black plastic, often stamped with a marking like PB2110. If you are unsure, we can identify it during a visit and give you repair or replacement options."
+      },
+      {
+        "q": "Can you install several toilets in one appointment?",
+        "a": "Yes. Bring the toilets you have chosen, or ask us for suggestions, and we can schedule all the bathrooms together."
+      },
+      {
+        "q": "What does a smoke test find that a camera cannot?",
+        "a": "A camera shows the inside of a drain line. Smoke shows where the drain and vent system leaks into the house or yard, including vent problems a camera would never see. The two tools answer different questions."
+      },
+      {
+        "q": "Is a water heater in the garage a problem?",
+        "a": "Not by itself, but it has specific requirements: gas units should be raised off the floor, protected from vehicle impact, and vented safely. We install to those requirements and can tell you whether an existing setup needs changes."
+      },
+      {
+        "q": "How often should a water heater be flushed?",
+        "a": "Many manufacturers recommend flushing a tank at least once a year to clear sediment, though the right interval depends on your water and the unit. We can check the condition of your heater and tell you what makes sense."
+      },
+      {
+        "q": "How do I stop a leaking toilet supply line?",
+        "a": "Turn the small shutoff valve on the wall or floor behind the toilet clockwise until it stops. If it will not close, shut off the main water valve and call us so we can replace the valve and line."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Blue Springs neighbors Independence, and we also serve",
+    "links": [
+      "independence",
+      "lees-summit",
+      "raytown",
+      "downtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Blue Springs plumbers ready when you call.",
+    "p": "Water heater down, toilet leaking, or a repipe quote you have been putting off? Call or send a request and we will follow up."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "belton",
+  "name": "Belton",
+  "label": "Belton, MO",
+  "chip": "Belton",
+  "tile": "Belton",
+  "region": "south-metro",
+  "order": 19,
+  "description": "Belton plumber for older town homes and new Cass County subdivisions: water heaters, toilets, gas lines, and excavation. Drains N More LLC, 24/7.",
+  "blurb": "Water heaters, toilets, gas lines and excavation for older Belton homes and newer Cass County subdivisions along Highway 58.",
+  "hero": {
+    "eyebrow": "24/7 Belton Emergency Plumber",
+    "h1": "Belton plumber for older town homes, new subdivisions, and Cass County growth.",
+    "sub": "Belton mixes an older town core with newer subdivisions on the south edge of the Kansas City metro. Drains N More LLC serves both, handling water heaters, toilets, gas lines, and excavation and answering emergencies at any hour.",
+    "badge": "Belton Plumbers",
+    "sideH2": "Plumbing for old Belton and new Belton.",
+    "bullets": [
+      "Water heaters for growing households",
+      "Toilet installs across multiple bathrooms",
+      "Excavation for long service lines"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Belton",
+    "h2": "A growing Cass County city with an older core.",
+    "paras": [
+      "Belton is a Cass County city on the south edge of the Kansas City metro, along Highway 58 and the I-49 and Highway 71 corridor. It has an older town center and has grown quickly as newer neighborhoods have filled in around it, drawing families looking for more space within reach of the city.",
+      "Older homes near the town center have the plumbing you would expect from their age: cast iron drains, clay sewer laterals, and galvanized or early copper supply lines. Newer subdivisions on the outskirts have modern piping and larger footprints, with several bathrooms and higher demand for hot water and gas.",
+      "That growth means a lot of newer homes in their first decade, where the common calls are about capacity: a water heater that cannot keep up, a bathroom that needs a second toilet, a gas line for the patio. Older homes bring repair and replacement calls of a different kind.",
+      "Because Belton is at the edge of our service area, we plan visits carefully: confirming your address, giving a realistic window, and coordinating so you are not waiting around. Emergencies always take priority. Emergencies always come first, and we call ahead when we are close.",
+      "New neighborhoods in and around Belton often come with homeowner associations and covenants that affect what can be done outside the house, such as where excavation can occur or how yards must be restored. When a job involves digging, we ask about any requirements up front so the plan works for you and for the association, and so there are no surprises after the trench is open.",
+      "Cass County's growth has put many homes on plumbing that is only a few years old, and more owners are discovering the difference between builder-grade and higher-quality fixtures. Toilets that clog, water heaters that cannot keep up, and faucets that drip within a few years are common reasons to call, and often the fix is a better fixture or a larger heater rather than a bigger repair.",
+      "Older Belton neighborhoods near the town center have mature trees and streets laid out long before modern subdivisions. Sewer lines there can be clay or cast iron, and the same root and joint problems that affect older neighborhoods across the metro show up here too. A camera inspection is the quickest way to know what you have and what it needs.",
+      "Because Belton borders the fast-growing Raymore and Grandview areas, traffic on Highway 58 and the I-49 corridor can affect arrival times at rush hour. We account for that when we give you a window, call ahead if anything changes, and put emergencies first so a leak or a backup is dealt with as soon as we can reach you."
+    ],
+    "sideTitle": "Where we work in Belton",
+    "chips": [
+      "Highway 58",
+      "I-49 and Highway 71",
+      "Downtown Belton",
+      "Near Grandview",
+      "Cass County",
+      "Newer subdivisions",
+      "Near Raymore",
+      "Central Belton"
+    ]
+  },
+  "services": {
+    "eyebrow": "Belton services",
+    "h2": "Plumbing for Belton's old town and new subdivisions.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heaters for growing households",
+        "p": "In a newer Belton home, hot water demand grows with the household: a second shower running, a dishwasher, a load of laundry. If your heater runs out before everyone is done, sizing is likely the issue. We size replacements to real use, recommend tankless where the gas supply supports it, and install an expansion tank when your plumbing is a closed system."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation across multiple bathrooms",
+        "p": "Several bathrooms means several toilets, and replacing them one at a time gets old. We install multiple toilets in a single visit with new supply lines, fresh seals, level bowls, and a full flush test on each."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for long service and sewer lines",
+        "p": "Larger lots and newer subdivisions on the edge of town mean longer runs of buried pipe. After a camera inspection shows where a failure sits, we arrange the utility locates, plan the trench around landscaping and irrigation, and explain restoration before we begin. Rock and clay are common, so we set expectations on timing."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas lines for outdoor kitchens and generators",
+        "p": "New homes often add outdoor kitchens, fire pits, and standby generators, all of which draw gas. We calculate the total load, run new piping, pressure test, and check every joint. Permits depend on the city and the job. If gas is ever in the air, leave and call 911."
+      },
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for older homes",
+        "p": "Homes near Belton's original center may still have galvanized or early copper supply piping that has outlived its usefulness. A repipe with PEX or copper restores flow and removes recurring leak points. We plan the route to minimize wall openings and work around original finishes."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests after remodels and finishing work",
+        "p": "Finishing a basement or adding a room in Belton can leave a vent line disturbed or a cleanout hidden, and a faint sewer smell is often the first sign. Smoke testing shows exactly where odor escapes from the drain and vent system, so repairs are targeted and walls are not opened at random."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Belton plumbing questions",
+    "items": [
+      {
+        "q": "Do you serve Belton and Raymore?",
+        "a": "Yes. Call with your address and we will confirm timing."
+      },
+      {
+        "q": "How do I size a water heater for a new home?",
+        "a": "Count the bathrooms, the people, and the times you use hot water at once. We size to real use rather than the minimum and walk through tank and tankless options for your gas supply and space."
+      },
+      {
+        "q": "Can you install several toilets in one visit?",
+        "a": "Yes. Bring the toilets you chose or ask us for suggestions."
+      },
+      {
+        "q": "What should I know before excavation?",
+        "a": "Buried utilities must be marked through 811, and we plan around landscaping. We explain the plan before we dig."
+      },
+      {
+        "q": "Are you available for emergencies at night?",
+        "a": "Yes, 24 hours a day. Call any hour and we will give you a realistic arrival window and tell you what to do while you wait."
+      },
+      {
+        "q": "Do homeowner associations affect plumbing work?",
+        "a": "They can, mostly for anything visible outside the house or involving digging. We ask about your association's rules when we plan a job so the work fits them."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Belton sits south of Grandview, and we also serve",
+    "links": [
+      "grandview",
+      "lees-summit",
+      "raytown",
+      "south-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Belton plumbers ready when you call.",
+    "p": "Old town or new subdivision, call or send your details and we will follow up."
+  }
+}

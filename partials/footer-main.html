@@ -1,0 +1,65 @@
+<div class="mx-auto max-w-7xl px-4 pt-12">
+  <div class="rounded-3xl bg-gradient-to-r from-blue-800 via-brand-600 to-orange-500 p-6 shadow-soft sm:p-8">
+    <div class="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+      <div>
+        <p class="flex items-center gap-2 text-xs font-extrabold uppercase tracking-[0.2em] text-sky-100"><span class="live-dot" aria-hidden="true"></span>On call 24 hours a day</p>
+        <h2 class="mt-2 text-2xl font-black tracking-[-0.04em] text-white sm:text-3xl">Plumbing emergency? Call now.</h2>
+      </div>
+      <div class="flex flex-col gap-3 sm:flex-row">
+        <a href="tel:+18167051538" class="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-bold text-slate-900 hover:bg-slate-100">Call (816) 705-1538</a>
+        <a href="sms:+18167051538?body=Hi%20Drains%20N%20More%20LLC,%20I%20need%20a%20plumbing%20estimate." class="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/10 px-6 py-3 text-sm font-bold text-white hover:bg-white/20">Text us</a>
+        <a href="{{L_contact}}" class="inline-flex items-center justify-center rounded-full border border-white/40 bg-white/10 px-6 py-3 text-sm font-bold text-white hover:bg-white/20">Request service</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mx-auto grid max-w-7xl gap-10 px-4 py-12 lg:grid-cols-[17rem_1fr]">
+  <div>
+    <a href="/" class="block">
+      <div class="text-xl font-black text-white">Drains N More LLC</div>
+      <div class="mt-1 text-[10px] font-bold uppercase tracking-[0.22em] text-slate-400">{{TAGLINE}}</div>
+    </a>
+    <p class="mt-4 text-sm leading-6 text-slate-400">Drain, sewer, water heater, gas line, and repipe work across Kansas City, Missouri and the surrounding metro.</p>
+    <ul class="mt-4 space-y-1 text-sm">
+      <li><a href="tel:+18167051538" class="block py-2 font-semibold text-white hover:text-sky-200">(816) 705-1538</a></li>
+      <li><a href="mailto:drainsnmorellc@gmail.com" class="block py-2 font-semibold text-slate-200 hover:text-white">drainsnmorellc@gmail.com</a></li>
+      <li class="py-1 text-slate-400">Kansas City, MO 64118</li>
+      <li class="py-1 text-slate-400">Open 24 hours, Monday through Sunday</li>
+    </ul>
+    <div class="mt-4 flex flex-wrap gap-2 text-xs font-bold">
+      <a href="https://g.page/r/CUETYwFSqc1xEAE" rel="noopener" target="_blank" class="rounded-full border border-white/15 bg-white/5 px-4 py-2.5 text-slate-200 hover:bg-white/10">Google reviews</a>
+      <a href="https://www.facebook.com/profile.php?id=61594243250978" rel="noopener" target="_blank" class="rounded-full border border-white/15 bg-white/5 px-4 py-2.5 text-slate-200 hover:bg-white/10">Facebook</a>
+    </div>
+  </div>
+  <div class="grid grid-cols-2 gap-x-6 gap-y-8 text-sm sm:grid-cols-3 xl:grid-cols-5">
+    <nav aria-label="Services">
+      <a href="/services/" class="inline-block py-2 text-xs font-bold uppercase tracking-wide text-slate-400 hover:text-white">Services</a>
+      <ul class="mt-3 flex flex-col">
+        <li><a href="/services/emergency-drain-cleaning/" class="block py-1.5 text-slate-200 hover:text-white">Emergency Drain Cleaning</a></li>
+        <li><a href="/services/sewer-line-repair/" class="block py-1.5 text-slate-200 hover:text-white">Sewer Line Repair</a></li>
+        <li><a href="/services/water-heater-repair/" class="block py-1.5 text-slate-200 hover:text-white">Water Heater Repair</a></li>
+        <li><a href="/services/gas-line-services/" class="block py-1.5 text-slate-200 hover:text-white">Gas Line Services</a></li>
+        <li><a href="/services/smoke-testing/" class="block py-1.5 text-slate-200 hover:text-white">Smoke Testing</a></li>
+      </ul>
+    </nav>
+    {{> areas-list}}
+  </div>
+</div>
+<div class="border-t border-white/10">
+  <div class="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-6 text-sm text-slate-400 lg:flex-row lg:items-center lg:justify-between">
+    <nav aria-label="Quick links" class="flex flex-wrap gap-x-5 gap-y-1 font-semibold">
+      <a href="{{L_top}}" class="inline-block py-2 text-slate-200 hover:text-white">Home</a>
+      <a href="/areas/" class="inline-block py-2 text-slate-200 hover:text-white">Service areas</a>
+      <a href="/services/" class="inline-block py-2 text-slate-200 hover:text-white">Services</a>
+      <a href="{{L_about}}" class="inline-block py-2 text-slate-200 hover:text-white">About</a>
+      <a href="{{L_reviews}}" class="inline-block py-2 text-slate-200 hover:text-white">Reviews</a>
+      <a href="{{L_contact}}" class="inline-block py-2 text-slate-200 hover:text-white">Contact</a>
+      <a href="/sitemap/" class="inline-block py-2 text-slate-200 hover:text-white">Site map</a>
+      <a href="#top" class="inline-block py-2 text-brand-400 hover:text-white">Back to top &uarr;</a>
+    </nav>
+    <div class="flex flex-col gap-1 sm:flex-row sm:gap-6">
+      <span>&copy; <span id="year"></span> Drains N More LLC{{FOOTER_SUFFIX}}</span>
+      <span>Open 24 Hours &bull; Mon - Sun</span>
+    </div>
+  </div>
+</div>

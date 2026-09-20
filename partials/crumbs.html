@@ -1,0 +1,10 @@
+<nav aria-label="Breadcrumb" class="mx-auto flex max-w-7xl flex-wrap items-center gap-x-4 gap-y-2 px-4 pt-5 text-sm text-slate-500">
+  <a href="{{CRUMB_HREF}}" data-back class="inline-flex items-center gap-1 rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-bold text-slate-700 transition hover:border-brand-400 hover:text-brand-600"><span aria-hidden="true">&larr;</span> Back</a>
+  <ol class="flex flex-wrap items-center gap-x-2 gap-y-1">
+    <li><a href="/" class="font-semibold text-brand-600 hover:underline">Home</a></li>
+    <li aria-hidden="true">&rsaquo;</li>
+    <li><a href="{{CRUMB_HREF}}" class="font-semibold text-brand-600 hover:underline">{{CRUMB_PARENT}}</a></li>
+    <li aria-hidden="true">&rsaquo;</li>
+    <li aria-current="page" class="text-slate-700">{{CRUMB_CURRENT}}</li>
+  </ol>
+</nav>

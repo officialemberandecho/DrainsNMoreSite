@@ -1,0 +1,122 @@
+{
+  "slug": "independence",
+  "name": "Independence",
+  "label": "Independence, MO",
+  "chip": "Independence",
+  "tile": "Independence",
+  "region": "east-jackson",
+  "order": 13,
+  "description": "Drains N More LLC serves Independence, MO with 24/7 emergency plumbing, drain cleaning, water heater repair, repiping, and leak detection.",
+  "blurb": "Repipes, sewer excavation and water heater work for Independence's oldest homes around the Square and Truman Road.",
+  "hero": {
+    "eyebrow": "24/7 Independence Emergency Plumber",
+    "h1": "Independence, MO plumber for older homes: repipes, water heaters, gas lines, and more.",
+    "sub": "Independence has some of the oldest housing in the metro, and its plumbing shows it. Drains N More LLC repairs and replaces what time has worn out, from galvanized supply lines to failing water heaters. Call day or night for same-day emergency help.",
+    "badge": "Independence Plumbers",
+    "sideH2": "Careful work for older Independence homes.",
+    "bullets": [
+      "Repipes for galvanized and aging supply lines",
+      "Excavation for deep, root-bound sewer lines",
+      "Smoke tests to trace sewer gas and vent leaks"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Independence",
+    "h2": "Where the trails began, and the plumbing is older to match.",
+    "paras": [
+      "Independence is one of Jackson County's two county seats, an outfitting point for the Santa Fe, Oregon, and California trails, and the hometown of President Harry S. Truman. Historic Independence Square, the Truman Library and Museum, and the National Frontier Trails Museum draw visitors, but the neighborhoods around them are what shape our work.",
+      "Streets off Truman Road, Noland Road, and the US-24 corridor include homes that go back many decades, and some go back further. Older houses often have galvanized supply lines, cast iron or clay drains, and shutoff valves that have not turned in a generation. Mature trees are everywhere, and their roots are hard on old sewer joints.",
+      "Homes from the earliest part of the last century may also still have a lead service line between the street and the meter. That is worth confirming with your water utility before any repipe work is planned.",
+      "Independence has more than one historic district, and older homes near the Square and along the trail-era streets often carry additions from several decades. That means mixed materials in a single house: galvanized in one room, copper in another, and plastic where a bathroom was added later. We map what is where before recommending a repipe, so you pay only for the sections that actually need replacing."
+    ],
+    "sideTitle": "Where we work in Independence",
+    "chips": [
+      "Independence Square area",
+      "Truman Road",
+      "Noland Road",
+      "US-24 corridor",
+      "Highway 40 area",
+      "Truman neighborhood",
+      "South Independence",
+      "East Independence"
+    ]
+  },
+  "services": {
+    "eyebrow": "Independence services",
+    "h2": "Plumbing work Independence homes ask for most.",
+    "cards": [
+      {
+        "key": "repipe",
+        "h3": "Whole-home repipes for galvanized and vintage supply lines",
+        "p": "Galvanized steel pipe rusts from the inside out, choking water flow until showers barely run and hot water arrives lukewarm. Many older Independence homes still have it. We repipe entire houses with PEX or copper, work carefully around plaster and older finishes, and flag the service line from the street when it is a concern so you can plan for it."
+      },
+      {
+        "key": "dig",
+        "h3": "Excavation for deep clay and cast iron sewer lines",
+        "p": "Older Independence sewer lines are often clay tile or cast iron laid deep, and worn joints let roots in year after year. When cleaning alone cannot solve it, digging down to replace the failed section can. We coordinate 811 locates, plan the trench around big trees and foundations, and explain the scope before we dig. A camera inspection comes first, so we open the ground in the right spot."
+      },
+      {
+        "key": "wh",
+        "h3": "Water heater replacement in old basements",
+        "p": "Old basements bring narrow stairs, low ceilings, and venting that has been altered over the years. We replace tank and tankless water heaters in those spaces, inspect the flue and gas connections, and bring the piping up to current standards. If your heater is more than about ten years old and leaking, replacement will likely serve you better than a repair."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for sewer gas, roots, and stormwater intrusion",
+        "p": "In older neighborhoods, sewer gas can escape through cracked lines, dried traps, or vents that were capped or altered decades ago. Smoke testing shows where the system leaks. It can also reveal places where surface water finds its way into aging sewer pipe, a common problem with old clay."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation to replace older, wasteful models",
+        "p": "Older toilets can use several gallons per flush, and many are cracked, stained, or wobbling on a tired floor flange. We install modern water-saving models, repair the flange if it is damaged, and test the seal and flush before we leave. We can also check the shutoff valve, since many old ones will not close completely."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas repipes when you remodel a kitchen or laundry",
+        "p": "Kitchen and laundry remodels are when old gas pipe gets exposed. Sometimes it is fine and sometimes it is corroded or awkwardly routed. We can relocate or replace the piping, pressure test it, and check every joint for leaks. Permits and inspections depend on where you live and what the job involves, so we cover that when we quote. And a gas smell is always a reason to leave and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Independence plumbing questions",
+    "items": [
+      {
+        "q": "How can I tell if my galvanized pipes need replacing?",
+        "a": "Low water pressure at multiple fixtures, brownish water after it sits, and visible rust or flaking at connections are the usual signs. Cutting into a pipe often shows the inside has narrowed. We can assess a few spots and explain what we find."
+      },
+      {
+        "q": "Could my house have a lead service line?",
+        "a": "Homes from the early twentieth century sometimes do. Your water utility can tell you what material your service line is, and we can identify pipe inside the house. If lead turns up, it changes how you plan a repipe."
+      },
+      {
+        "q": "What causes sewer backups in older Independence neighborhoods?",
+        "a": "Roots in clay joints, sags that hold water, collapsed sections, and years of grease and buildup are the usual suspects. A camera inspection shows which one you have, which decides whether cleaning or excavation makes sense."
+      },
+      {
+        "q": "Do I need a permit for a gas line repipe?",
+        "a": "Requirements differ by city and by the scope of the work. We can tell you what applies to your project when we quote it."
+      },
+      {
+        "q": "Will you work around original details in my home?",
+        "a": "We take care with original floors, trim, and plaster and plan access to disturb as little as possible. If your home is in a historic district with rules about exterior work, check with the city before any excavation begins."
+      },
+      {
+        "q": "How long can a clay sewer line last?",
+        "a": "Clay can serve for many decades, but joints loosen and roots find them. Age alone does not mean replacement. A camera inspection shows the actual condition so you can decide between cleaning, spot repair, and replacement."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Also serving nearby",
+    "links": [
+      "raytown",
+      "blue-springs",
+      "lees-summit",
+      "midtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Independence plumbers on call around the clock.",
+    "p": "Old pipes fail at inconvenient times. Call or send your details, and we will get you scheduled."
+  }
+}

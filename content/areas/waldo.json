@@ -1,0 +1,124 @@
+{
+  "slug": "waldo",
+  "name": "Waldo",
+  "label": "Waldo, Kansas City, MO",
+  "chip": "Waldo",
+  "tile": "Waldo",
+  "region": "kc-core",
+  "order": 8,
+  "description": "Waldo plumber for 1930s and 1940s homes: water heaters, toilets, sewer excavation, and repipes. Drains N More LLC answers Waldo calls 24/7.",
+  "blurb": "Water heaters, toilets and sewer repairs for the 1930s and 1940s homes around Wornall Road and 75th Street.",
+  "hero": {
+    "eyebrow": "24/7 Waldo Emergency Plumber",
+    "h1": "Waldo plumber for 1930s and 1940s homes, family basements, and busy weekends.",
+    "sub": "Waldo mixes brick homes, cape cods, and bungalows around 75th Street and Wornall Road. Drains N More LLC handles the water heaters, drains, and supply lines those homes depend on and answers emergencies at any hour.",
+    "badge": "Waldo Plumbers",
+    "sideH2": "Neighborhood plumbing, done right.",
+    "bullets": [
+      "Water heater replacement in family basements",
+      "Toilet installs in older bathrooms",
+      "Sewer excavation on established lots"
+    ]
+  },
+  "about": {
+    "eyebrow": "Plumbing in Waldo",
+    "h2": "A walkable neighborhood built in the 1930s and 1940s, plumbed to match.",
+    "paras": [
+      "Waldo is a south Kansas City neighborhood centered on 75th Street and Wornall Road, with a walkable commercial strip, local restaurants, and residential streets that fill in the blocks around it. Much of the housing was built in the 1930s and 1940s: brick cottages, cape cods, and modest two-story homes with basements and detached garages.",
+      "Homes of that era typically have cast iron drains, clay sewer laterals, and galvanized or copper supply lines. Basement plumbing is often the first place problems show up: floor drains that back up, water heaters that leak at the tank, and supply lines that have corroded where they meet fittings.",
+      "Many Waldo homes have been updated over the years by owners who bought, renovated, and sold, leaving a mix of materials and workmanship behind the walls. When we open a wall or a floor drain, we often find a patchwork of repairs, and mapping it before we start keeps the fix focused.",
+      "Families in Waldo tend to use their basements: laundry, playrooms, home offices. A plumbing failure below can mean wet flooring and stored belongings, so speed matters. We prioritize stopping the water and then explain the permanent repair.",
+      "The commercial strip at 75th and Wornall is a gathering place, and the residential blocks around it feel the traffic on weekends and evenings. When we work in the neighborhood, we plan where to park, keep driveways and sidewalks clear, and let neighbors know if a job will involve noise or equipment. Homeowners here often work from home, so we also confirm timing and tell you when to expect noise, such as a drain machine or an excavator. Small, walkable streets deserve considerate work, and we treat them that way.",
+      "A lot of Waldo houses have detached garages and long side yards, and older sewer laterals often run from the back or side of the house toward the street or an alley. When a camera inspection follows the line, it tells us where the pipe actually goes, which is not always where a homeowner expects. Knowing the route before we dig saves time and keeps the excavation as small as possible, and it means fewer surprises for you and for the yard."
+    ],
+    "sideTitle": "Where we work in Waldo",
+    "chips": [
+      "75th Street",
+      "Wornall Road",
+      "Holmes Road",
+      "Ward Parkway",
+      "Near the Waldo shops",
+      "Near Brookside",
+      "Near Loose Park",
+      "Near South Kansas City"
+    ]
+  },
+  "services": {
+    "eyebrow": "Waldo services",
+    "h2": "Everyday and emergency plumbing for Waldo homes.",
+    "cards": [
+      {
+        "key": "wh",
+        "h3": "Water heater replacement for family basements",
+        "p": "A Waldo family basement is where the laundry, the storage, and the water heater share space, so a leak can affect all three. We replace tank and tankless units, check the flue and gas connections, and install proper relief piping to a drain. If your heater is old and starting to leak, replacing it on your schedule beats replacing it in an emergency."
+      },
+      {
+        "key": "toilet",
+        "h3": "Toilet installation for older bathrooms",
+        "p": "Older bathrooms have older floors, and older floors mean flanges that have shifted or cracked. We check the flange, correct it when needed, set the new toilet level on a fresh seal, and test the fill and flush. If you are replacing more than one toilet, we can schedule them in a single visit."
+      },
+      {
+        "key": "dig",
+        "h3": "Sewer excavation on established Waldo lots",
+        "p": "Sewer lines in Waldo often run under mature lawns and past big trees. After a camera inspection shows exactly where a line has failed, we get the underground utilities located, dig only what the repair requires, and explain how the yard will be restored. Where trenchless options fit, we describe them too."
+      },
+      {
+        "key": "repipe",
+        "h3": "Repipes for galvanized and aging copper lines",
+        "p": "Galvanized supply lines lose flow as rust builds up inside, and older copper can develop pinhole leaks. We replace lines with PEX or copper, plan routes to limit wall openings, and price partial repipes when only one section has failed so you can compare options."
+      },
+      {
+        "key": "smoke",
+        "h3": "Smoke tests for basement sewer odors",
+        "p": "Basement odors in older Waldo homes usually have a short list of suspects: a floor drain whose trap has dried out, a cleanout without a cap, or a hairline crack in the vent stack. Smoke testing identifies which one, and it confirms the roof vent is open and the drains are sealed, so the repair matches the problem."
+      },
+      {
+        "key": "gas",
+        "h3": "Gas line repipes for furnaces, dryers, and ranges",
+        "p": "Original iron gas pipe in a 1930s or 1940s home can corrode at fittings. We replace worn sections, extend lines for new appliances, pressure test each run, and check joints for leaks. Whether a permit applies depends on the city and the work; we go over it when we quote. If gas is ever in the air, get everyone out and call 911."
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Waldo plumbing questions",
+    "items": [
+      {
+        "q": "How long does a water heater last?",
+        "a": "A typical tank lasts roughly eight to twelve years, depending on water quality and maintenance. If yours is older and showing rust, leaks, or noises, replacement is usually wiser than repair."
+      },
+      {
+        "q": "My basement floor drain smells. What should I do?",
+        "a": "Pour water into the drain to refill a dry trap, which is the most common cause. If the smell continues, the cause may be a crack or a cleanout, and a smoke test can find it."
+      },
+      {
+        "q": "Can you replace a toilet on a weekend?",
+        "a": "Yes. We schedule around your availability, and for emergencies we are on call every day."
+      },
+      {
+        "q": "Should I repair or replace an old sewer line?",
+        "a": "A camera inspection tells us the condition. Minor issues can be cleaned or spot repaired, while collapsed or badly cracked lines usually call for replacement. We explain both."
+      },
+      {
+        "q": "Do you offer same-day service in Waldo?",
+        "a": "For emergencies we work to arrive the same day. Call with your address and we will give you a straight answer on timing."
+      },
+      {
+        "q": "What is a camera inspection and when do I need one?",
+        "a": "A camera inspection runs a small waterproof camera through your sewer line to show cracks, roots, sags, and blockages. It is worth doing before any excavation, when buying an older home, and after repeated backups."
+      }
+    ]
+  },
+  "nearby": {
+    "lead": "Waldo sits between Brookside and south Kansas City, and we also serve",
+    "links": [
+      "brookside",
+      "south-kansas-city",
+      "country-club",
+      "midtown-kansas-city"
+    ]
+  },
+  "contact": {
+    "h2": "Waldo plumbers on call any hour.",
+    "p": "Basement floods do not keep business hours. Call or send your details and we will get moving."
+  }
+}
