@@ -54,7 +54,7 @@ for (const leadForm of document.querySelectorAll('[data-lead-form]')) {
       }
     } catch (error) {
       if (statusNode) {
-        statusNode.textContent = 'We could not send your request. Please call (816) 703-9800.';
+        statusNode.textContent = 'We could not send your request. Please call (816) 705-1538.';
         statusNode.className = 'mt-3 text-sm font-semibold text-red-300';
       }
     } finally {
